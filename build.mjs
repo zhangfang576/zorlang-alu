@@ -45,6 +45,15 @@ for (const l of LOCALES) {
 }
 
 // ---------- news ----------
+// 阅读时长：拉丁词按 200 词/分钟，中文按 400 字/分钟，最少 1 分钟
+const CJK_RE = /[\u3400-\u4dbf\u4e00-\u9fff\u3040-\u30ff]/g;
+const readingMinutes = (body) => {
+  const plain = body.replace(/[#*>`\-\[\]()|]/g, ' ');
+  const cjk = (plain.match(CJK_RE) || []).length;
+  const latin = plain.replace(CJK_RE, ' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(latin / 200 + cjk / 400));
+};
+
 const news = {};
 for (const l of LOCALES) {
   news[l.code] = [];
@@ -63,7 +72,8 @@ for (const l of LOCALES) {
       slug: file.replace(/\.md$/, ''),
       meta,
       html,
-      words: wordCount(body)
+      words: wordCount(body),
+      readMin: readingMinutes(body)
     });
   }
   news[l.code].sort((a, b) => (a.meta.date < b.meta.date ? 1 : -1));
