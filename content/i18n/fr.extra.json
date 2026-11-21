@@ -1,0 +1,254 @@
+{
+  "industries": [
+    {
+      "id": "construction",
+      "img": "app-01-construction.jpg",
+      "t": "Construction et façades",
+      "d": "Murs-rideaux, systèmes de fenêtres, toitures et bardages. 6063 pour les profilés anodisés, 3003 et 5005 pour les tôles exposées aux intempéries, 6082 là où l'assemblage reprend des charges.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "5005",
+        "6063",
+        "6082"
+      ]
+    },
+    {
+      "id": "transport",
+      "img": "app-02-automotive.jpg",
+      "t": "Transport et automobile",
+      "d": "Caisses de camions, panneaux de remorques, réservoirs de carburant et boîtiers de batteries pour véhicules électriques. 5052 pour les panneaux formés et les réservoirs, 6061 pour les pièces structurelles usinées, 5083 pour les caisses soudées lourdes.",
+      "alloys": [
+        "2017",
+        "3003",
+        "4032",
+        "4343",
+        "5052",
+        "5083",
+        "5182",
+        "5754",
+        "5A06",
+        "6005A",
+        "6061",
+        "6082",
+        "7005"
+      ]
+    },
+    {
+      "id": "marine",
+      "img": "app-04-marine.jpg",
+      "t": "Marine et offshore",
+      "d": "Coques, ponts, superstructures et accastillage. 5083 en H116 ou H321 pour les structures soudées, 5052 pour les pièces de tôlerie et les aménagements intérieurs.",
+      "alloys": [
+        "5052",
+        "5083",
+        "5A06"
+      ]
+    },
+    {
+      "id": "energy",
+      "img": "app-05-energy.jpg",
+      "t": "Énergies nouvelles et électrique",
+      "d": "Structures de fixation solaires, feuille pour batteries, barres omnibus et dissipateurs thermiques. 1050 pour la conductivité, 3003 pour les rails de fixation, 6063 pour les cadres filés et les dissipateurs.",
+      "alloys": [
+        "1050",
+        "3003",
+        "5083",
+        "6063",
+        "6101"
+      ]
+    },
+    {
+      "id": "packaging",
+      "img": "app-06-packaging.jpg",
+      "t": "Emballage et contact alimentaire",
+      "d": "Barquettes aluminium, bouchons, couvercles et emballages aseptiques. 1100 et 1050 en état O, surface de qualité alimentaire, contrôle d'épaisseur serré.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3104",
+        "5182",
+        "8011"
+      ]
+    },
+    {
+      "id": "industrial",
+      "img": "app-08-industrial.jpg",
+      "t": "Équipements industriels et électronique",
+      "d": "Bâtis de machines, protections, structures de convoyeurs et dissipateurs thermiques. 6063 pour les profilés à rainure en T et à ailettes, 6061 pour les plaques usinées, 1050 pour le blindage.",
+      "alloys": [
+        "1050",
+        "1100",
+        "2011",
+        "3003",
+        "4045",
+        "4343",
+        "5052",
+        "5754",
+        "6061",
+        "6063",
+        "6082",
+        "6101"
+      ]
+    }
+  ],
+  "equipment": [
+    [
+      "Fusion et coulée",
+      "2 lignes, fours de 12 t, coulée DC",
+      "2"
+    ],
+    [
+      "Laminage à chaud",
+      "Laminoir réversible 1 450 mm",
+      "1"
+    ],
+    [
+      "Laminage à froid",
+      "1 650 mm quarto, 0,2–6 mm",
+      "2"
+    ],
+    [
+      "Presses de filage",
+      "600–3 600 t",
+      "6"
+    ],
+    [
+      "Anodisation",
+      "10–25 µm, cuves de 6 m",
+      "2"
+    ],
+    [
+      "Découpe à longueur et refendage",
+      "0,2–6 mm, 100–2 650 mm",
+      "3"
+    ]
+  ],
+  "processSteps": [
+    [
+      "Fusion et coulée",
+      "Chimie contrôlée au spectromètre, dégazage en ligne et affinage du grain avant la coulée du lingot."
+    ],
+    [
+      "Laminage à chaud et à froid",
+      "Dégrossissage sur le laminoir réversible, puis laminage à froid avec contrôle en ligne de l'épaisseur et de la planéité."
+    ],
+    [
+      "Traitement thermique",
+      "Recuit, mise en solution et revenu enregistrés par charge de four et par lot."
+    ],
+    [
+      "Découpe et refendage",
+      "Découpe à longueur, refendage et sciage sur plan, avec validation dimensionnelle de la première pièce."
+    ],
+    [
+      "Contrôle",
+      "Dimensions, surface, propriétés mécaniques et chimie vérifiées par rapport au certificat de coulée."
+    ],
+    [
+      "Emballage",
+      "Film barrière humidité, protection des angles et cerclage acier, avec photo de chaque palette."
+    ]
+  ],
+  "tests": [
+    [
+      "Composition",
+      "Spectrométrie d'émission optique sur chaque coulée, résultats rapportés à 0,01 %."
+    ],
+    [
+      "Propriétés mécaniques",
+      "Résistance à la traction, limite d'élasticité et allongement selon ASTM E8 / EN ISO 6892."
+    ],
+    [
+      "Corrosion",
+      "Essais de brouillard salin et de corrosion intergranulaire pour les nuances marines et revêtues."
+    ],
+    [
+      "Dimensions",
+      "Épaisseur, largeur, planéité et équerrage mesurés selon la tolérance commandée."
+    ]
+  ],
+  "standardsRows": [
+    [
+      "ISO 9001",
+      "Système de management de la qualité",
+      "Toute l'entreprise"
+    ],
+    [
+      "ASTM B209",
+      "Tôle, tôle mince et bobine",
+      "Par lot"
+    ],
+    [
+      "ASTM B221 / B210",
+      "Barres et tubes filés",
+      "Par lot"
+    ],
+    [
+      "EN 485 / EN 755",
+      "Tôle, feuillard et profilés",
+      "Par lot"
+    ],
+    [
+      "SGS / BV",
+      "Inspection par tierce partie",
+      "Sur demande"
+    ]
+  ],
+  "timeline": [
+    [
+      "2006",
+      "Fondation de l'entreprise comme atelier de coulée et de laminage à Luoyang."
+    ],
+    [
+      "2012",
+      "Mise en service de la première ligne de laminage à froid ; début des exportations vers l'Asie du Sud-Est."
+    ],
+    [
+      "2018",
+      "Ajout du filage et de l'anodisation ; les exportations atteignent 30 pays."
+    ],
+    [
+      "2022",
+      "Deuxième laminoir à froid et ligne d'emballage automatisée."
+    ],
+    [
+      "2025",
+      "La capacité atteint 50 000 t par an, laminage et filage confondus."
+    ]
+  ],
+  "plantTable": [
+    [
+      "Site",
+      "Luoyang, Henan, Chine"
+    ],
+    [
+      "Surface du site",
+      "38 000 m²"
+    ],
+    [
+      "Capacité annuelle",
+      "50 000 t"
+    ],
+    [
+      "Effectif",
+      "210"
+    ],
+    [
+      "Lignes principales",
+      "Laminage, filage, anodisation, emballage"
+    ],
+    [
+      "Marchés d'exportation",
+      "Europe, Moyen-Orient, Asie du Sud-Est, Amériques"
+    ]
+  ],
+  "packingSteps": [
+    "Film barrière humidité et papier VCI sur toutes les tôles et bobines.",
+    "Cornières de protection et anneaux de rive sur chaque palette et chaque bobine.",
+    "Cerclage acier à intervalles réguliers, scellé et contrôlé en tension.",
+    "Palette photographiée et image archivée avec la liste de colisage."
+  ]
+}

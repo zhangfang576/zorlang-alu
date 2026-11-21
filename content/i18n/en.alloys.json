@@ -1,0 +1,427 @@
+{
+  "1050": {
+    "name": "Commercially pure aluminium",
+    "h1": "1050 O Aluminium Plate, Bar, Tube, Coil, Foil — GB/T 3880 · ASTM B209",
+    "metaTitle": "1050 O Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Commercially pure aluminium: 80 MPa tensile in O, supplied as plate, bar, tube, coil, foil. Foil, Conductive busbars. MTC and SGS inspection available.",
+    "intro": "1050 is commercially pure aluminium: 99.5% minimum, no alloying additions, and the highest conductivity of any grade we roll. It is the grade to specify when the job needs formability, conductivity or a bright anodised finish rather than strength. We roll it from 0.3 mm sheet to 120 mm plate, in O, H14, H24 and H18, with thickness and flatness checked on-line.",
+    "uses": [
+      "Foil",
+      "Conductive busbars",
+      "Heat sink fins",
+      "Nameplates and signage",
+      "Chemical equipment linings"
+    ],
+    "apps": [
+      {
+        "t": "Electrical and thermal conductors",
+        "d": "Busbar, heat-exchanger fins and transformer strip, where conductivity matters more than yield strength."
+      },
+      {
+        "t": "Signage and anodised trim",
+        "d": "Takes a bright, uniform anodic film — used for sign blanks, reflectors and decorative trim."
+      },
+      {
+        "t": "Deep-drawn parts",
+        "d": "Cookware, closures and lamp housings that need elongation above 20% in the O temper."
+      }
+    ],
+    "compare": {
+      "1100": "1100 adds a small copper addition for slightly higher strength and better machinability, at the cost of a little conductivity. Choose 1100 when the part is formed and machined; stay with 1050 for conductors.",
+      "3003": "3003 roughly doubles the yield strength of 1050 through manganese and still welds cleanly. Move to 3003 as soon as the part has to carry load, not just shape."
+    },
+    "qc": "Composition is verified by optical emission spectrometry on every heat. Conductivity is measured on strip, and flatness is checked on a granite table before the sheet is cut to length. Mill test certificate, dimensional report and, on request, SGS inspection are issued against the heat number."
+  },
+  "1100": {
+    "name": "Commercially pure aluminium",
+    "h1": "1100 O Aluminium Plate, Bar, Tube, Coil, Foil — GB/T 3880 · ASTM B209",
+    "metaTitle": "1100 O Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Commercially pure aluminium: 90 MPa tensile in O, supplied as plate, bar, tube, coil, foil. Nameplates and signage, Deep-drawn holloware. MTC and SGS inspection available.",
+    "intro": "1100 is 99.0% pure aluminium with a controlled copper addition. That small addition lifts strength and machinability above 1050 while keeping conductivity high and formability excellent, which is why it is the default for spun, drawn and rolled parts that also get trimmed or punched. Supplied from 0.3 mm to 100 mm, in O, H14, H24 and H18.",
+    "uses": [
+      "Nameplates and signage",
+      "Deep-drawn holloware",
+      "Heat exchangers",
+      "Packaging containers"
+    ],
+    "apps": [
+      {
+        "t": "Spinning and drawing",
+        "d": "Cookware, holloware and lamp reflectors where the metal is spun or drawn to shape."
+      },
+      {
+        "t": "Heat transfer",
+        "d": "Fins and plates in radiators and heat exchangers, thanks to high thermal conductivity."
+      },
+      {
+        "t": "Packaging and closures",
+        "d": "Caps, closures and container components that need a clean surface and tight gauge."
+      }
+    ],
+    "compare": {
+      "1050": "1050 is purer and slightly more conductive; 1100 is stronger and machines better. If the part is punched or turned after forming, 1100 usually wins.",
+      "3003": "3003 is the stronger, more corrosion-resistant option, but it anodises less brightly. Keep 1100 where surface appearance matters."
+    },
+    "qc": "Each heat is spectro-checked and the coil is slit to the ordered width in-house. Surface is inspected under raking light for roll marks and inclusions, and thickness is logged every 20 metres."
+  },
+  "2011": {
+    "name": "Free-machining aluminium",
+    "h1": "2011 T3 Aluminium Bar, Tube — GB/T 6892 · ASTM B221",
+    "metaTitle": "2011 T3 Aluminium Bar — GB/T 6892 | Zorlang",
+    "metaDesc": "Free-machining aluminium: 380 MPa tensile in T3, supplied as bar, tube. Precision screws and fasteners, Connectors and fittings. MTC and SGS inspection available.",
+    "intro": "2011 is the free-machining grade: 5.0–6.0% copper with bismuth and lead additions that break the chip, so automatic lathes run fast without stringy swarf. Typical T3 properties are 380 MPa tensile and 295 MPa yield at 15% elongation, roughly three times the strength of 6063, and machined faces come off bright. Supplied as round bar and tube, saw-cut or cut to length.",
+    "uses": [
+      "Precision screws and fasteners",
+      "Connectors and fittings",
+      "Watch and optical components",
+      "High-speed turned parts"
+    ]
+  },
+  "2017": {
+    "name": "Riveting aluminium (2A11 equivalent)",
+    "h1": "2017 T4 Aluminium Plate, Bar, Tube — GB/T 3880 · ASTM B209",
+    "metaTitle": "2017 T4 Aluminium Bar — GB/T 3880 | Zorlang",
+    "metaDesc": "Riveting aluminium (2A11 equivalent): 425 MPa tensile in T4, supplied as plate, bar, tube. Aircraft and structural rivets, Bolts and clamps. MTC and SGS inspection available.",
+    "intro": "2017 is the classic rivet alloy: 425 MPa tensile in T4 with 22% elongation, enough ductility to head a rivet cold and enough strength to carry shear in airframe structures. It machines and forms well, and it sits below the 460 MPa threshold in China's dual-use export list, so normal supply needs no 1C202 licence. Plate, bar and tube from stock.",
+    "uses": [
+      "Aircraft and structural rivets",
+      "Bolts and clamps",
+      "General load-bearing structures",
+      "Repair stock"
+    ]
+  },
+  "3003": {
+    "name": "Manganese anti-rust alloy",
+    "h1": "3003 H14 Aluminium Plate, Tube, Coil, Foil, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "3003 H14 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Manganese anti-rust alloy: 150 MPa tensile in H14, supplied as plate, tube, coil, foil, profile. Cookware and tableware, Radiators. MTC and SGS inspection available.",
+    "intro": "3003 is the workhorse aluminium-manganese alloy: about 20% stronger than 1100, still highly formable, and corrosion resistant enough for roofing, containers and chemical equipment. It welds and brazes well, which makes it the usual choice where a fabricated assembly has to be both light and durable. We supply plate, coil, strip, bar and tube in O, H14, H24 and H112.",
+    "uses": [
+      "Cookware and tableware",
+      "Radiators",
+      "Fuel tanks",
+      "Roofing sheet",
+      "Air-conditioning foil"
+    ],
+    "apps": [
+      {
+        "t": "Roofing and cladding",
+        "d": "Profiled sheet, fascia and gutters that face weather for decades without coating failure."
+      },
+      {
+        "t": "Transport and containers",
+        "d": "Truck bodies, tank shells and container panels where weight and weldability both matter."
+      },
+      {
+        "t": "HVAC and chemical equipment",
+        "d": "Ducting, heat-exchanger shells and storage vessels handling mildly corrosive media."
+      }
+    ],
+    "compare": {
+      "1100": "3003 costs a little more and is roughly twice as strong, with better corrosion resistance. It replaces 1100 in almost every structural or outdoor part.",
+      "5052": "5052 adds magnesium for a further 50% strength and better marine performance, but is harder to form tightly. Use 5052 when strength is the constraint, 3003 when formability is."
+    },
+    "qc": "Manganese content is checked per heat because it drives the strength. Bend and tensile tests are run on the first coil of each batch, and tube is eddy-current tested on request."
+  },
+  "3004": {
+    "name": "Manganese-magnesium roofing alloy",
+    "h1": "3004 H32 Aluminium Plate, Tube, Coil — GB/T 3880 · ASTM B209",
+    "metaTitle": "3004 H32 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Manganese-magnesium roofing alloy: 215 MPa tensile in H32, supplied as plate, tube, coil. Profiled roofing and wall cladding, Curtain wall panels. MTC and SGS inspection available.",
+    "intro": "3004 adds about 1% magnesium to the 3003 base, lifting tensile strength from 150 to 215 MPa in H32 while keeping the same corrosion behaviour and weldability. That balance is why it dominates profiled roofing and wall cladding, and why chemical tanks and lighting columns are often built from it. Supplied as sheet, coil and tube.",
+    "uses": [
+      "Profiled roofing and wall cladding",
+      "Curtain wall panels",
+      "Chemical storage tanks",
+      "Lighting columns"
+    ]
+  },
+  "3104": {
+    "name": "Can body stock",
+    "h1": "3104 H19 Aluminium Plate, Coil — GB/T 3880 · ASTM B209",
+    "metaTitle": "3104 H19 Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Can body stock: 285 MPa tensile in H19, supplied as plate, coil. Beverage can bodies (DI), Food cans. MTC and SGS inspection available.",
+    "intro": "3104 is drawn and ironed into two-piece beverage cans: 285 MPa tensile and 260 MPa yield in H19 give the wall enough strength to survive the DI process at 0.25 mm and thinner. Iron and copper are held in tight ranges so the ears stay short and the body thins evenly. Coil only, 0.2–4.0 mm, slit to your blank width.",
+    "uses": [
+      "Beverage can bodies (DI)",
+      "Food cans",
+      "Bottle caps and closures"
+    ]
+  },
+  "4032": {
+    "name": "Piston alloy",
+    "h1": "4032 T6 Aluminium Bar — GB/T 6892 · ASTM B221",
+    "metaTitle": "4032 T6 Aluminium Bar — GB/T 6892 | Zorlang",
+    "metaDesc": "Piston alloy: 380 MPa tensile in T6, supplied as bar. Forged pistons, Cylinder head inserts. MTC and SGS inspection available.",
+    "intro": "4032 carries 11–13.5% silicon, which brings thermal expansion down to roughly 80% of 6061 and gives strong wear resistance against a cylinder bore; nickel and copper hold strength at operating temperature. T6 gives 380 MPa tensile, 315 MPa yield and about 120 HBW. Supplied as forging bar, cut to billet length.",
+    "uses": [
+      "Forged pistons",
+      "Cylinder head inserts",
+      "Low-expansion wear parts"
+    ]
+  },
+  "4045": {
+    "name": "Silicon brazing alloy",
+    "h1": "4045 O Aluminium Bar, Coil — GB/T 3880 · ASTM B209",
+    "metaTitle": "4045 O Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Silicon brazing alloy: 120 MPa tensile in O, supplied as bar, coil. Brazing sheet cladding, Aluminium-silicon filler wire. MTC and SGS inspection available.",
+    "intro": "4045 is the brazing clad: 9–11% silicon melts near 577 °C, roughly 80 °C below the 3003 core it is rolled onto, so one furnace pass bonds an entire heat exchanger. We supply it as clad coil for brazing sheet and as bar or wire stock for filler metal.",
+    "uses": [
+      "Brazing sheet cladding",
+      "Aluminium-silicon filler wire",
+      "Brazing rings and preforms"
+    ]
+  },
+  "4343": {
+    "name": "Brazing clad layer",
+    "h1": "4343 O Aluminium Plate, Coil, Foil — GB/T 3880 · ASTM B209",
+    "metaTitle": "4343 O Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Brazing clad layer: 115 MPa tensile in O, supplied as plate, coil, foil. Automotive radiators, Charge-air coolers. MTC and SGS inspection available.",
+    "intro": "4343 is the lower-silicon brazing clad, 6.8–8.2% Si, used where a thinner and more controllable clad layer is wanted than 4045 gives — typically automotive radiators, charge-air coolers and air-conditioning evaporators. It is roll-bonded onto a 3003 core and brazed in a controlled-atmosphere furnace.",
+    "uses": [
+      "Automotive radiators",
+      "Charge-air coolers",
+      "Air-conditioning heat exchangers",
+      "Brazed plate assemblies"
+    ]
+  },
+  "5005": {
+    "name": "Anodising-grade decorative alloy",
+    "h1": "5005 H14 Aluminium Plate, Tube, Coil, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "5005 H14 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Anodising-grade decorative alloy: 165 MPa tensile in H14, supplied as plate, tube, coil, profile. Anodised curtain wall panels, Decorative trim and fascias. MTC and SGS inspection available.",
+    "intro": "5005 matches 3003 in strength, 165 MPa in H14, but anodises to a brighter and whiter finish because magnesium is balanced against low iron and silicon. That is why architectural panels, instrument fascias and decorative trim specify it. Sheet, coil, tube and profile, anodised in-house.",
+    "uses": [
+      "Anodised curtain wall panels",
+      "Decorative trim and fascias",
+      "Instrument panels"
+    ]
+  },
+  "5052": {
+    "name": "General-purpose marine aluminium",
+    "h1": "5052 H32 Aluminium Plate, Bar, Tube, Coil, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "5052 H32 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "General-purpose marine aluminium: 230 MPa tensile in H32, supplied as plate, bar, tube, coil, profile. Fuel tanks, Marine outfitting. MTC and SGS inspection available.",
+    "intro": "5052 is the highest-strength non-heat-treatable alloy in common supply: 2.2–2.8% magnesium gives roughly 215–275 MPa tensile in H32, with excellent fatigue and corrosion behaviour in salt water. It is the default for marine hardware, fuel tanks, pressure vessels and transport panels. We roll it from 0.3 mm to 150 mm and can anodise or PVC-coat in-house.",
+    "uses": [
+      "Fuel tanks",
+      "Marine outfitting",
+      "Pressure vessels",
+      "Metro and carriage interiors"
+    ],
+    "apps": [
+      {
+        "t": "Marine and offshore",
+        "d": "Hulls, decks, superstructures and fittings that live in salt spray and cyclic loading."
+      },
+      {
+        "t": "Fuel and hydraulic tanks",
+        "d": "Truck, bus and generator tanks, where weld integrity and corrosion resistance are critical."
+      },
+      {
+        "t": "Sheet-metal enclosures",
+        "d": "Electrical cabinets, machine guards and architectural panels that need stiffness and finish."
+      }
+    ],
+    "compare": {
+      "3003": "3003 is more formable and cheaper; 5052 is about 50% stronger and far better in salt water. The switch is normally driven by strength or marine exposure.",
+      "5083": "5083 raises magnesium to 4.5% for welded marine structures and pressure vessels. It needs H116/H321 temper control and costs more; 5052 covers most sheet-metal work."
+    },
+    "qc": "Magnesium and chromium are verified per heat. Tensile and bend tests run on every batch, and salt-spray or intergranular corrosion testing is available for marine orders."
+  },
+  "5083": {
+    "name": "Marine-grade plate alloy",
+    "h1": "5083 H116 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "5083 H116 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Marine-grade plate alloy: 305 MPa tensile in H116, supplied as plate, bar, tube, profile. Hulls and decks, LNG and cryogenic tanks. MTC and SGS inspection available.",
+    "intro": "5083 is the alloy specified for welded marine structures: 4.0–4.9% magnesium gives 275–350 MPa tensile and the best seawater resistance of any common grade. In H116 or H321 temper it resists intergranular attack after welding, which is why classification societies accept it for hulls, decks and tanks. We supply plate from 3 mm to 200 mm with ultrasonic inspection on request.",
+    "uses": [
+      "Hulls and decks",
+      "LNG and cryogenic tanks",
+      "Rail vehicle bodies"
+    ],
+    "apps": [
+      {
+        "t": "Hulls and decks",
+        "d": "Workboats, yachts, fishing vessels and offshore structures built to class rules."
+      },
+      {
+        "t": "Pressure vessels and tanks",
+        "d": "Cryogenic and chemical tanks where low-temperature toughness and weld strength matter."
+      },
+      {
+        "t": "Heavy transport",
+        "d": "Tipper bodies, tanker shells and rail components that need strength with low weight."
+      }
+    ],
+    "compare": {
+      "5052": "5052 is cheaper, easier to form and sufficient for most sheet-metal parts; 5083 is the choice once the structure is welded and loaded, or class-approved.",
+      "6061": "6061 is heat-treatable and machinable to tight tolerances but weaker in welded joints and less corrosion resistant in seawater. Use 6061 for machined parts, 5083 for welded marine structure."
+    },
+    "qc": "Every plate is ultrasonically inspected for internal defects on request, and H116 material is tested to ASTM G67 for intergranular corrosion. Tensile tests are taken transverse to the rolling direction."
+  },
+  "5182": {
+    "name": "Can end and tab stock",
+    "h1": "5182 H19 Aluminium Plate, Coil — GB/T 3880 · ASTM B209",
+    "metaTitle": "5182 H19 Aluminium Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Can end and tab stock: 400 MPa tensile in H19, supplied as plate, coil. Beverage can ends and tabs, Automotive inner panels. MTC and SGS inspection available.",
+    "intro": "5182 is the lid and tab alloy: 4–5% magnesium hardened to H19 gives 400 MPa tensile and 365 MPa yield, so a 0.22 mm end holds the pressure of a carbonated can without bulging. It also appears as automotive inner panel where high formability at strength is needed.",
+    "uses": [
+      "Beverage can ends and tabs",
+      "Automotive inner panels",
+      "Closures"
+    ]
+  },
+  "5754": {
+    "name": "Automotive body sheet",
+    "h1": "5754 O Aluminium Plate, Tube, Coil — GB/T 3880 · ASTM B209",
+    "metaTitle": "5754 O Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Automotive body sheet: 200 MPa tensile in O, supplied as plate, tube, coil. Automotive inner panels and chassis, Storage tanks. MTC and SGS inspection available.",
+    "intro": "5754 is the automotive body alloy: in O it stretches 26% at only 200 MPa tensile, so deep door inners and floor panels form without splitting, and H111 keeps it stable in storage. It welds and anodises well and is the usual choice for chassis parts, tanks and welded structures that see road salt.",
+    "uses": [
+      "Automotive inner panels and chassis",
+      "Storage tanks",
+      "Welded structures",
+      "Transport sheet"
+    ]
+  },
+  "6061": {
+    "name": "General structural alloy",
+    "h1": "6061 T6 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "6061 T6 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "General structural alloy: 310 MPa tensile in T6, supplied as plate, bar, tube, profile. Moulds and tooling, Automation equipment frames. MTC and SGS inspection available.",
+    "intro": "6061 is the general-purpose heat-treatable alloy: magnesium and silicon give 290–310 MPa tensile in T6, with good machinability, weldability and corrosion resistance. It machines cleanly, takes anodising well and is available in more sizes than any other grade, which makes it the default for jigs, fixtures, machined parts and structural frames. Supplied in plate to 500 mm, plus bar, tube and extrusion.",
+    "uses": [
+      "Moulds and tooling",
+      "Automation equipment frames",
+      "Bicycle frames",
+      "CNC structural parts"
+    ],
+    "apps": [
+      {
+        "t": "Machined parts and jigs",
+        "d": "Fixture plates, moulds, robotics bases and CNC parts where dimensional stability matters."
+      },
+      {
+        "t": "Structural frames",
+        "d": "Machine frames, gantries, trailer structures and platforms bolted or welded from plate and profile."
+      },
+      {
+        "t": "Transport and marine fittings",
+        "d": "Truck components, marine hardware and pressure-rated fittings in T6/T651."
+      }
+    ],
+    "compare": {
+      "6063": "6063 extrudes into complex profiles with a better anodised finish but is 30–40% weaker. Use 6063 for architectural sections, 6061 where the part is machined or loaded.",
+      "7075": "7075 is nearly twice as strong but not weldable and far less corrosion resistant. Specify 7075 only for aerospace-grade machined parts where strength is the limiting factor."
+    },
+    "qc": "Solution treatment and ageing are logged per furnace load, with hardness checked on every batch and tensile tests per lot. Ultrasonic inspection of thick plate and AMS 4027 certification are available."
+  },
+  "6063": {
+    "name": "Architectural extrusion alloy",
+    "h1": "6063 T5 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "6063 T5 Aluminium Profile — GB/T 3880 | Zorlang",
+    "metaDesc": "Architectural extrusion alloy: 175 MPa tensile in T5, supplied as plate, bar, tube, profile. Window and curtain wall profiles, Handrails and balustrades. MTC and SGS inspection available.",
+    "intro": "6063 is the extrusion alloy: lower strength than 6061 but far better surface finish after anodising, which is why window systems, curtain wall, heat sinks and machine guarding are all made from it. We extrude from 0.3 kg/m to 30 kg/m, hold tolerance to EN 755-9, and finish in-house with anodising or powder coating.",
+    "uses": [
+      "Window and curtain wall profiles",
+      "Handrails and balustrades",
+      "Heat sinks",
+      "Decorative profiles"
+    ],
+    "apps": [
+      {
+        "t": "Architectural systems",
+        "d": "Window and door profiles, curtain wall mullions and cladding sections, anodised or coated."
+      },
+      {
+        "t": "Heat sinks and electronics",
+        "d": "Finned extrusions for LED luminaires, inverters and power supplies."
+      },
+      {
+        "t": "Machine guarding and frames",
+        "d": "T-slot profile, guards and conveyor frames assembled from stock sections."
+      }
+    ],
+    "compare": {
+      "6061": "6061 is 30–40% stronger and machines better, but extrudes into simpler shapes and anodises less evenly. For a loaded machined part choose 6061; for a visible profile choose 6063.",
+      "6005A": "6005A is a little stronger than 6063 and common in European curtain wall. Where EN 755-2 calls for 6005A, we can quote it; 6063 remains the faster, cheaper route for standard sections."
+    },
+    "qc": "Profile dimensions are checked against the drawing before finishing, and anodic film thickness is measured on every rack. Coating adhesion is tested by impact and bend, with colour measured against the approved sample."
+  },
+  "6082": {
+    "name": "High-strength extrusion alloy",
+    "h1": "6082 T6 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "6082 T6 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "High-strength extrusion alloy: 310 MPa tensile in T6, supplied as plate, bar, tube, profile. Bridges and structural beams, Automotive structural parts. MTC and SGS inspection available.",
+    "intro": "6082 is the strongest of the standard 6xxx extrusion alloys: 310 MPa tensile and 260 MPa yield in T6, about 10% above 6061, with manganese controlling grain structure through the extrusion. It machines cleanly and takes structural welds, so bridge beams, automotive structural parts and forged ball studs are built from it. Plate, bar, tube and profile.",
+    "uses": [
+      "Bridges and structural beams",
+      "Automotive structural parts",
+      "Ball studs and forgings"
+    ]
+  },
+  "6101": {
+    "name": "Electrical conductor alloy",
+    "h1": "6101 T6 Aluminium Tube, Profile — GB/T 6892 · ASTM B221",
+    "metaTitle": "6101 T6 Aluminium Profile — GB/T 6892 | Zorlang",
+    "metaDesc": "Electrical conductor alloy: 200 MPa tensile in T6, supplied as tube, profile. Busbar trunking, Switchgear busbars. MTC and SGS inspection available.",
+    "intro": "6101 balances conductivity against strength: about 55% IACS with 200 MPa tensile in T6, so a busbar carries the current of twice the copper section at a third of the weight. Standard for busbar trunking, switchgear busbars and EV charging conductors. Extruded tube and profile, cut and drilled to length.",
+    "uses": [
+      "Busbar trunking",
+      "Switchgear busbars",
+      "EV charging conductors",
+      "Substation connectors"
+    ]
+  },
+  "7005": {
+    "name": "Bicycle frame alloy",
+    "h1": "7005 T6 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "7005 T6 Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "Bicycle frame alloy: 350 MPa tensile in T6, supplied as plate, bar, tube, profile. Bicycle frames, Rackets and ski poles. MTC and SGS inspection available.",
+    "intro": "7005 is the weldable 7xxx: zinc and magnesium give 350 MPa tensile and 290 MPa yield in T6, about 13% above 6061, while zirconium keeps the heat-affected zone from softening. It natural-ages back toward full strength after welding, which is why it is the default for bicycle framesets.",
+    "uses": [
+      "Bicycle frames",
+      "Rackets and ski poles",
+      "Welded load-bearing parts"
+    ]
+  },
+  "8011": {
+    "name": "Closure and pharma foil alloy",
+    "h1": "8011 H18 Aluminium Plate, Coil, Foil — GB/T 3880 · ASTM B209",
+    "metaTitle": "8011 H18 Aluminium Foil — GB/T 3880 | Zorlang",
+    "metaDesc": "Closure and pharma foil alloy: 150 MPa tensile in H18, supplied as plate, coil, foil. Bottle caps and closures, Pharmaceutical blister foil. MTC and SGS inspection available.",
+    "intro": "8011 is the packaging foil: silicon and iron around 0.5–1.0% give H18 foil 150 MPa tensile with the stiffness a bottle cap needs to crimp and hold, and the low heavy-metal content that pharma blister foil requires. Rolled 0.006–0.20 mm, bright or lubricated.",
+    "uses": [
+      "Bottle caps and closures",
+      "Pharmaceutical blister foil",
+      "Sealing gaskets",
+      "Laminated packaging"
+    ]
+  },
+  "5A06": {
+    "name": "High-magnesium corrosion-resistant alloy",
+    "h1": "5A06 O Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "5A06 O Aluminium Plate — GB/T 3880 | Zorlang",
+    "metaDesc": "High-magnesium corrosion-resistant alloy: 320 MPa tensile in O, supplied as plate, bar, tube, profile. Ship superstructures, Welded pressure structures. MTC and SGS inspection available.",
+    "intro": "5A06 is the Chinese high-magnesium grade: 5.8–6.8% Mg gives 320 MPa tensile and 160 MPa yield in the annealed state, the highest magnesium content we roll and the best seawater resistance in the 5xxx family. It is welded into ship superstructures, pressure hulls and rail vehicle bodies.",
+    "uses": [
+      "Ship superstructures",
+      "Welded pressure structures",
+      "Rail vehicle bodies",
+      "Marine decking"
+    ]
+  },
+  "6005A": {
+    "name": "Rail vehicle extrusion alloy",
+    "h1": "6005A T6 Aluminium Plate, Bar, Tube, Profile — GB/T 3880 · ASTM B209",
+    "metaTitle": "6005A T6 Aluminium Profile — GB/T 3880 | Zorlang",
+    "metaDesc": "Rail vehicle extrusion alloy: 290 MPa tensile in T6, supplied as plate, bar, tube, profile. High-speed and metro car body profiles, Underframe and floor beams. MTC and SGS inspection available.",
+    "intro": "6005A is the rail profile alloy: 290 MPa tensile and 240 MPa yield in T6, with manganese and chromium holding strength across the weld zone so a friction-stir-welded car body keeps its section properties. Extruded to your drawing up to a 400 mm section, anodised or painted.",
+    "uses": [
+      "High-speed and metro car body profiles",
+      "Underframe and floor beams",
+      "Modular frames"
+    ]
+  }
+}

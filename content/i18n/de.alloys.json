@@ -1,0 +1,427 @@
+{
+  "1050": {
+    "name": "Reinaluminium (kommerziell rein)",
+    "h1": "1050 O Aluminiumblech, Rundstab, Rohr, Coil & Folie nach GB/T 3880 · ASTM B209",
+    "metaTitle": "1050 O Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Kommerziell reines Aluminium: 80 MPa Zugfestigkeit im Zustand O, lieferbar als Blech, Rundstab, Rohr, Coil und Folie. Folie, stromführende Sammelschienen. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "1050 ist kommerziell reines Aluminium: mindestens 99.5 %, ohne Legierungszusätze und mit der höchsten Leitfähigkeit aller Güten, die wir walzen. Diese Güte ist zu wählen, wenn es auf Umformbarkeit, Leitfähigkeit oder eine helle eloxierte Oberfläche ankommt und nicht auf Festigkeit. Wir walzen sie vom 0.3-mm-Blech bis zur 120-mm-Platte in O, H14, H24 und H18, wobei Dicke und Planheit online geprüft werden.",
+    "uses": [
+      "Folie",
+      "Stromführende Sammelschienen",
+      "Kühlkörperlamellen",
+      "Typenschilder und Beschilderung",
+      "Auskleidungen für Chemieanlagen"
+    ],
+    "apps": [
+      {
+        "t": "Elektrische und thermische Leiter",
+        "d": "Stromschienen, Lamellen für Wärmetauscher und Transformatorenband, wo Leitfähigkeit wichtiger ist als die Streckgrenze."
+      },
+      {
+        "t": "Beschilderung und eloxierte Zierprofile",
+        "d": "Nimmt eine helle, gleichmäßige Eloxalschicht an — verwendet für Schildrohlinge, Reflektoren und dekorative Leisten."
+      },
+      {
+        "t": "Tiefgezogene Teile",
+        "d": "Kochgeschirr, Verschlüsse und Lampengehäuse, die im Zustand O eine Dehnung über 20 % benötigen."
+      }
+    ],
+    "compare": {
+      "1100": "1100 enthält einen kleinen Kupferzusatz für etwas höhere Festigkeit und bessere Zerspanbarkeit, auf Kosten eines Teils der Leitfähigkeit. Wählen Sie 1100, wenn das Teil umgeformt und spanend bearbeitet wird; für Leiter bleibt 1050 die richtige Wahl.",
+      "3003": "3003 verdoppelt die Streckgrenze von 1050 durch Mangan und lässt sich weiterhin sauber schweißen. Wechseln Sie zu 3003, sobald das Teil Last aufnehmen muss und nicht nur Form geben soll."
+    },
+    "qc": "Die Zusammensetzung wird bei jeder Schmelze durch optische Emissionsspektrometrie geprüft. Die Leitfähigkeit wird am Band gemessen, die Planheit auf einem Granittisch kontrolliert, bevor das Blech zugeschnitten wird. Werkszeugnis, Maßbericht und auf Wunsch eine SGS-Prüfung werden gegen die Schmelzennummer ausgestellt."
+  },
+  "1100": {
+    "name": "Reinaluminium (kommerziell rein)",
+    "h1": "1100 O Aluminiumblech, Rundstab, Rohr, Coil & Folie nach GB/T 3880 · ASTM B209",
+    "metaTitle": "1100 O Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Kommerziell reines Aluminium: 90 MPa Zugfestigkeit im Zustand O, lieferbar als Blech, Rundstab, Rohr, Coil und Folie. Typenschilder und Beschilderung, tiefgezogene Hohlware. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "1100 ist zu 99.0 % reines Aluminium mit kontrolliertem Kupferzusatz. Dieser kleine Zusatz hebt Festigkeit und Zerspanbarkeit über das Niveau von 1050, während die Leitfähigkeit hoch und die Umformbarkeit ausgezeichnet bleibt — deshalb ist 1100 die Standardwahl für gedrückte, gezogene und gewalzte Teile, die anschließend noch beschnitten oder gestanzt werden. Lieferung von 0.3 mm bis 100 mm in O, H14, H24 und H18.",
+    "uses": [
+      "Typenschilder und Beschilderung",
+      "Tiefgezogene Hohlware",
+      "Wärmetauscher",
+      "Verpackungsbehälter"
+    ],
+    "apps": [
+      {
+        "t": "Drücken und Tiefziehen",
+        "d": "Kochgeschirr, Hohlware und Lampenreflektoren, bei denen das Metall in Form gedrückt oder gezogen wird."
+      },
+      {
+        "t": "Wärmeübertragung",
+        "d": "Lamellen und Platten in Kühlern und Wärmetauschern, dank hoher Wärmeleitfähigkeit."
+      },
+      {
+        "t": "Verpackung und Verschlüsse",
+        "d": "Kappen, Verschlüsse und Behälterkomponenten, die eine saubere Oberfläche und enge Dickentoleranz brauchen."
+      }
+    ],
+    "compare": {
+      "1050": "1050 ist reiner und etwas leitfähiger; 1100 ist fester und lässt sich besser zerspanen. Wird das Teil nach dem Umformen gestanzt oder gedreht, gewinnt meist 1100.",
+      "3003": "3003 ist die festere und korrosionsbeständigere Option, eloxiert aber weniger hell. Wo das Oberflächenbild zählt, bleibt 1100 die Wahl."
+    },
+    "qc": "Jede Schmelze wird spektral geprüft, das Coil im Haus auf die bestellte Breite längsgeteilt. Die Oberfläche wird unter Streiflicht auf Walzmarken und Einschlüsse geprüft, die Dicke alle 20 Meter protokolliert."
+  },
+  "2011": {
+    "name": "Automatenaluminium",
+    "h1": "2011 T3 Aluminium-Rundstab & Rohr nach GB/T 6892 · ASTM B221",
+    "metaTitle": "2011 T3 Aluminium-Rundstab — GB/T 6892 | Zorlang",
+    "metaDesc": "Automatenaluminium: 380 MPa Zugfestigkeit im Zustand T3, lieferbar als Rundstab und Rohr. Präzisionsschrauben und Befestigungselemente, Steckverbinder und Fittings. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "2011 ist die Automatengüte: 5,0–6,0 % Kupfer mit Wismut- und Bleizusätzen, die den Span brechen, sodass Automatendrehmaschinen schnell laufen, ohne lange Späne zu bilden. Typische Eigenschaften im Zustand T3 sind 380 MPa Zugfestigkeit und 295 MPa Streckgrenze bei 15 % Dehnung — rund dreimal so fest wie 6063 —, und bearbeitete Flächen kommen blank heraus. Lieferung als Rundstab und Rohr, sägegeschnitten oder auf Länge.",
+    "uses": [
+      "Präzisionsschrauben und Befestigungselemente",
+      "Steckverbinder und Fittings",
+      "Komponenten für Uhren und Optik",
+      "Schnelldrehteile"
+    ]
+  },
+  "2017": {
+    "name": "Nietaluminium (entspricht 2A11)",
+    "h1": "2017 T4 Aluminiumblech, Rundstab & Rohr nach GB/T 3880 · ASTM B209",
+    "metaTitle": "2017 T4 Aluminium-Rundstab — GB/T 3880 | Zorlang",
+    "metaDesc": "Nietaluminium (entspricht 2A11): 425 MPa Zugfestigkeit im Zustand T4, lieferbar als Blech, Rundstab und Rohr. Flugzeug- und Konstruktionsnieten, Schrauben und Klemmen. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "2017 ist die klassische Nietlegierung: 425 MPa Zugfestigkeit im Zustand T4 bei 22 % Dehnung — genug Duktilität, um einen Niet kalt zu stauchen, und genug Festigkeit, um in Flugzeugstrukturen Scherkräfte zu übertragen. Sie lässt sich gut zerspanen und umformen und liegt unter der 460-MPa-Schwelle der chinesischen Dual-Use-Ausfuhrliste, sodass die normale Lieferung keine 1C202-Genehmigung erfordert. Blech, Rundstab und Rohr ab Lager.",
+    "uses": [
+      "Flugzeug- und Konstruktionsnieten",
+      "Schrauben und Klemmen",
+      "Allgemeine tragende Konstruktionen",
+      "Reparaturmaterial"
+    ]
+  },
+  "3003": {
+    "name": "Korrosionsbeständige Manganlegierung",
+    "h1": "3003 H14 Aluminiumblech, Rohr, Coil, Folie & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "3003 H14 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Korrosionsbeständige Manganlegierung: 150 MPa Zugfestigkeit im Zustand H14, lieferbar als Blech, Rohr, Coil, Folie und Profil. Kochgeschirr und Tafelgeschirr, Kühler. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "3003 ist die Arbeitslegierung unter den Aluminium-Mangan-Werkstoffen: rund 20 % fester als 1100, weiterhin gut umformbar und korrosionsbeständig genug für Dacheindeckungen, Behälter und chemische Apparate. Sie lässt sich gut schweißen und löten, weshalb sie üblicherweise gewählt wird, wenn eine geschweißte Baugruppe leicht und dauerhaft sein muss. Wir liefern Blech, Coil, Band, Rundstab und Rohr in O, H14, H24 und H112.",
+    "uses": [
+      "Kochgeschirr und Tafelgeschirr",
+      "Kühler",
+      "Kraftstofftanks",
+      "Dachbleche",
+      "Folie für Klimaanlagen"
+    ],
+    "apps": [
+      {
+        "t": "Dacheindeckung und Verkleidung",
+        "d": "Profilbleche, Attiken und Dachrinnen, die Jahrzehnte der Witterung standhalten, ohne dass die Beschichtung versagt."
+      },
+      {
+        "t": "Transport und Behälter",
+        "d": "Lkw-Aufbauten, Tankmäntel und Containerpaneele, bei denen Gewicht und Schweißbarkeit gleichermaßen zählen."
+      },
+      {
+        "t": "HLK- und Chemieanlagen",
+        "d": "Kanäle, Wärmetauschermäntel und Lagertanks für schwach korrosive Medien."
+      }
+    ],
+    "compare": {
+      "1100": "3003 kostet etwas mehr und ist etwa doppelt so fest, mit besserer Korrosionsbeständigkeit. Es ersetzt 1100 bei fast jedem tragenden oder außenliegenden Teil.",
+      "5052": "5052 bringt über Magnesium weitere 50 % Festigkeit und eine bessere Meerwasserbeständigkeit, lässt sich aber schwerer eng umformen. Nehmen Sie 5052, wenn die Festigkeit der begrenzende Faktor ist, und 3003, wenn es die Umformbarkeit ist."
+    },
+    "qc": "Der Mangangehalt wird pro Schmelze geprüft, weil er die Festigkeit bestimmt. Biege- und Zugversuche laufen am ersten Coil jeder Charge, Rohre werden auf Wunsch mit Wirbelstrom geprüft."
+  },
+  "3004": {
+    "name": "Mangan-Magnesium-Dachlegierung",
+    "h1": "3004 H32 Aluminiumblech, Rohr & Coil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "3004 H32 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Mangan-Magnesium-Dachlegierung: 215 MPa Zugfestigkeit im Zustand H32, lieferbar als Blech, Rohr und Coil. Profilierte Dacheindeckung und Wandverkleidung, Vorhangfassaden-Paneele. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "3004 fügt der Basis von 3003 etwa 1 % Magnesium hinzu und hebt die Zugfestigkeit im Zustand H32 von 150 auf 215 MPa, bei gleichem Korrosionsverhalten und gleicher Schweißbarkeit. Diese Balance ist der Grund, warum sie profilierte Dacheindeckungen und Wandverkleidungen dominiert und warum Chemietanks und Lichtmasten häufig daraus gebaut werden. Lieferung als Blech, Coil und Rohr.",
+    "uses": [
+      "Profilierte Dacheindeckung und Wandverkleidung",
+      "Vorhangfassaden-Paneele",
+      "Chemische Lagertanks",
+      "Lichtmasten"
+    ]
+  },
+  "3104": {
+    "name": "Dosenkörperband",
+    "h1": "3104 H19 Aluminiumblech & Coil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "3104 H19 Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Dosenkörperband: 285 MPa Zugfestigkeit im Zustand H19, lieferbar als Blech und Coil. Getränkedosenkörper im DI-Verfahren, Konservendosen. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "3104 wird zu zweiteiligen Getränkedosen gezogen und abgestreckt: 285 MPa Zugfestigkeit und 260 MPa Streckgrenze im Zustand H19 geben der Wandung genug Festigkeit, um den DI-Prozess bei 0,25 mm und darunter zu überstehen. Eisen und Kupfer werden in engen Bereichen gehalten, damit die Zipfel kurz bleiben und der Körper gleichmäßig dünner wird. Nur als Coil, 0,2–4,0 mm, auf Ihre Zuschnittbreite längsgeteilt.",
+    "uses": [
+      "Getränkedosenkörper im DI-Verfahren",
+      "Konservendosen",
+      "Flaschenkappen und Verschlüsse"
+    ]
+  },
+  "4032": {
+    "name": "Kolbenlegierung",
+    "h1": "4032 T6 Aluminium-Rundstab nach GB/T 6892 · ASTM B221",
+    "metaTitle": "4032 T6 Aluminium-Rundstab — GB/T 6892 | Zorlang",
+    "metaDesc": "Kolbenlegierung: 380 MPa Zugfestigkeit im Zustand T6, lieferbar als Rundstab. Geschmiedete Kolben, Zylinderkopf-Einsätze. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "4032 enthält 11–13,5 % Silizium, wodurch die Wärmeausdehnung auf rund 80 % des Werts von 6061 sinkt und der Verschleißwiderstand gegenüber der Zylinderbohrung hoch ist; Nickel und Kupfer halten die Festigkeit bei Betriebstemperatur. Im Zustand T6 werden 380 MPa Zugfestigkeit, 315 MPa Streckgrenze und etwa 120 HBW erreicht. Lieferung als Schmiedestab, auf Bolzenlänge geschnitten.",
+    "uses": [
+      "Geschmiedete Kolben",
+      "Zylinderkopf-Einsätze",
+      "Verschleißteile mit geringer Ausdehnung"
+    ]
+  },
+  "4045": {
+    "name": "Silizium-Lötlegierung",
+    "h1": "4045 O Aluminium-Rundstab & Coil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "4045 O Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Silizium-Lötlegierung: 120 MPa Zugfestigkeit im Zustand O, lieferbar als Rundstab und Coil. Auflage für Lötschichtverbunde, Aluminium-Silizium-Zusatzdraht. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "4045 ist die Lötauflage: 9–11 % Silizium schmelzen bei etwa 577 °C, rund 80 °C unter dem 3003-Kern, auf den sie gewalzt wird, sodass ein einziger Ofendurchlauf einen kompletten Wärmetauscher verbindet. Wir liefern sie als plattiertes Coil für Lötschichtverbunde sowie als Stab- oder Drahtmaterial für Zusatzwerkstoffe.",
+    "uses": [
+      "Auflage für Lötschichtverbunde",
+      "Aluminium-Silizium-Zusatzdraht",
+      "Lötringe und Vorformlinge"
+    ]
+  },
+  "4343": {
+    "name": "Lötauflage",
+    "h1": "4343 O Aluminiumblech, Coil & Folie nach GB/T 3880 · ASTM B209",
+    "metaTitle": "4343 O Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Lötauflage: 115 MPa Zugfestigkeit im Zustand O, lieferbar als Blech, Coil und Folie. Automobilkühler, Ladeluftkühler. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "4343 ist die siliziumärmere Lötauflage mit 6,8–8,2 % Si, die dort eingesetzt wird, wo eine dünnere und besser kontrollierbare Auflage als bei 4045 gefragt ist — typischerweise Automobilkühler, Ladeluftkühler und Verdampfer von Klimaanlagen. Sie wird auf einen 3003-Kern walzplattiert und im Schutzgasofen gelötet.",
+    "uses": [
+      "Automobilkühler",
+      "Ladeluftkühler",
+      "Wärmetauscher für Klimaanlagen",
+      "Gelötete Plattenbaugruppen"
+    ]
+  },
+  "5005": {
+    "name": "Dekorlegierung in Eloxalqualität",
+    "h1": "5005 H14 Aluminiumblech, Rohr, Coil & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5005 H14 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Dekorlegierung in Eloxalqualität: 165 MPa Zugfestigkeit im Zustand H14, lieferbar als Blech, Rohr, Coil und Profil. Eloxierte Vorhangfassaden-Paneele, Zierleisten und Blenden. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5005 erreicht die Festigkeit von 3003 — 165 MPa im Zustand H14 —, eloxiert aber zu einer helleren und weißeren Oberfläche, weil das Magnesium gegen niedrige Eisen- und Siliziumgehalte ausbalanciert ist. Deshalb wird sie für Architekturpaneele, Instrumentenblenden und dekorative Leisten spezifiziert. Blech, Coil, Rohr und Profil, im Haus eloxiert.",
+    "uses": [
+      "Eloxierte Vorhangfassaden-Paneele",
+      "Zierleisten und Blenden",
+      "Instrumentenblenden"
+    ]
+  },
+  "5052": {
+    "name": "Mehrzweck-Aluminium in Marinequalität",
+    "h1": "5052 H32 Aluminiumblech, Rundstab, Rohr, Coil & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5052 H32 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Mehrzweck-Aluminium in Marinequalität: 230 MPa Zugfestigkeit im Zustand H32, lieferbar als Blech, Rundstab, Rohr, Coil und Profil. Kraftstofftanks, Marineausrüstung. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5052 ist die festeste nicht aushärtbare Legierung im üblichen Lieferprogramm: 2.2–2.8 % Magnesium ergeben im Zustand H32 rund 215–275 MPa Zugfestigkeit bei ausgezeichnetem Ermüdungs- und Korrosionsverhalten in Salzwasser. Sie ist die Standardwahl für Marinebeschläge, Kraftstofftanks, Druckbehälter und Transportpaneele. Wir walzen sie von 0.3 mm bis 150 mm und können im Haus eloxieren oder mit PVC beschichten.",
+    "uses": [
+      "Kraftstofftanks",
+      "Marineausrüstung",
+      "Druckbehälter",
+      "Innenausbau von Metrozügen und Waggons"
+    ],
+    "apps": [
+      {
+        "t": "Marine und Offshore",
+        "d": "Rümpfe, Decks, Aufbauten und Beschläge, die Salzsprühnebel und zyklischer Belastung ausgesetzt sind."
+      },
+      {
+        "t": "Kraftstoff- und Hydrauliktanks",
+        "d": "Tanks für Lkw, Busse und Generatoren, bei denen Schweißnahtintegrität und Korrosionsbeständigkeit entscheidend sind."
+      },
+      {
+        "t": "Blechgehäuse",
+        "d": "Schaltschränke, Maschinenschutz und Architekturpaneele, die Steifigkeit und eine gute Oberfläche verlangen."
+      }
+    ],
+    "compare": {
+      "3003": "3003 ist besser umformbar und günstiger; 5052 ist rund 50 % fester und in Salzwasser deutlich überlegen. Der Wechsel wird in der Regel von der Festigkeit oder der Meeresexposition bestimmt.",
+      "5083": "5083 erhöht das Magnesium auf 4,5 % für geschweißte Marinekonstruktionen und Druckbehälter. Es erfordert Zustandskontrolle in H116/H321 und kostet mehr; 5052 deckt die meisten Blecharbeiten ab."
+    },
+    "qc": "Magnesium und Chrom werden pro Schmelze geprüft. Zug- und Biegeversuche laufen bei jeder Charge, Salzsprühnebel- und interkristalline Korrosionsprüfungen sind für Marinebestellungen verfügbar."
+  },
+  "5083": {
+    "name": "Plattenlegierung in Marinequalität",
+    "h1": "5083 H116 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5083 H116 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Plattenlegierung in Marinequalität: 305 MPa Zugfestigkeit im Zustand H116, lieferbar als Blech, Rundstab, Rohr und Profil. Rümpfe und Decks, LNG- und Kryotanks. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5083 ist die Legierung für geschweißte Marinekonstruktionen: 4.0–4.9 % Magnesium ergeben 275–350 MPa Zugfestigkeit und die beste Meerwasserbeständigkeit aller gängigen Güten. Im Zustand H116 oder H321 widersteht sie nach dem Schweißen interkristallinem Angriff, weshalb Klassifikationsgesellschaften sie für Rümpfe, Decks und Tanks zulassen. Wir liefern Blech von 3 mm bis 200 mm, auf Wunsch mit Ultraschallprüfung.",
+    "uses": [
+      "Rümpfe und Decks",
+      "LNG- und Kryotanks",
+      "Wagenkästen von Schienenfahrzeugen"
+    ],
+    "apps": [
+      {
+        "t": "Rümpfe und Decks",
+        "d": "Arbeitsboote, Yachten, Fischereifahrzeuge und Offshore-Bauwerke, gebaut nach den Regeln der Klassen."
+      },
+      {
+        "t": "Druckbehälter und Tanks",
+        "d": "Kryo- und Chemietanks, bei denen Zähigkeit bei tiefen Temperaturen und Schweißnahtfestigkeit zählen."
+      },
+      {
+        "t": "Schwerer Transport",
+        "d": "Muldenkipper-Aufbauten, Tankmäntel und Bahnkomponenten, die Festigkeit bei geringem Gewicht brauchen."
+      }
+    ],
+    "compare": {
+      "5052": "5052 ist günstiger, leichter umzuformen und für die meisten Blechteile ausreichend; 5083 ist die Wahl, sobald die Struktur geschweißt und belastet oder klassenzugelassen ist.",
+      "6061": "6061 ist aushärtbar und maßhaltig zerspanbar, in Schweißverbindungen aber schwächer und in Meerwasser weniger korrosionsbeständig. 6061 für bearbeitete Teile, 5083 für geschweißte Marinekonstruktionen."
+    },
+    "qc": "Jede Platte wird auf Wunsch per Ultraschall auf Innenfehler geprüft, Material in H116 nach ASTM G67 auf interkristalline Korrosion getestet. Zugversuche werden quer zur Walzrichtung entnommen."
+  },
+  "5182": {
+    "name": "Deckel- und Laschenband",
+    "h1": "5182 H19 Aluminiumblech & Coil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5182 H19 Aluminium-Coil — GB/T 3880 | Zorlang",
+    "metaDesc": "Deckel- und Laschenband: 400 MPa Zugfestigkeit im Zustand H19, lieferbar als Blech und Coil. Getränkedosendeckel und -laschen, Innenbleche für den Automobilbau. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5182 ist die Deckel- und Laschenlegierung: 4–5 % Magnesium, auf H19 verfestigt, ergeben 400 MPa Zugfestigkeit und 365 MPa Streckgrenze, sodass ein 0,22 mm dicker Deckel dem Innendruck einer kohlensäurehaltigen Dose standhält, ohne sich zu wölben. Sie kommt außerdem als Innenblech im Automobilbau zum Einsatz, wo hohe Umformbarkeit bei gleichzeitiger Festigkeit gefragt ist.",
+    "uses": [
+      "Getränkedosendeckel und -laschen",
+      "Innenbleche für den Automobilbau",
+      "Verschlüsse"
+    ]
+  },
+  "5754": {
+    "name": "Karosserieblech für den Automobilbau",
+    "h1": "5754 O Aluminiumblech, Rohr & Coil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5754 O Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Karosserieblech für den Automobilbau: 200 MPa Zugfestigkeit im Zustand O, lieferbar als Blech, Rohr und Coil. Automobil-Innenbleche und Chassis, Lagertanks. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5754 ist die Karosserielegierung: Im Zustand O dehnt sie sich bei nur 200 MPa Zugfestigkeit um 26 %, sodass tiefe Türinnenbleche und Bodenbleche ohne Riss umgeformt werden, und H111 hält sie bei der Lagerung maßstabil. Sie lässt sich gut schweißen und eloxieren und ist die übliche Wahl für Chassisteile, Tanks und geschweißte Konstruktionen, die Streusalz ausgesetzt sind.",
+    "uses": [
+      "Automobil-Innenbleche und Chassis",
+      "Lagertanks",
+      "Geschweißte Konstruktionen",
+      "Transportblech"
+    ]
+  },
+  "6061": {
+    "name": "Universelle Konstruktionslegierung",
+    "h1": "6061 T6 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "6061 T6 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Universelle Konstruktionslegierung: 310 MPa Zugfestigkeit im Zustand T6, lieferbar als Blech, Rundstab, Rohr und Profil. Formen und Werkzeuge, Rahmen für Automatisierungstechnik. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "6061 ist die universelle aushärtbare Legierung: Magnesium und Silizium ergeben im Zustand T6 290–310 MPa Zugfestigkeit bei guter Zerspanbarkeit, Schweißbarkeit und Korrosionsbeständigkeit. Sie lässt sich sauber zerspanen, gut eloxieren und ist in mehr Abmessungen lieferbar als jede andere Güte — damit ist sie die Standardwahl für Vorrichtungen, Spannplatten, bearbeitete Teile und Konstruktionsrahmen. Lieferung als Blech bis 500 mm, dazu Rundstab, Rohr und Strangpressprofil.",
+    "uses": [
+      "Formen und Werkzeuge",
+      "Rahmen für Automatisierungstechnik",
+      "Fahrradrahmen",
+      "Tragende CNC-Teile"
+    ],
+    "apps": [
+      {
+        "t": "Bearbeitete Teile und Vorrichtungen",
+        "d": "Spannplatten, Formen, Roboterfundamente und CNC-Teile, bei denen Maßhaltigkeit zählt."
+      },
+      {
+        "t": "Konstruktionsrahmen",
+        "d": "Maschinengestelle, Portale, Trailerstrukturen und Bühnen, verschraubt oder geschweißt aus Blech und Profil."
+      },
+      {
+        "t": "Transport- und Marinebeschläge",
+        "d": "Lkw-Komponenten, Marinebeschläge und druckbeanspruchte Fittings in T6/T651."
+      }
+    ],
+    "compare": {
+      "6063": "6063 lässt sich zu komplexen Profilen strangpressen und erzielt eine bessere eloxierte Oberfläche, ist aber 30–40 % schwächer. 6063 für Architekturprofile, 6061 wo das Teil bearbeitet oder belastet wird.",
+      "7075": "7075 ist nahezu doppelt so fest, aber nicht schweißbar und deutlich weniger korrosionsbeständig. Wählen Sie 7075 nur für bearbeitete Teile in Luftfahrtqualität, bei denen die Festigkeit der begrenzende Faktor ist."
+    },
+    "qc": "Lösungsglühen und Auslagern werden pro Ofencharge protokolliert, die Härte wird an jeder Charge und die Zugfestigkeit pro Los geprüft. Ultraschallprüfung dicker Bleche und Zertifizierung nach AMS 4027 sind verfügbar."
+  },
+  "6063": {
+    "name": "Architektur-Strangpresslegierung",
+    "h1": "6063 T5 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "6063 T5 Aluminiumprofil — GB/T 3880 | Zorlang",
+    "metaDesc": "Architektur-Strangpresslegierung: 175 MPa Zugfestigkeit im Zustand T5, lieferbar als Blech, Rundstab, Rohr und Profil. Fenster- und Vorhangfassadenprofile, Handläufe und Geländer. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "6063 ist die Strangpresslegierung: geringere Festigkeit als 6061, aber deutlich bessere Oberfläche nach dem Eloxieren — deshalb bestehen Fenstersysteme, Vorhangfassaden, Kühlkörper und Maschinenschutz aus dieser Legierung. Wir pressen von 0.3 kg/m bis 30 kg/m, halten die Toleranz nach EN 755-9 und veredeln im Haus mit Eloxieren oder Pulverbeschichten.",
+    "uses": [
+      "Fenster- und Vorhangfassadenprofile",
+      "Handläufe und Geländer",
+      "Kühlkörper",
+      "Dekorprofile"
+    ],
+    "apps": [
+      {
+        "t": "Architektursysteme",
+        "d": "Fenster- und Türprofile, Pfosten von Vorhangfassaden und Verkleidungsprofile, eloxiert oder beschichtet."
+      },
+      {
+        "t": "Kühlkörper und Elektronik",
+        "d": "Rippenprofile für LED-Leuchten, Wechselrichter und Netzteile."
+      },
+      {
+        "t": "Maschinenschutz und Gestelle",
+        "d": "Nutprofile, Schutzgitter und Förderrahmen, montiert aus Lagerabschnitten."
+      }
+    ],
+    "compare": {
+      "6061": "6061 ist 30–40 % fester und besser zerspanbar, lässt sich aber nur zu einfacheren Formen pressen und eloxiert ungleichmäßiger. Für belastete bearbeitete Teile 6061, für sichtbare Profile 6063.",
+      "6005A": "6005A ist etwas fester als 6063 und in europäischen Vorhangfassaden verbreitet. Wo EN 755-2 6005A verlangt, können wir sie anbieten; für Standardprofile bleibt 6063 der schnellere und günstigere Weg."
+    },
+    "qc": "Die Profilmaße werden vor dem Veredeln gegen die Zeichnung geprüft, die Eloxalschichtdicke an jeder Gestellcharge gemessen. Die Haftung der Beschichtung wird durch Schlag- und Biegeprüfung getestet, die Farbe gegen das freigegebene Muster gemessen."
+  },
+  "6082": {
+    "name": "Hochfeste Strangpresslegierung",
+    "h1": "6082 T6 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "6082 T6 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Hochfeste Strangpresslegierung: 310 MPa Zugfestigkeit im Zustand T6, lieferbar als Blech, Rundstab, Rohr und Profil. Brücken und Konstruktionsträger, Strukturteile für den Automobilbau. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "6082 ist die festeste der Standard-Strangpresslegierungen aus der 6xxx-Reihe: 310 MPa Zugfestigkeit und 260 MPa Streckgrenze im Zustand T6, etwa 10 % über 6061, wobei Mangan das Gefüge während des Strangpressens steuert. Sie lässt sich sauber zerspanen und für tragende Schweißnähte einsetzen, weshalb Brückenträger, automobile Strukturteile und geschmiedete Kugelzapfen daraus gefertigt werden. Lieferung als Blech, Rundstab, Rohr und Profil.",
+    "uses": [
+      "Brücken und Konstruktionsträger",
+      "Strukturteile für den Automobilbau",
+      "Kugelzapfen und Schmiedeteile"
+    ]
+  },
+  "6101": {
+    "name": "Leiterlegierung",
+    "h1": "6101 T6 Aluminiumrohr & Profil nach GB/T 6892 · ASTM B221",
+    "metaTitle": "6101 T6 Aluminiumprofil — GB/T 6892 | Zorlang",
+    "metaDesc": "Leiterlegierung: 200 MPa Zugfestigkeit im Zustand T6, lieferbar als Rohr und Profil. Stromschienenkanäle, Schaltanlagen-Stromschienen. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "6101 bringt Leitfähigkeit und Festigkeit in Balance: etwa 55 % IACS bei 200 MPa Zugfestigkeit im Zustand T6, sodass eine Stromschiene den Strom des doppelten Kupferquerschnitts bei einem Drittel des Gewichts führt. Sie ist Standard für Stromschienenkanäle, Schaltanlagen-Stromschienen und Leiter in der Ladeinfrastruktur. Stranggepresstes Rohr und Profil, auf Länge geschnitten und gebohrt.",
+    "uses": [
+      "Stromschienenkanäle",
+      "Schaltanlagen-Stromschienen",
+      "Leiter für Ladeinfrastruktur",
+      "Anschlüsse für Umspannwerke"
+    ]
+  },
+  "7005": {
+    "name": "Rahmenlegierung für Fahrräder",
+    "h1": "7005 T6 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "7005 T6 Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Rahmenlegierung für Fahrräder: 350 MPa Zugfestigkeit im Zustand T6, lieferbar als Blech, Rundstab, Rohr und Profil. Fahrradrahmen, Schläger und Skistöcke. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "7005 ist die schweißbare Legierung der 7xxx-Reihe: Zink und Magnesium ergeben im Zustand T6 350 MPa Zugfestigkeit und 290 MPa Streckgrenze, etwa 13 % über 6061, während Zirkonium verhindert, dass die wärmebeeinflusste Zone erweicht. Nach dem Schweißen härtet sie durch natürliche Alterung nahezu auf ihre volle Festigkeit zurück — deshalb ist sie die Standardwahl für Fahrradrahmen.",
+    "uses": [
+      "Fahrradrahmen",
+      "Schläger und Skistöcke",
+      "Geschweißte tragende Teile"
+    ]
+  },
+  "8011": {
+    "name": "Folienlegierung für Verschlüsse und Pharmazie",
+    "h1": "8011 H18 Aluminiumblech, Coil & Folie nach GB/T 3880 · ASTM B209",
+    "metaTitle": "8011 H18 Aluminiumfolie — GB/T 3880 | Zorlang",
+    "metaDesc": "Folienlegierung für Verschlüsse und Pharmazie: 150 MPa Zugfestigkeit im Zustand H18, lieferbar als Blech, Coil und Folie. Flaschenkappen und Verschlüsse, Blisterfolie für die Pharmaindustrie. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "8011 ist die Verpackungsfolie: Silizium und Eisen um 0,5–1,0 % ergeben im Zustand H18 eine Folie mit 150 MPa Zugfestigkeit und der Steifigkeit, die eine Flaschenkappe zum Bördeln und Halten braucht, sowie dem niedrigen Schwermetallgehalt, den Blisterfolie für die Pharmaindustrie verlangt. Gewalzt von 0,006–0,20 mm, blank oder geschmiert.",
+    "uses": [
+      "Flaschenkappen und Verschlüsse",
+      "Blisterfolie für die Pharmaindustrie",
+      "Dichtungen",
+      "Kaschierte Verpackungen"
+    ]
+  },
+  "5A06": {
+    "name": "Hochmagnesium-Legierung mit hoher Korrosionsbeständigkeit",
+    "h1": "5A06 O Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "5A06 O Aluminiumblech — GB/T 3880 | Zorlang",
+    "metaDesc": "Hochmagnesium-Legierung mit hoher Korrosionsbeständigkeit: 320 MPa Zugfestigkeit im Zustand O, lieferbar als Blech, Rundstab, Rohr und Profil. Schiffsaufbauten, geschweißte Druckkonstruktionen. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "5A06 ist die chinesische Hochmagnesiumgüte: 5,8–6,8 % Mg ergeben im geglühten Zustand 320 MPa Zugfestigkeit und 160 MPa Streckgrenze — der höchste Magnesiumgehalt, den wir walzen, und die beste Meerwasserbeständigkeit der 5xxx-Familie. Sie wird zu Schiffsaufbauten, Druckkörpern und Wagenkästen von Schienenfahrzeugen verschweißt.",
+    "uses": [
+      "Schiffsaufbauten",
+      "Geschweißte Druckkonstruktionen",
+      "Wagenkästen von Schienenfahrzeugen",
+      "Decks im Marinebereich"
+    ]
+  },
+  "6005A": {
+    "name": "Strangpresslegierung für Schienenfahrzeuge",
+    "h1": "6005A T6 Aluminiumblech, Rundstab, Rohr & Profil nach GB/T 3880 · ASTM B209",
+    "metaTitle": "6005A T6 Aluminiumprofil — GB/T 3880 | Zorlang",
+    "metaDesc": "Strangpresslegierung für Schienenfahrzeuge: 290 MPa Zugfestigkeit im Zustand T6, lieferbar als Blech, Rundstab, Rohr und Profil. Profile für Hochgeschwindigkeits- und Metro-Wagenkästen, Unterbau- und Bodenlängsträger. Werkszeugnis und SGS-Prüfung verfügbar.",
+    "intro": "6005A ist die Legierung für Bahnprofile: 290 MPa Zugfestigkeit und 240 MPa Streckgrenze im Zustand T6, wobei Mangan und Chrom die Festigkeit über die Schweißzone hinweg halten, sodass ein rührreibgeschweißter Wagenkasten seine Querschnittswerte behält. Stranggepresst nach Ihrer Zeichnung bis 400 mm Querschnitt, eloxiert oder lackiert.",
+    "uses": [
+      "Profile für Hochgeschwindigkeits- und Metro-Wagenkästen",
+      "Unterbau- und Bodenlängsträger",
+      "Modulare Rahmen"
+    ]
+  }
+}

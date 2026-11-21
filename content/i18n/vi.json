@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "title": "Zorlang Aluminum",
+    "desc": "Nhôm tấm, cuộn, lá, thanh, ống và thanh định hình xuất khẩu."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "applications": "Ứng dụng",
+    "capabilities": "Năng lực sản xuất",
+    "quality": "Chất lượng",
+    "news": "Tin tức",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ"
+  },
+  "cta": {
+    "quote": "Yêu cầu báo giá",
+    "viewAlloys": "Xem các hợp kim",
+    "viewAll": "Xem tất cả",
+    "readMore": "Đọc tiếp",
+    "downloadPdf": "Tải bảng thông số kỹ thuật (PDF)",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "call": "Gọi điện",
+    "send": "Gửi yêu cầu",
+    "backToNews": "Tất cả tin tức"
+  },
+  "common": {
+    "alloy": "Hợp kim",
+    "temper": "Trạng thái",
+    "standard": "Tiêu chuẩn",
+    "thickness": "Độ dày",
+    "width": "Chiều rộng",
+    "length": "Chiều dài",
+    "surface": "Bề mặt",
+    "density": "Khối lượng riêng",
+    "melting": "Khoảng nhiệt độ nóng chảy",
+    "element": "Nguyên tố",
+    "composition": "Thành phần (wt %)",
+    "property": "Tính chất",
+    "value": "Giá trị",
+    "minRead": "phút đọc",
+    "published": "Đăng ngày",
+    "updated": "Cập nhật",
+    "author": "Tác giả",
+    "sources": "Nguồn",
+    "related": "Liên quan",
+    "category": "Danh mục",
+    "allCategories": "Tất cả danh mục",
+    "specs": "Thông số kỹ thuật",
+    "inquiry": "Yêu cầu báo giá",
+    "formNote": "Chúng tôi phản hồi trong vòng một ngày làm việc kèm giá, thời gian giao hàng và chứng chỉ thử nghiệm lô.",
+    "breadcrumb": "Đường dẫn",
+    "series": "Dòng hợp kim"
+  },
+  "home": {
+    "eyebrow": "Trực tiếp từ nhà máy · Xuất khẩu từ năm 2006",
+    "h1": "Nhôm tấm, cuộn, lá, thanh, ống và thanh định hình — trực tiếp từ nhà máy",
+    "sub": "Hai mươi ba hợp kim, sáu dạng sản phẩm, chứng chỉ thử nghiệm lô và giám định bên thứ ba trên mọi lô hàng. Giao đến hơn 40 quốc gia từ Lạc Dương, Hà Nam.",
+    "ctaSecondary": "Xem các hợp kim",
+    "trust": [
+      "Hệ thống chất lượng ISO 9001",
+      "Tuân thủ EN / ASTM",
+      "Giám định SGS & BV",
+      "Công suất 50.000 t mỗi năm"
+    ],
+    "formsTitle": "Sáu dạng sản phẩm",
+    "formsSub": "Mỗi dạng sản phẩm đều có sẵn những hợp kim khách hàng hỏi nhiều nhất, cùng dịch vụ cắt, xẻ băng và anod hoá tại nhà máy.",
+    "alloysTitle": "Các hợp kim đang sản xuất",
+    "alloysSub": "Mỗi hợp kim một trang: thành phần hoá học đầy đủ, tính chất cơ học, dung sai và các dạng sản phẩm chúng tôi cán hoặc đùn.",
+    "appsTitle": "Kim loại đi về đâu",
+    "appsSub": "Sáu ngành công nghiệp, mỗi ngành có cách chọn mác và trạng thái riêng.",
+    "capTitle": "Năng lực sản xuất bạn có thể dựa vào",
+    "capSub": "Nấu chảy, cán, đùn, anod hoá và đóng gói trong cùng một nhà máy — nên thời gian giao hàng không phụ thuộc bên thứ ba.",
+    "newsTitle": "Ghi chú thị trường và hướng dẫn kỹ thuật",
+    "newsSub": "Giá cả, tiêu chuẩn và ghi chú ứng dụng, do chính những người cán kim loại viết.",
+    "ctaTitle": "Gửi thông số kỹ thuật, nhận giá trong 24 giờ",
+    "ctaSub": "Cho chúng tôi biết hợp kim, trạng thái, kích thước và số lượng. Kỹ sư kinh doanh sẽ phản hồi kèm giá, thời gian giao hàng và chứng chỉ thử nghiệm lô.",
+    "metaTitle": "Nhôm tấm, cuộn, lá, thanh, ống và định hình — từ nhà máy | Zorlang",
+    "statCapacity": "50.000 t",
+    "statsLabels": [
+      "công suất năm",
+      "hợp kim",
+      "dạng sản phẩm",
+      "quốc gia xuất khẩu"
+    ],
+    "bullets": [
+      "Chứng chỉ thử nghiệm lô và báo cáo kích thước theo yêu cầu.",
+      "Kiểm định SGS hoặc BV trước khi xếp hàng.",
+      "Cắt theo chiều dài, xẻ dải, cưa và anodizing tại nhà máy.",
+      "Chụp ảnh đóng gói xuất khẩu theo từng pallet."
+    ]
+  },
+  "products": {
+    "h1": "Sản phẩm nhôm theo dạng và hợp kim",
+    "sub": "Sáu dạng sản phẩm, 23 hợp kim. Mỗi trang hợp kim có thành phần, cơ tính, dung sai và phiếu kỹ thuật tải về.",
+    "tableTitle": "Tổng quan hợp kim",
+    "tableSub": "Giá trị điển hình. Vui lòng xác nhận trạng thái và dung sai chính xác cho đơn hàng của bạn trên trang hợp kim.",
+    "formLabel": "Dạng sản phẩm có sẵn",
+    "sizesLabel": "Kích thước điển hình",
+    "viewAlloy": "Trang hợp kim"
+  },
+  "alloyPage": {
+    "specTitle": "Thông số kỹ thuật",
+    "specSub": "Giá trị theo chứng chỉ thử nghiệm lô; dung sai theo tiêu chuẩn nêu trên trang này trừ khi có thoả thuận khác.",
+    "chemTitle": "Thành phần hoá học",
+    "chemSub": "Giới hạn điển hình theo ASTM / EN cho các hợp kim chúng tôi cán và đùn.",
+    "mechTitle": "Tính chất cơ học",
+    "mechSub": "Giá trị điển hình ở nhiệt độ phòng cho trạng thái nêu trên.",
+    "appsTitle": "Ứng dụng",
+    "compareTitle": "So sánh với hợp kim khác",
+    "compareSub": "Hai hợp kim khách hàng thường đưa vào danh sách so sánh với hợp kim này nhất.",
+    "processTitle": "Quy trình và kiểm soát chất lượng",
+    "packingTitle": "Đóng gói",
+    "certTitle": "Chứng nhận và báo cáo",
+    "certBody": "Chứng chỉ thử nghiệm lô theo từng mẻ nấu, báo cáo kiểm tra kích thước, và giám định bên thứ ba SGS hoặc BV theo yêu cầu. Chứng chỉ đi kèm bộ chứng từ vận chuyển.",
+    "inquiryTitle": "Yêu cầu báo giá cho hợp kim này",
+    "inquirySub": "Hợp kim và độ dày đã được điền sẵn từ trang này — hãy thay đổi nếu bạn cần loại khác.",
+    "relatedTitle": "Tất cả mác",
+    "downloadNote": "PDF, 1 trang, được tạo từ dữ liệu trên trang này.",
+    "usesTitle": "Ứng dụng chính",
+    "usesSub": "Các ứng dụng điển hình trong sản xuất hàng loạt theo phiếu dữ liệu hợp kim.",
+    "appImgCaption": "Ảnh minh hoạ ứng dụng",
+    "compareHead": [
+      "Tính chất",
+      "Hợp kim này",
+      "Hợp kim so sánh"
+    ],
+    "qcGeneric": "Tính chất điển hình được kiểm tra theo từng mẻ nấu: thành phần bằng quang phổ mỗi mẻ nấu, độ bền kéo và giới hạn chảy mỗi mẻ đúc, độ cứng và kích thước trước khi đóng gói. Chứng chỉ vật liệu, báo cáo kích thước và giám định bên thứ ba (SGS hoặc BV) cấp theo số mẻ nấu.",
+    "otherTempers": "Trạng thái khác theo yêu cầu",
+    "meltingNote": "Khoảng nhiệt độ nóng chảy là khoảng solidus–liquidus điển hình của mác này.",
+    "prevImg": "Ảnh trước",
+    "nextImg": "Ảnh tiếp theo"
+  },
+  "applications": {
+    "h1": "Ứng dụng nhôm theo ngành",
+    "sub": "Sáu ngành chúng tôi cung cấp, kèm các hợp kim và trạng thái thực sự phù hợp với từng ngành.",
+    "alloysLabel": "Mác có sẵn"
+  },
+  "capabilities": {
+    "h1": "Năng lực sản xuất",
+    "sub": "Nấu chảy, đúc, cán, đùn, xử lý bề mặt và đóng gói — 50.000 tấn mỗi năm từ một cơ sở tại Lạc Dương.",
+    "equipTitle": "Thiết bị",
+    "equipSub": "Những dây chuyền quyết định khổ hàng chúng tôi giữ được, khả năng cán và xử lý bề mặt.",
+    "processTitle": "Từ thỏi đến container",
+    "processSub": "Sáu công đoạn được kiểm soát, mỗi công đoạn đều được ghi nhận theo lô.",
+    "capacityTitle": "Công suất tổng quan"
+  },
+  "quality": {
+    "h1": "Chất lượng và kiểm nghiệm",
+    "sub": "Thành phần hoá học, tính chất cơ học, ăn mòn và kích thước được kiểm tra tại nhà máy; có thể giám định bên thứ ba trước khi xếp hàng.",
+    "testTitle": "Chúng tôi kiểm nghiệm những gì",
+    "testSub": "Bốn hạng mục kiểm tra trên mỗi lô, cùng các thử nghiệm chuyên biệt theo ứng dụng khi có yêu cầu.",
+    "certTitle": "Tiêu chuẩn và chứng chỉ",
+    "certSub": "Chứng chỉ được cấp theo số mẻ nấu và đi kèm bộ chứng từ vận chuyển.",
+    "packTitle": "Đóng gói và xếp hàng",
+    "packSub": "Đóng gói xuất khẩu thiết kế cho vận tải đường biển, chụp ảnh từng pallet trước khi xếp hàng."
+  },
+  "news": {
+    "h1": "Tin tức và ghi chú kỹ thuật",
+    "sub": "Giá thị trường, hướng dẫn mua hàng, cập nhật tiêu chuẩn và ghi chú ứng dụng.",
+    "latest": "Mới nhất",
+    "categories": {
+      "market": "Thị trường",
+      "guide": "Hướng dẫn",
+      "standard": "Tiêu chuẩn",
+      "industry": "Ngành"
+    },
+    "catDesc": {
+      "market": "Biến động LME, phụ phí và ý nghĩa đối với đơn hàng của bạn.",
+      "guide": "Cách chọn hợp kim, trạng thái và dung sai mà không chỉ định vượt yêu cầu.",
+      "standard": "Thay đổi và làm rõ trong các tiêu chuẩn ASTM, EN và GB.",
+      "industry": "Nơi nhôm đang thắng và thua ở từng thị trường cuối."
+    },
+    "empty": "Chưa có bài viết trong danh mục này.",
+    "rss": "Nguồn cấp RSS",
+    "sources": "Nguồn dữ liệu",
+    "authorRole": "Kinh doanh kỹ thuật, Zorlang Aluminum"
+  },
+  "about": {
+    "h1": "Giới thiệu Zorlang Aluminum",
+    "sub": "Nhà máy cán và đùn nhôm tại Lạc Dương, Hà Nam, cung cấp cho nhà xuất khẩu, xưởng gia công và OEM từ năm 2006.",
+    "timelineTitle": "Các mốc phát triển",
+    "capTitle": "Nhà máy tổng quan"
+  },
+  "contact": {
+    "h1": "Liên hệ",
+    "sub": "Gửi hợp kim, trạng thái, kích thước và số lượng. Kỹ sư kinh doanh phản hồi trong vòng một ngày làm việc.",
+    "formTitle": "Gửi yêu cầu",
+    "detailsTitle": "Liên hệ trực tiếp",
+    "hours": "Thứ Hai – Thứ Bảy 08:30–18:00 (GMT+8)",
+    "address": "Địa chỉ",
+    "note": "Chúng tôi không chia sẻ thông tin của bạn. Câu hỏi kỹ thuật do nhà máy trả lời, không phải tổng đài.",
+    "hoursLabel": "Giờ làm việc"
+  },
+  "form": {
+    "name": "Họ tên",
+    "company": "Công ty",
+    "email": "Email",
+    "alloy": "Hợp kim",
+    "thickness": "Độ dày",
+    "quantity": "Số lượng",
+    "message": "Thông số kỹ thuật",
+    "submit": "Gửi yêu cầu",
+    "required": "Bắt buộc",
+    "success": "Cảm ơn bạn — yêu cầu của bạn đã sẵn sàng để gửi. Nếu ứng dụng email không mở, hãy gửi email trực tiếp cho chúng tôi.",
+    "privacy": "Khi gửi, bạn đồng ý được liên hệ về yêu cầu này."
+  },
+  "footer": {
+    "about": "Nhôm tấm, cuộn, lá, thanh, ống và thanh định hình, cán và xuất khẩu từ Lạc Dương, Hà Nam, Trung Quốc.",
+    "products": "Sản phẩm",
+    "company": "Công ty",
+    "contact": "Liên hệ",
+    "rights": "Bảo lưu mọi quyền.",
+    "note": "Các giá trị là điển hình; chứng chỉ thử nghiệm lô cho lô hàng của bạn là tài liệu có hiệu lực."
+  },
+  "a11y": {
+    "skip": "Bỏ qua đến nội dung",
+    "menu": "Menu",
+    "close": "Đóng",
+    "language": "Ngôn ngữ",
+    "whatsapp": "Liên hệ qua WhatsApp"
+  },
+  "forms": {
+    "plate": "Nhôm tấm",
+    "coil": "Nhôm cuộn",
+    "bar": "Nhôm thanh",
+    "tube": "Nhôm ống",
+    "profile": "Nhôm định hình",
+    "foil": "Lá nhôm"
+  }
+}

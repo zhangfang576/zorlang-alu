@@ -1,0 +1,2087 @@
+{
+  "forms": [
+    {
+      "id": "plate",
+      "image": "product-aluminum-plate.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": "coil",
+      "image": "product-aluminum-coil.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": "foil",
+      "image": "product-aluminum-foil.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": "bar",
+      "image": "product-aluminum-bar.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": "tube",
+      "image": "product-aluminum-tube.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": "profile",
+      "image": "product-aluminum-profile.jpg",
+      "img": [
+        1200,
+        900
+      ]
+    }
+  ],
+  "alloys": [
+    {
+      "id": "1050",
+      "series": "1xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "coil",
+        "foil"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.71 g/cm³",
+      "chem": [
+        [
+          "Al",
+          "99.50 min"
+        ],
+        [
+          "Si+Fe",
+          "0.40 max"
+        ],
+        [
+          "Cu",
+          "0.05 max"
+        ],
+        [
+          "Mn",
+          "0.05 max"
+        ],
+        [
+          "Mg",
+          "0.05 max"
+        ],
+        [
+          "Zn",
+          "0.05 max"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "80 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "35 MPa"
+        ],
+        [
+          "Elongation A",
+          "35 %"
+        ],
+        [
+          "Hardness",
+          "25 HBW"
+        ]
+      ],
+      "compare": [
+        "1100",
+        "3003"
+      ],
+      "appImg": "app-foil-packaging.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "铝箔",
+        "导电母线",
+        "散热翅片",
+        "标牌",
+        "化工设备衬里"
+      ],
+      "melting": "646 – 657 °C",
+      "gallery": [
+        "gal-1050-1.jpg",
+        "gal-1050-2.jpg",
+        "gal-1050-3.jpg",
+        "gal-1050-4.jpg"
+      ],
+      "cardImg": "gal-1050-1.jpg"
+    },
+    {
+      "id": "1100",
+      "series": "1xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "coil",
+        "foil"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.71 g/cm³",
+      "chem": [
+        [
+          "Al",
+          "99.00 min"
+        ],
+        [
+          "Si+Fe",
+          "0.95 max"
+        ],
+        [
+          "Cu",
+          "0.05 – 0.20"
+        ],
+        [
+          "Mn",
+          "0.05 max"
+        ],
+        [
+          "Zn",
+          "0.10 max"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "90 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "35 MPa"
+        ],
+        [
+          "Elongation A",
+          "35 %"
+        ],
+        [
+          "Hardness",
+          "28 HBW"
+        ]
+      ],
+      "compare": [
+        "1050",
+        "3003"
+      ],
+      "appImg": "app-busbar-electrical.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "铭牌标牌",
+        "深冲器皿",
+        "热交换器",
+        "包装容器"
+      ],
+      "melting": "643 – 657 °C",
+      "gallery": [
+        "gal-1100-1.jpg",
+        "gal-1100-2.jpg",
+        "gal-1100-3.jpg"
+      ],
+      "cardImg": "gal-1100-1.jpg"
+    },
+    {
+      "id": "2011",
+      "series": "2xxx",
+      "forms": [
+        "bar",
+        "tube"
+      ],
+      "temper": "T3",
+      "tempers": [
+        "T3"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 6892",
+        "ASTM B221",
+        "EN 755-2",
+        "ASTM B211"
+      ],
+      "thickness": "Ø 6 – 300 mm",
+      "width": "60 – 600 mm",
+      "length": "3,000 – 6,000 mm",
+      "surface": [
+        "Mill finish",
+        "Turned",
+        "Anodised"
+      ],
+      "primaryForm": "bar",
+      "density": "2.83 g/cm³",
+      "chem": [
+        [
+          "Cu",
+          "5.0 – 6.0"
+        ],
+        [
+          "Bi",
+          "0.20 – 0.60"
+        ],
+        [
+          "Pb",
+          "0.20 – 0.60"
+        ],
+        [
+          "Fe",
+          "0.70 max"
+        ],
+        [
+          "Si",
+          "0.40 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "380 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "295 MPa"
+        ],
+        [
+          "Elongation A",
+          "15 %"
+        ],
+        [
+          "Hardness",
+          "110 HBW"
+        ]
+      ],
+      "compare": [
+        "6061",
+        "2017"
+      ],
+      "appImg": "app-fastener.jpg",
+      "defaultThickness": "Ø 25 mm",
+      "usesCn": [
+        "精密螺丝",
+        "连接件",
+        "钟表与光学零件"
+      ],
+      "melting": "540 – 630 °C",
+      "gallery": [
+        "gal-2011-1.jpg",
+        "gal-2011-2.jpg"
+      ],
+      "cardImg": "gal-2011-1.jpg"
+    },
+    {
+      "id": "2017",
+      "series": "2xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube"
+      ],
+      "temper": "T4",
+      "tempers": [
+        "T4"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "Ø 6 – 300 mm",
+      "width": "60 – 600 mm",
+      "length": "3,000 – 6,000 mm",
+      "surface": [
+        "Mill finish",
+        "Turned",
+        "Anodised"
+      ],
+      "primaryForm": "bar",
+      "density": "2.79 g/cm³",
+      "chem": [
+        [
+          "Cu",
+          "3.5 – 4.5"
+        ],
+        [
+          "Mg",
+          "0.40 – 1.00"
+        ],
+        [
+          "Mn",
+          "0.40 – 1.00"
+        ],
+        [
+          "Si",
+          "0.80 max"
+        ],
+        [
+          "Fe",
+          "0.70 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "425 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "275 MPa"
+        ],
+        [
+          "Elongation A",
+          "22 %"
+        ],
+        [
+          "Hardness",
+          "105 HBW"
+        ]
+      ],
+      "compare": [
+        "6061",
+        "2011"
+      ],
+      "appImg": "app-fastener.jpg",
+      "defaultThickness": "Ø 25 mm",
+      "usesCn": [
+        "航空铆钉",
+        "螺栓",
+        "卡箍",
+        "一般承力结构件"
+      ],
+      "melting": "510 – 640 °C",
+      "gallery": [
+        "gal-2017-1.jpg",
+        "gal-2017-2.jpg"
+      ],
+      "cardImg": "gal-2017-1.jpg"
+    },
+    {
+      "id": "3003",
+      "series": "3xxx",
+      "forms": [
+        "plate",
+        "tube",
+        "coil",
+        "foil",
+        "profile"
+      ],
+      "temper": "H14",
+      "tempers": [
+        "H14"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.73 g/cm³",
+      "chem": [
+        [
+          "Mn",
+          "1.0 – 1.5"
+        ],
+        [
+          "Cu",
+          "0.05 – 0.20"
+        ],
+        [
+          "Si",
+          "0.60 max"
+        ],
+        [
+          "Fe",
+          "0.70 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "150 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "145 MPa"
+        ],
+        [
+          "Elongation A",
+          "8 %"
+        ],
+        [
+          "Hardness",
+          "40 HBW"
+        ]
+      ],
+      "compare": [
+        "3004",
+        "8011"
+      ],
+      "appImg": "app-heat-exchanger.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "炊具餐具",
+        "散热器",
+        "油箱",
+        "屋面板",
+        "空调箔"
+      ],
+      "melting": "643 – 654 °C",
+      "gallery": [
+        "gal-3003-1.jpg",
+        "gal-3003-2.jpg",
+        "gal-3003-3.jpg",
+        "gal-3003-4.jpg",
+        "gal-3003-5.jpg"
+      ],
+      "cardImg": "gal-3003-1.jpg"
+    },
+    {
+      "id": "3004",
+      "series": "3xxx",
+      "forms": [
+        "plate",
+        "tube",
+        "coil"
+      ],
+      "temper": "H32",
+      "tempers": [
+        "H32"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.72 g/cm³",
+      "chem": [
+        [
+          "Mn",
+          "1.0 – 1.5"
+        ],
+        [
+          "Mg",
+          "0.8 – 1.3"
+        ],
+        [
+          "Cu",
+          "0.25 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "215 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "170 MPa"
+        ],
+        [
+          "Elongation A",
+          "10 %"
+        ],
+        [
+          "Hardness",
+          "55 HBW"
+        ]
+      ],
+      "compare": [
+        "3003",
+        "3104"
+      ],
+      "appImg": "app-roofing-facade.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "压型屋面板",
+        "幕墙板",
+        "化工储罐",
+        "灯杆"
+      ],
+      "melting": "629 – 654 °C",
+      "gallery": [
+        "gal-3004-1.jpg",
+        "gal-3004-2.jpg",
+        "gal-3004-3.jpg",
+        "gal-3004-4.jpg",
+        "gal-3004-5.jpg"
+      ],
+      "cardImg": "gal-3004-1.jpg"
+    },
+    {
+      "id": "3104",
+      "series": "3xxx",
+      "forms": [
+        "plate",
+        "coil"
+      ],
+      "temper": "H19",
+      "tempers": [
+        "H19"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.72 g/cm³",
+      "chem": [
+        [
+          "Mn",
+          "0.8 – 1.4"
+        ],
+        [
+          "Mg",
+          "0.8 – 1.3"
+        ],
+        [
+          "Fe",
+          "0.30 – 0.50"
+        ],
+        [
+          "Cu",
+          "0.05 – 0.25"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "285 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "260 MPa"
+        ],
+        [
+          "Elongation A",
+          "3 %"
+        ],
+        [
+          "Hardness",
+          "85 HBW"
+        ]
+      ],
+      "compare": [
+        "5182",
+        "3004"
+      ],
+      "appImg": "app-can-body.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "易拉罐罐体（DI 变薄拉伸）",
+        "食品罐",
+        "瓶盖"
+      ],
+      "melting": "630 – 655 °C",
+      "gallery": [
+        "gal-3104-1.jpg",
+        "gal-3104-2.jpg"
+      ],
+      "cardImg": "gal-3104-1.jpg"
+    },
+    {
+      "id": "4032",
+      "series": "4xxx",
+      "forms": [
+        "bar"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 6892",
+        "ASTM B221",
+        "EN 755-2"
+      ],
+      "thickness": "Ø 6 – 300 mm",
+      "width": "60 – 600 mm",
+      "length": "3,000 – 6,000 mm",
+      "surface": [
+        "Mill finish",
+        "Turned",
+        "Anodised"
+      ],
+      "primaryForm": "bar",
+      "density": "2.69 g/cm³",
+      "chem": [
+        [
+          "Si",
+          "11.0 – 13.5"
+        ],
+        [
+          "Cu",
+          "0.5 – 1.3"
+        ],
+        [
+          "Mg",
+          "0.8 – 1.3"
+        ],
+        [
+          "Ni",
+          "0.5 – 1.3"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "380 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "315 MPa"
+        ],
+        [
+          "Elongation A",
+          "5 %"
+        ],
+        [
+          "Hardness",
+          "120 HBW"
+        ]
+      ],
+      "compare": [
+        "4045",
+        "6061"
+      ],
+      "appImg": "app-piston.jpg",
+      "defaultThickness": "Ø 25 mm",
+      "usesCn": [
+        "锻造活塞",
+        "缸盖镶块",
+        "低膨胀耐磨件"
+      ],
+      "melting": "555 – 585 °C",
+      "gallery": [
+        "gal-4032-1.jpg"
+      ],
+      "cardImg": "gal-4032-1.jpg"
+    },
+    {
+      "id": "4045",
+      "series": "4xxx",
+      "forms": [
+        "bar",
+        "coil"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Si",
+          "9.0 – 11.0"
+        ],
+        [
+          "Fe",
+          "0.80 max"
+        ],
+        [
+          "Cu",
+          "0.30 max"
+        ],
+        [
+          "Mn",
+          "0.05 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "120 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "55 MPa"
+        ],
+        [
+          "Elongation A",
+          "20 %"
+        ],
+        [
+          "Hardness",
+          "35 HBW"
+        ]
+      ],
+      "compare": [
+        "4343",
+        "3003"
+      ],
+      "appImg": "app-heat-exchanger.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "钎焊复合板包覆层",
+        "铝硅焊丝",
+        "钎料环"
+      ],
+      "melting": "577 – 600 °C",
+      "gallery": [
+        "gal-4045-1.jpg",
+        "gal-4045-2.jpg"
+      ],
+      "cardImg": "gal-4045-1.jpg"
+    },
+    {
+      "id": "4343",
+      "series": "4xxx",
+      "forms": [
+        "plate",
+        "coil",
+        "foil"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 3198"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Si",
+          "6.8 – 8.2"
+        ],
+        [
+          "Fe",
+          "0.80 max"
+        ],
+        [
+          "Cu",
+          "0.25 max"
+        ],
+        [
+          "Zn",
+          "0.20 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "115 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "50 MPa"
+        ],
+        [
+          "Elongation A",
+          "20 %"
+        ],
+        [
+          "Hardness",
+          "33 HBW"
+        ]
+      ],
+      "compare": [
+        "4045",
+        "1050"
+      ],
+      "appImg": "app-heat-exchanger.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "汽车散热器",
+        "中冷器",
+        "空调换热器钎焊板"
+      ],
+      "melting": "577 – 615 °C",
+      "gallery": [
+        "gal-4343-1.jpg"
+      ],
+      "cardImg": "gal-4343-1.jpg"
+    },
+    {
+      "id": "5005",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "tube",
+        "coil",
+        "profile"
+      ],
+      "temper": "H14",
+      "tempers": [
+        "H14"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.50 – 1.10"
+        ],
+        [
+          "Cu",
+          "0.20 max"
+        ],
+        [
+          "Si",
+          "0.30 max"
+        ],
+        [
+          "Fe",
+          "0.70 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "165 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "145 MPa"
+        ],
+        [
+          "Elongation A",
+          "8 %"
+        ],
+        [
+          "Hardness",
+          "45 HBW"
+        ]
+      ],
+      "compare": [
+        "3003",
+        "5052"
+      ],
+      "appImg": "app-roofing-facade.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "阳极氧化幕墙板",
+        "装饰件",
+        "仪表面板"
+      ],
+      "melting": "632 – 655 °C",
+      "gallery": [
+        "gal-5005-1.jpg",
+        "gal-5005-2.jpg"
+      ],
+      "cardImg": "gal-5005-1.jpg"
+    },
+    {
+      "id": "5052",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "coil",
+        "profile"
+      ],
+      "temper": "H32",
+      "tempers": [
+        "H32"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.68 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "2.2 – 2.8"
+        ],
+        [
+          "Cr",
+          "0.15 – 0.35"
+        ],
+        [
+          "Cu",
+          "0.10 max"
+        ],
+        [
+          "Si",
+          "0.25 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "230 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "195 MPa"
+        ],
+        [
+          "Elongation A",
+          "12 %"
+        ],
+        [
+          "Hardness",
+          "60 HBW"
+        ]
+      ],
+      "compare": [
+        "3003",
+        "5083"
+      ],
+      "appImg": "app-marine-hull.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "油箱",
+        "船舶舾装",
+        "压力容器",
+        "地铁与车厢内饰"
+      ],
+      "melting": "607 – 650 °C",
+      "gallery": [
+        "gal-5052-1.jpg",
+        "gal-5052-2.jpg",
+        "gal-5052-3.jpg"
+      ],
+      "cardImg": "gal-5052-1.jpg"
+    },
+    {
+      "id": "5083",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "H116",
+      "tempers": [
+        "H116",
+        "H321"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.66 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "4.0 – 4.9"
+        ],
+        [
+          "Mn",
+          "0.40 – 1.00"
+        ],
+        [
+          "Cr",
+          "0.05 – 0.25"
+        ],
+        [
+          "Fe",
+          "0.40 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "305 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "215 MPa"
+        ],
+        [
+          "Elongation A",
+          "16 %"
+        ],
+        [
+          "Hardness",
+          "70 HBW"
+        ]
+      ],
+      "compare": [
+        "5052",
+        "5A06"
+      ],
+      "appImg": "app-marine-hull.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "船体与甲板",
+        "LNG 与低温储罐",
+        "铝合金车体"
+      ],
+      "melting": "574 – 638 °C",
+      "gallery": [
+        "gal-5083-1.jpg",
+        "gal-5083-2.jpg"
+      ],
+      "cardImg": "gal-5083-2.jpg"
+    },
+    {
+      "id": "5182",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "coil"
+      ],
+      "temper": "H19",
+      "tempers": [
+        "H19"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2"
+      ],
+      "thickness": "0.2 – 4.0 mm",
+      "width": "up to 2,650 mm",
+      "length": "coil ID 508 mm · 2 – 8 t",
+      "surface": [
+        "Mill finish",
+        "Coated",
+        "Slit to width"
+      ],
+      "primaryForm": "coil",
+      "density": "2.65 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "4.0 – 5.0"
+        ],
+        [
+          "Mn",
+          "0.20 – 0.50"
+        ],
+        [
+          "Cu",
+          "0.15 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "400 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "365 MPa"
+        ],
+        [
+          "Elongation A",
+          "4 %"
+        ],
+        [
+          "Hardness",
+          "105 HBW"
+        ]
+      ],
+      "compare": [
+        "3104",
+        "3004"
+      ],
+      "appImg": "app-can-body.jpg",
+      "defaultThickness": "1.2 mm",
+      "usesCn": [
+        "易拉罐盖",
+        "拉环",
+        "汽车内板"
+      ],
+      "melting": "577 – 638 °C",
+      "gallery": [
+        "gal-5182-1.jpg",
+        "gal-5182-2.jpg",
+        "gal-5182-3.jpg"
+      ],
+      "cardImg": "gal-5182-1.jpg"
+    },
+    {
+      "id": "5754",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "tube",
+        "coil"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O",
+        "H111"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.66 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "2.6 – 3.6"
+        ],
+        [
+          "Mn",
+          "0.50 max"
+        ],
+        [
+          "Cr",
+          "0.30 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "200 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "85 MPa"
+        ],
+        [
+          "Elongation A",
+          "26 %"
+        ],
+        [
+          "Hardness",
+          "50 HBW"
+        ]
+      ],
+      "compare": [
+        "5182",
+        "5083"
+      ],
+      "appImg": "app-ev-body.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "汽车车身内板与底盘件",
+        "储罐",
+        "焊接结构件"
+      ],
+      "melting": "600 – 645 °C",
+      "gallery": [
+        "gal-5754-1.jpg",
+        "gal-5754-2.jpg",
+        "gal-5754-3.jpg"
+      ],
+      "cardImg": "gal-5754-2.jpg"
+    },
+    {
+      "id": "5A06",
+      "series": "5xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "O",
+      "tempers": [
+        "O"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.64 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "5.8 – 6.8"
+        ],
+        [
+          "Mn",
+          "0.50 – 0.80"
+        ],
+        [
+          "Si",
+          "0.40 max"
+        ],
+        [
+          "Fe",
+          "0.40 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "320 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "160 MPa"
+        ],
+        [
+          "Elongation A",
+          "20 %"
+        ],
+        [
+          "Hardness",
+          "70 HBW"
+        ]
+      ],
+      "compare": [
+        "5083",
+        "5754"
+      ],
+      "appImg": "app-rail-profile.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "船舶上层建筑",
+        "焊接承压结构",
+        "轨道车辆"
+      ],
+      "melting": "570 – 640 °C",
+      "gallery": [
+        "gal-5A06-1.jpg",
+        "gal-5A06-2.jpg",
+        "gal-5A06-3.jpg"
+      ],
+      "cardImg": "gal-5A06-1.jpg"
+    },
+    {
+      "id": "6005A",
+      "series": "6xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.8 – 20 mm wall",
+      "width": "up to 400 mm section",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "Anodised",
+        "Powder coated"
+      ],
+      "primaryForm": "profile",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.40 – 0.70"
+        ],
+        [
+          "Si",
+          "0.50 – 0.90"
+        ],
+        [
+          "Mn",
+          "0.50 max"
+        ],
+        [
+          "Cr",
+          "0.30 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "290 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "240 MPa"
+        ],
+        [
+          "Elongation A",
+          "10 %"
+        ],
+        [
+          "Hardness",
+          "90 HBW"
+        ]
+      ],
+      "compare": [
+        "6063",
+        "6082"
+      ],
+      "appImg": "app-rail-profile.jpg",
+      "defaultThickness": "custom section",
+      "usesCn": [
+        "高铁与地铁车体型材",
+        "底架",
+        "模块化框架"
+      ],
+      "melting": "585 – 655 °C",
+      "gallery": [
+        "gal-6005A-1.jpg",
+        "gal-6005A-2.jpg"
+      ],
+      "cardImg": "gal-6005A-1.jpg"
+    },
+    {
+      "id": "6061",
+      "series": "6xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.8 – 1.2"
+        ],
+        [
+          "Si",
+          "0.40 – 0.80"
+        ],
+        [
+          "Cu",
+          "0.15 – 0.40"
+        ],
+        [
+          "Cr",
+          "0.04 – 0.35"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "310 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "275 MPa"
+        ],
+        [
+          "Elongation A",
+          "12 %"
+        ],
+        [
+          "Hardness",
+          "95 HBW"
+        ]
+      ],
+      "compare": [
+        "6082",
+        "6005A"
+      ],
+      "appImg": "app-machine-frame.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "模具与工装",
+        "自动化设备机架",
+        "自行车架",
+        "CNC 结构件"
+      ],
+      "melting": "582 – 652 °C",
+      "gallery": [
+        "gal-6061-1.jpg",
+        "gal-6061-2.jpg"
+      ],
+      "cardImg": "gal-6061-1.jpg"
+    },
+    {
+      "id": "6063",
+      "series": "6xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "T5",
+      "tempers": [
+        "T5"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.8 – 20 mm wall",
+      "width": "up to 400 mm section",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "Anodised",
+        "Powder coated"
+      ],
+      "primaryForm": "profile",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.45 – 0.90"
+        ],
+        [
+          "Si",
+          "0.20 – 0.60"
+        ],
+        [
+          "Fe",
+          "0.35 max"
+        ],
+        [
+          "Cu",
+          "0.10 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "175 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "130 MPa"
+        ],
+        [
+          "Elongation A",
+          "12 %"
+        ],
+        [
+          "Hardness",
+          "60 HBW"
+        ]
+      ],
+      "compare": [
+        "6005A",
+        "6061"
+      ],
+      "appImg": "app-window-profile.jpg",
+      "defaultThickness": "custom section",
+      "usesCn": [
+        "门窗幕墙型材",
+        "栏杆扶手",
+        "散热器",
+        "装饰型材"
+      ],
+      "melting": "585 – 655 °C",
+      "gallery": [
+        "gal-6063-1.jpg",
+        "gal-6063-2.jpg",
+        "gal-6063-3.jpg"
+      ],
+      "cardImg": "gal-6063-1.jpg"
+    },
+    {
+      "id": "6082",
+      "series": "6xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.60 – 1.20"
+        ],
+        [
+          "Si",
+          "0.70 – 1.30"
+        ],
+        [
+          "Mn",
+          "0.40 – 1.00"
+        ],
+        [
+          "Cr",
+          "0.25 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "310 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "260 MPa"
+        ],
+        [
+          "Elongation A",
+          "10 %"
+        ],
+        [
+          "Hardness",
+          "95 HBW"
+        ]
+      ],
+      "compare": [
+        "6061",
+        "5754"
+      ],
+      "appImg": "app-bridge-structure.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "桥梁与建筑结构梁",
+        "汽车结构件",
+        "球头销",
+        "锻件"
+      ],
+      "melting": "555 – 650 °C",
+      "gallery": [
+        "gal-6082-1.jpg",
+        "gal-6082-2.jpg",
+        "gal-6082-3.jpg",
+        "gal-6082-4.jpg"
+      ],
+      "cardImg": "gal-6082-1.jpg"
+    },
+    {
+      "id": "6101",
+      "series": "6xxx",
+      "forms": [
+        "tube",
+        "profile"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 6892",
+        "ASTM B221",
+        "EN 755-2"
+      ],
+      "thickness": "0.8 – 20 mm wall",
+      "width": "up to 400 mm section",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "Anodised",
+        "Powder coated"
+      ],
+      "primaryForm": "profile",
+      "density": "2.70 g/cm³",
+      "chem": [
+        [
+          "Mg",
+          "0.35 – 0.80"
+        ],
+        [
+          "Si",
+          "0.30 – 0.70"
+        ],
+        [
+          "Fe",
+          "0.50 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "200 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "170 MPa"
+        ],
+        [
+          "Elongation A",
+          "12 %"
+        ],
+        [
+          "Hardness",
+          "60 HBW"
+        ]
+      ],
+      "compare": [
+        "1050",
+        "6061"
+      ],
+      "appImg": "app-busbar-electrical.jpg",
+      "defaultThickness": "custom section",
+      "usesCn": [
+        "导电母线槽",
+        "开关柜母排",
+        "充电桩导体"
+      ],
+      "melting": "600 – 655 °C",
+      "gallery": [
+        "gal-6101-1.jpg",
+        "gal-6101-2.jpg"
+      ],
+      "cardImg": "gal-6101-1.jpg"
+    },
+    {
+      "id": "7005",
+      "series": "7xxx",
+      "forms": [
+        "plate",
+        "bar",
+        "tube",
+        "profile"
+      ],
+      "temper": "T6",
+      "tempers": [
+        "T6"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 6892"
+      ],
+      "thickness": "0.2 – 150 mm",
+      "width": "up to 2,650 mm",
+      "length": "up to 12,000 mm",
+      "surface": [
+        "Mill finish",
+        "PVC coated",
+        "Anodised"
+      ],
+      "primaryForm": "plate",
+      "density": "2.78 g/cm³",
+      "chem": [
+        [
+          "Zn",
+          "4.0 – 5.0"
+        ],
+        [
+          "Mg",
+          "1.0 – 1.8"
+        ],
+        [
+          "Mn",
+          "0.20 – 0.70"
+        ],
+        [
+          "Zr",
+          "0.08 – 0.20"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "350 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "290 MPa"
+        ],
+        [
+          "Elongation A",
+          "12 %"
+        ],
+        [
+          "Hardness",
+          "105 HBW"
+        ]
+      ],
+      "compare": [
+        "6061",
+        "6082"
+      ],
+      "appImg": "app-bicycle-frame.jpg",
+      "defaultThickness": "6.0 mm",
+      "usesCn": [
+        "自行车车架",
+        "球拍",
+        "滑雪杆",
+        "焊接承力件"
+      ],
+      "melting": "600 – 650 °C",
+      "gallery": [
+        "gal-7005-1.jpg",
+        "gal-7005-2.jpg",
+        "gal-7005-3.jpg"
+      ],
+      "cardImg": "gal-7005-1.jpg"
+    },
+    {
+      "id": "8011",
+      "series": "8xxx",
+      "forms": [
+        "plate",
+        "coil",
+        "foil"
+      ],
+      "temper": "H18",
+      "tempers": [
+        "H18"
+      ],
+      "standards": [
+        "GB/T 3190",
+        "GB/T 3880",
+        "ASTM B209",
+        "EN 485-2",
+        "GB/T 3198"
+      ],
+      "thickness": "0.006 – 0.20 mm",
+      "width": "up to 1,800 mm",
+      "length": "coil ID 76 / 152 mm · up to 5 t",
+      "surface": [
+        "Mill finish",
+        "Bright",
+        "Lubricated"
+      ],
+      "primaryForm": "foil",
+      "density": "2.71 g/cm³",
+      "chem": [
+        [
+          "Si",
+          "0.50 – 0.90"
+        ],
+        [
+          "Fe",
+          "0.60 – 1.00"
+        ],
+        [
+          "Mn",
+          "0.20 max"
+        ],
+        [
+          "Cu",
+          "0.10 max"
+        ],
+        [
+          "Al",
+          "remainder"
+        ]
+      ],
+      "mech": [
+        [
+          "Tensile strength Rm",
+          "150 MPa"
+        ],
+        [
+          "Yield strength Rp0.2",
+          "140 MPa"
+        ],
+        [
+          "Elongation A",
+          "4 %"
+        ],
+        [
+          "Hardness",
+          "50 HBW"
+        ]
+      ],
+      "compare": [
+        "1050",
+        "3003"
+      ],
+      "appImg": "app-foil-packaging.jpg",
+      "defaultThickness": "0.05 mm",
+      "usesCn": [
+        "瓶盖料",
+        "药用铝箔",
+        "封口垫片",
+        "复合包装"
+      ],
+      "melting": "620 – 660 °C",
+      "gallery": [
+        "gal-8011-1.jpg",
+        "gal-8011-2.jpg",
+        "gal-8011-3.jpg"
+      ],
+      "cardImg": "gal-8011-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "industries": [
+    {
+      "id": "construction",
+      "img": "app-01-construction.jpg",
+      "t": "Bauwesen und Fassade",
+      "d": "Vorhangfassade, Fenstersysteme, Dacheindeckung und Verkleidung. 6063 für eloxierte Profile, 3003 und 5005 für Bleche, die der Witterung ausgesetzt sind, 6082 wo die Verbindung Last aufnimmt.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "5005",
+        "6063",
+        "6082"
+      ]
+    },
+    {
+      "id": "transport",
+      "img": "app-02-automotive.jpg",
+      "t": "Transport und Automobilbau",
+      "d": "Lkw-Aufbauten, Trailer-Paneele, Kraftstofftanks und Batteriegehäuse für Elektrofahrzeuge. 5052 für umgeformte Paneele und Tanks, 6061 für bearbeitete Strukturteile, 5083 für schwer geschweißte Aufbauten.",
+      "alloys": [
+        "2017",
+        "3003",
+        "4032",
+        "4343",
+        "5052",
+        "5083",
+        "5182",
+        "5754",
+        "5A06",
+        "6005A",
+        "6061",
+        "6082",
+        "7005"
+      ]
+    },
+    {
+      "id": "marine",
+      "img": "app-04-marine.jpg",
+      "t": "Marine und Offshore",
+      "d": "Rümpfe, Decks, Aufbauten und Beschläge. 5083 in H116 oder H321 für geschweißte Strukturen, 5052 für Blechteile und Innenausbau.",
+      "alloys": [
+        "5052",
+        "5083",
+        "5A06"
+      ]
+    },
+    {
+      "id": "energy",
+      "img": "app-05-energy.jpg",
+      "t": "Neue Energie und Elektrotechnik",
+      "d": "Solarmontage, Batteriefolie, Stromschienen und Kühlkörper. 1050 für Leitfähigkeit, 3003 für Montageschienen, 6063 für stranggepresste Rahmen und Kühlkörper.",
+      "alloys": [
+        "1050",
+        "3003",
+        "5083",
+        "6063",
+        "6101"
+      ]
+    },
+    {
+      "id": "packaging",
+      "img": "app-06-packaging.jpg",
+      "t": "Verpackung und Lebensmittelkontakt",
+      "d": "Folienbehälter, Verschlüsse, Deckel und aseptische Verpackungen. 1100 und 1050 im Zustand O, lebensmittelechte Oberfläche, enge Dickentoleranz.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3104",
+        "5182",
+        "8011"
+      ]
+    },
+    {
+      "id": "industrial",
+      "img": "app-08-industrial.jpg",
+      "t": "Industrieanlagen und Elektronik",
+      "d": "Maschinengestelle, Schutzumhausungen, Fördertechnik und Kühlkörper. 6063 für Nut- und Rippenprofile, 6061 für bearbeitete Platten, 1050 für Abschirmungen.",
+      "alloys": [
+        "1050",
+        "1100",
+        "2011",
+        "3003",
+        "4045",
+        "4343",
+        "5052",
+        "5754",
+        "6061",
+        "6063",
+        "6082",
+        "6101"
+      ]
+    }
+  ],
+  "equipment": [
+    [
+      "Schmelzen und Gießen",
+      "2 Linien, 12-t-Öfen, DC-Guss",
+      "2"
+    ],
+    [
+      "Warmwalzen",
+      "1.450-mm-Reversierwalzwerk",
+      "1"
+    ],
+    [
+      "Kaltwalzen",
+      "1.650 mm 4-Walzen-Gerüst, 0,2–6 mm",
+      "2"
+    ],
+    [
+      "Strangpressen",
+      "600–3.600 t",
+      "6"
+    ],
+    [
+      "Eloxieren",
+      "10–25 µm, 6-m-Becken",
+      "2"
+    ],
+    [
+      "Zuschnitt und Längsteilen",
+      "0,2–6 mm, 100–2.650 mm",
+      "3"
+    ]
+  ],
+  "processSteps": [
+    [
+      "Schmelzen und Gießen",
+      "Spektral geprüfte Chemie, Inline-Entgasung und Kornfeinung vor dem Guss des Barrens."
+    ],
+    [
+      "Warm- und Kaltwalzen",
+      "Vorwalzen auf dem Reversierwalzwerk, danach Kaltwalzen mit online überwachter Dicke und Planheit."
+    ],
+    [
+      "Wärmebehandlung",
+      "Glühen, Lösungsglühen und Auslagern, dokumentiert nach Ofencharge und Charge."
+    ],
+    [
+      "Zuschneiden und Längsteilen",
+      "Zuschnitt, Längsteilen und Sägen nach Zeichnung, mit Maßfreigabe des ersten Teils."
+    ],
+    [
+      "Prüfung",
+      "Abmessungen, Oberfläche, mechanische Eigenschaften und Chemie geprüft gegen das Werkszeugnis."
+    ],
+    [
+      "Verpackung",
+      "Feuchtigkeitssperre, Kantenschutz und Stahlbandage, fotografiert pro Palette."
+    ]
+  ],
+  "tests": [
+    [
+      "Zusammensetzung",
+      "Optische Emissionsspektrometrie bei jeder Schmelze, Bericht mit 0,01 % Auflösung."
+    ],
+    [
+      "Mechanische Eigenschaften",
+      "Zugfestigkeit, Streckgrenze und Dehnung nach ASTM E8 / EN ISO 6892."
+    ],
+    [
+      "Korrosion",
+      "Salzsprühnebel- und interkristalline Korrosionsprüfung für Marine- und beschichtete Güten."
+    ],
+    [
+      "Abmessungen",
+      "Dicke, Breite, Planheit und Rechtwinkligkeit gemessen gegen die bestellte Toleranz."
+    ]
+  ],
+  "standardsRows": [
+    [
+      "ISO 9001",
+      "Qualitätsmanagementsystem",
+      "Unternehmensweit"
+    ],
+    [
+      "ASTM B209",
+      "Blech, Tafel und Coil",
+      "Pro Charge"
+    ],
+    [
+      "ASTM B221 / B210",
+      "Stranggepresster Rundstab und Rohr",
+      "Pro Charge"
+    ],
+    [
+      "EN 485 / EN 755",
+      "Blech, Band und Strangpressprofil",
+      "Pro Charge"
+    ],
+    [
+      "SGS / BV",
+      "Drittprüfung",
+      "Auf Wunsch"
+    ]
+  ],
+  "timeline": [
+    [
+      "2006",
+      "Gegründet als Gieß- und Walzwerkstatt in Luoyang."
+    ],
+    [
+      "2012",
+      "Erste Kaltwalzlinie in Betrieb; Beginn des Exports nach Südostasien."
+    ],
+    [
+      "2018",
+      "Strangpressen und Eloxieren ergänzt; Exporte in 30 Länder."
+    ],
+    [
+      "2022",
+      "Zweites Kaltwalzwerk und automatische Verpackungslinie."
+    ],
+    [
+      "2025",
+      "Kapazität erreicht 50.000 t pro Jahr in Walzen und Strangpressen."
+    ]
+  ],
+  "plantTable": [
+    [
+      "Standort",
+      "Luoyang, Henan, China"
+    ],
+    [
+      "Werksfläche",
+      "38.000 m²"
+    ],
+    [
+      "Jahreskapazität",
+      "50.000 t"
+    ],
+    [
+      "Mitarbeiter",
+      "210"
+    ],
+    [
+      "Hauptlinien",
+      "Walzen, Strangpressen, Eloxieren, Verpacken"
+    ],
+    [
+      "Exportmärkte",
+      "Europa, Naher Osten, Südostasien, Amerika"
+    ]
+  ],
+  "packingSteps": [
+    "Feuchtigkeitsbarrierefolie und VCI-Papier auf allen Blechen und Coils.",
+    "Kantenschutzbretter und Kantenringe auf jeder Palette und jedem Coil.",
+    "Stahlbandage in festen Abständen, versiegelt und auf Spannung geprüft.",
+    "Palette fotografiert und das Bild zur Packliste abgelegt."
+  ]
+}

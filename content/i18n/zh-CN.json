@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "title": "Zorlang 铝业",
+    "desc": "铝板、铝卷、铝箔、铝棒、铝管、铝型材出口。"
+  },
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "applications": "应用领域",
+    "capabilities": "生产能力",
+    "quality": "质量",
+    "news": "新闻",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "cta": {
+    "quote": "获取报价",
+    "viewAlloys": "查看合金",
+    "viewAll": "查看全部",
+    "readMore": "阅读全文",
+    "downloadPdf": "下载规格书（PDF）",
+    "whatsapp": "WhatsApp",
+    "email": "邮件",
+    "call": "电话",
+    "send": "发送询价",
+    "backToNews": "全部新闻"
+  },
+  "common": {
+    "alloy": "合金",
+    "temper": "状态",
+    "standard": "标准",
+    "thickness": "厚度",
+    "width": "宽度",
+    "length": "长度",
+    "surface": "表面",
+    "density": "密度",
+    "melting": "熔化温度区间",
+    "element": "元素",
+    "composition": "化学成分（质量分数 %）",
+    "property": "性能",
+    "value": "数值",
+    "minRead": "分钟阅读",
+    "published": "发布日期",
+    "updated": "更新日期",
+    "author": "作者",
+    "sources": "数据来源",
+    "related": "相关内容",
+    "category": "分类",
+    "allCategories": "全部分类",
+    "specs": "规格参数",
+    "inquiry": "询价",
+    "formNote": "我们在一个工作日内回复价格、交期与材质证明书。",
+    "breadcrumb": "面包屑导航",
+    "series": "系列"
+  },
+  "home": {
+    "eyebrow": "工厂直供 · 2006 年起出口",
+    "h1": "铝板、铝卷、铝箔、铝棒、铝管、铝型材 — 工厂直供",
+    "sub": "23 个牌号、6 种产品形态，每批货均附材质证明书并可选第三方验货。自河南洛阳发往 40 多个国家。",
+    "ctaSecondary": "浏览合金",
+    "trust": [
+      "ISO 9001 质量管理体系",
+      "符合 EN / ASTM 标准",
+      "SGS 与 BV 检验",
+      "年产能 50,000 吨"
+    ],
+    "formsTitle": "六种产品形态",
+    "formsSub": "每一种形态都常备客户需求最多的合金，开平、分条与阳极氧化均在厂内完成。",
+    "alloysTitle": "在产合金",
+    "alloysSub": "每种合金一页：完整化学成分、力学性能、公差，以及我们轧制或挤压的对应形态。",
+    "appsTitle": "材料流向何处",
+    "appsSub": "六个行业，各有自己的牌号与状态选择逻辑。",
+    "capTitle": "可预期的产能",
+    "capSub": "熔铸、轧制、挤压、阳极氧化与包装集中在一个厂区，交期不必依赖第三方。",
+    "newsTitle": "市场观察与技术指南",
+    "newsSub": "价格、标准与应用要点，由一线轧制人员撰写。",
+    "ctaTitle": "把规格发给我们，24 小时内给出报价",
+    "ctaSub": "告知合金、状态、尺寸与数量，销售工程师将回复价格、交期以及该批次的材质证明书。",
+    "metaTitle": "铝板、铝卷、铝箔、铝棒、铝管、铝型材 — 工厂直供 | Zorlang",
+    "statCapacity": "50,000 t",
+    "statsLabels": [
+      "年产能",
+      "合金牌号",
+      "产品形态",
+      "出口国家"
+    ],
+    "bullets": [
+      "每炉批提供材质证明书，尺寸报告按需提供。",
+      "装柜前可安排 SGS 或 BV 第三方验货。",
+      "自有定尺剪切、分条、锯切与阳极氧化产线。",
+      "每托出口包装拍照留档。"
+    ]
+  },
+  "products": {
+    "h1": "按形态与合金划分的铝材产品",
+    "sub": "6 种形态、23 个牌号。每个牌号页面含化学成分、力学性能、公差与可下载规格书。",
+    "tableTitle": "合金一览",
+    "tableSub": "典型值。具体状态与公差请在合金页面确认后再下单。",
+    "formLabel": "可供形态",
+    "sizesLabel": "常规尺寸",
+    "viewAlloy": "合金详情"
+  },
+  "alloyPage": {
+    "specTitle": "规格参数",
+    "specSub": "数值以材质证明书为准；除另有约定，公差按本页所列标准执行。",
+    "chemTitle": "化学成分",
+    "chemSub": "按 ASTM / EN 给出我们所轧制与挤压合金的典型限值。",
+    "mechTitle": "力学性能",
+    "mechSub": "所列状态在室温下的典型值。",
+    "appsTitle": "应用场合",
+    "compareTitle": "对比分析",
+    "compareSub": "客户最常与本合金一同比较的两种合金。",
+    "processTitle": "工艺与质量控制",
+    "packingTitle": "包装",
+    "certTitle": "认证与报告",
+    "certBody": "按炉批出具材质证明书与尺寸检验报告，可按需安排 SGS 或 BV 第三方验货。证书随装运单据一同寄出。",
+    "inquiryTitle": "询价该合金",
+    "inquirySub": "合金与厚度已按本页预填，如需其他规格可直接修改。",
+    "relatedTitle": "全部牌号",
+    "downloadNote": "PDF，1 页，由本页数据生成。",
+    "usesTitle": "主要用途",
+    "usesSub": "该牌号在批量生产中的典型用途，与牌号数据表一致。",
+    "appImgCaption": "应用示意",
+    "compareHead": [
+      "项目",
+      "本牌号",
+      "对比牌号"
+    ],
+    "qcGeneric": "每炉核验典型性能：每熔次光谱成分、每铸次抗拉与屈服、硬度与尺寸检验合格后包装。按炉号出具质保书、尺寸报告，可安排 SGS 或 BV 第三方检验。",
+    "otherTempers": "其他状态可订",
+    "meltingNote": "熔化温度区间为该牌号典型的固相线–液相线范围。",
+    "prevImg": "上一张",
+    "nextImg": "下一张"
+  },
+  "applications": {
+    "h1": "按行业划分的铝材应用",
+    "sub": "我们供货的六个行业，以及各自真正适用的合金与状态。",
+    "alloysLabel": "可用牌号"
+  },
+  "capabilities": {
+    "h1": "生产能力",
+    "sub": "熔铸、铸造、轧制、挤压、表面处理与包装——洛阳单一厂区年产 50,000 吨。",
+    "equipTitle": "设备",
+    "equipSub": "决定我们能开平、轧制与表面处理到什么程度的产线。",
+    "processTitle": "从铸锭到集装箱",
+    "processSub": "六道受控工序，每一步都按批次记录。",
+    "capacityTitle": "产能概览"
+  },
+  "quality": {
+    "h1": "质量与检测",
+    "sub": "化学成分、力学性能、耐腐蚀与尺寸均在厂内检测；装柜前可安排第三方验货。",
+    "testTitle": "检测项目",
+    "testSub": "每批四项常规检测，另可按需增加应用专项测试。",
+    "certTitle": "标准与证书",
+    "certSub": "证书按炉号出具，随装运单据一同寄出。",
+    "packTitle": "包装与装柜",
+    "packSub": "按海运要求设计的出口包装，装柜前逐托拍照存档。"
+  },
+  "news": {
+    "h1": "新闻与技术札记",
+    "sub": "市场价格、采购指南、标准动态与应用要点。",
+    "latest": "最新",
+    "categories": {
+      "market": "市场",
+      "guide": "指南",
+      "standard": "标准",
+      "industry": "行业"
+    },
+    "catDesc": {
+      "market": "LME 走势、升水变化，以及它们对采购订单的影响。",
+      "guide": "如何选择合金、状态与公差，不过度指定。",
+      "standard": "ASTM、EN 与 GB 标准的变化与释义。",
+      "industry": "铝材在各终端市场的得失。"
+    },
+    "empty": "该分类下暂无文章。",
+    "rss": "RSS 订阅",
+    "sources": "数据来源",
+    "authorRole": "Zorlang 铝业 技术销售",
+    "pagination": "新闻分页",
+    "prev": "上一页",
+    "next": "下一页",
+    "page": "第",
+    "pageLabel": "第 {n} 页",
+    "pageInfo": "第 {current} / {total} 页 · 共 {count} 篇"
+  },
+  "about": {
+    "h1": "关于 Zorlang 铝业",
+    "sub": "位于河南洛阳的轧制与挤压工厂，自 2006 年起为出口商、加工厂与主机厂供货。",
+    "timelineTitle": "发展历程",
+    "capTitle": "工厂概览"
+  },
+  "contact": {
+    "h1": "联系我们",
+    "sub": "请告知合金、状态、尺寸与数量，销售工程师将在一个工作日内回复。",
+    "formTitle": "发送询价",
+    "detailsTitle": "直接联系",
+    "hours": "周一至周六 08:30–18:00（GMT+8）",
+    "address": "地址",
+    "note": "我们不会外泄您的信息。技术问题由工厂直接答复，不经呼叫中心。",
+    "hoursLabel": "工作时间"
+  },
+  "form": {
+    "name": "姓名",
+    "company": "公司",
+    "email": "邮箱",
+    "alloy": "合金",
+    "thickness": "厚度",
+    "quantity": "数量",
+    "message": "规格说明",
+    "submit": "发送询价",
+    "required": "必填",
+    "success": "谢谢——您的询价已可发送。若邮件客户端未自动打开，请直接发邮件给我们。",
+    "privacy": "发送即表示您同意我们就本次询价与您联系。"
+  },
+  "footer": {
+    "about": "铝板、铝卷、铝箔、铝棒、铝管、铝型材，河南洛阳轧制并出口。",
+    "products": "产品",
+    "company": "公司",
+    "contact": "联系",
+    "rights": "版权所有。",
+    "note": "所列数值为典型值；以您批次的材质证明书为准。"
+  },
+  "a11y": {
+    "skip": "跳至正文",
+    "menu": "菜单",
+    "close": "关闭",
+    "language": "语言",
+    "whatsapp": "通过 WhatsApp 联系我们"
+  },
+  "forms": {
+    "plate": "铝板与铝片",
+    "coil": "铝卷",
+    "bar": "铝棒",
+    "tube": "铝管",
+    "profile": "铝型材",
+    "foil": "铝箔"
+  }
+}

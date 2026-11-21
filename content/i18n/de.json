@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "title": "Zorlang Aluminum",
+    "desc": "Aluminiumblech, Coil, Folie, Rundstab, Rohr und Profil für den Export."
+  },
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "applications": "Anwendungen",
+    "capabilities": "Fertigung",
+    "quality": "Qualität",
+    "news": "News",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "quote": "Angebot anfordern",
+    "viewAlloys": "Legierungen ansehen",
+    "viewAll": "Alle ansehen",
+    "readMore": "Weiterlesen",
+    "downloadPdf": "Datenblatt herunterladen (PDF)",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "call": "Anrufen",
+    "send": "Anfrage senden",
+    "backToNews": "Alle News"
+  },
+  "common": {
+    "alloy": "Legierung",
+    "temper": "Zustand",
+    "standard": "Norm",
+    "thickness": "Dicke",
+    "width": "Breite",
+    "length": "Länge",
+    "surface": "Oberfläche",
+    "density": "Dichte",
+    "melting": "Schmelzbereich",
+    "element": "Element",
+    "composition": "Zusammensetzung (Gew.-%)",
+    "property": "Eigenschaft",
+    "value": "Wert",
+    "minRead": "Min. Lesezeit",
+    "published": "Veröffentlicht",
+    "updated": "Aktualisiert",
+    "author": "Autor",
+    "sources": "Quellen",
+    "related": "Verwandte Themen",
+    "category": "Kategorie",
+    "allCategories": "Alle Kategorien",
+    "specs": "Spezifikationen",
+    "inquiry": "Anfrage",
+    "formNote": "Wir antworten innerhalb eines Werktags mit Preis, Lieferzeit und Werkszeugnis.",
+    "breadcrumb": "Navigationspfad",
+    "series": "Werkstoffgruppe"
+  },
+  "home": {
+    "eyebrow": "Direkt ab Werk · Export seit 2006",
+    "h1": "Aluminiumblech, Coil, Folie, Rundstab, Rohr und Profil — direkt vom Werk",
+    "sub": "Dreiundzwanzig Legierungen, sechs Produktformen, Werkszeugnisse und Drittprüfung bei jeder Lieferung. Versand in über 40 Länder ab Luoyang, Henan.",
+    "ctaSecondary": "Legierungen entdecken",
+    "trust": [
+      "Qualitätsmanagement nach ISO 9001",
+      "Konform zu EN / ASTM",
+      "Prüfung durch SGS & BV",
+      "50.000 t Jahreskapazität"
+    ],
+    "formsTitle": "Sechs Produktformen",
+    "formsSub": "Jede Form ist in den gefragtesten Legierungen vorrätig, mit Zuschnitt, Längsteilen und Eloxieren im eigenen Haus.",
+    "alloysTitle": "Legierungen in Produktion",
+    "alloysSub": "Eine Seite pro Legierung: vollständige Chemie, mechanische Eigenschaften, Toleranzen und die Formen, in denen wir sie walzen oder strangpressen.",
+    "appsTitle": "Wohin das Metall geht",
+    "appsSub": "Sechs Branchen, jede mit eigener Legierungs- und Zustandslogik.",
+    "capTitle": "Kapazität, mit der Sie planen können",
+    "capSub": "Schmelzen, Walzen, Strangpressen, Eloxieren und Verpacken unter einem Dach — die Lieferzeit hängt nicht von Dritten ab.",
+    "newsTitle": "Marktberichte und technische Leitfäden",
+    "newsSub": "Preise, Normen und Anwendungshinweise, geschrieben von denen, die das Metall walzen.",
+    "ctaTitle": "Spezifikation senden, Preis in 24 Stunden",
+    "ctaSub": "Nennen Sie Legierung, Zustand, Abmessungen und Menge. Ein Vertriebsingenieur antwortet mit Preis, Lieferzeit und dem Werkszeugnis der Charge.",
+    "metaTitle": "Aluminiumblech, Coil, Folie, Rundstab, Rohr & Profil — ab Werk | Zorlang",
+    "statCapacity": "50.000 t",
+    "statsLabels": [
+      "Jahreskapazität",
+      "Legierungen",
+      "Produktformen",
+      "Exportländer"
+    ],
+    "bullets": [
+      "Werkszeugnis je Schmelze, Maßbericht auf Anfrage.",
+      "SGS- oder BV-Prüfung vor der Verladung.",
+      "Zuschnitt, Längsteilen, Sägen und Eloxieren im Haus.",
+      "Exportverpackung, fotografiert pro Palette."
+    ]
+  },
+  "products": {
+    "h1": "Aluminiumprodukte nach Form und Legierung",
+    "sub": "Sechs Formen, 23 Legierungen. Jede Legierungsseite enthält Chemie, mechanische Kennwerte, Toleranzen und ein Datenblatt zum Download.",
+    "tableTitle": "Legierungsübersicht",
+    "tableSub": "Typische Werte. Den genauen Zustand und die Toleranz für Ihre Bestellung bestätigen Sie auf der Legierungsseite.",
+    "formLabel": "Verfügbare Formen",
+    "sizesLabel": "Typische Abmessungen",
+    "viewAlloy": "Zur Legierungsseite"
+  },
+  "alloyPage": {
+    "specTitle": "Spezifikationen",
+    "specSub": "Werte gemäß Werkszeugnis; Toleranzen nach der auf dieser Seite genannten Norm, sofern nicht anders vereinbart.",
+    "chemTitle": "Chemische Zusammensetzung",
+    "chemSub": "Typische Grenzwerte nach ASTM / EN für die Legierungen, die wir walzen und strangpressen.",
+    "mechTitle": "Mechanische Eigenschaften",
+    "mechSub": "Typische Werte bei Raumtemperatur für den angegebenen Zustand.",
+    "appsTitle": "Einsatzbereiche",
+    "compareTitle": "Im Vergleich",
+    "compareSub": "Die zwei Legierungen, die Einkäufer am häufigsten gegen diese in die Auswahl nehmen.",
+    "processTitle": "Prozess und Qualitätskontrolle",
+    "packingTitle": "Verpackung",
+    "certTitle": "Zertifizierung und Berichte",
+    "certBody": "Werkszeugnis pro Schmelze, Maßprüfbericht und auf Wunsch Drittprüfung durch SGS oder BV. Die Zeugnisse werden mit den Versandpapieren übergeben.",
+    "inquiryTitle": "Angebot für diese Legierung anfordern",
+    "inquirySub": "Legierung und Dicke sind aus dieser Seite vorausgefüllt — ändern Sie sie, wenn Sie etwas anderes benötigen.",
+    "relatedTitle": "Alle Legierungen",
+    "downloadNote": "PDF, 1 Seite, erzeugt aus den Daten dieser Seite.",
+    "usesTitle": "Hauptanwendungen",
+    "usesSub": "Typische Einsätze in der Serienfertigung, laut unserem Legierungsdatenblatt.",
+    "appImgCaption": "Anwendungsbeispiel",
+    "compareHead": [
+      "Eigenschaft",
+      "Diese Legierung",
+      "Alternative"
+    ],
+    "qcGeneric": "Die typischen Werte werden Schmelze für Schmelze geprüft: Spektralanalyse bei jeder Schmelze, Zugfestigkeit und Streckgrenze je Guss, Härte und Maßkontrolle vor der Verpackung. Werkstoffzeugnis, Maßbericht und Fremdüberwachung (SGS oder BV) werden auf die Schmelzennummer ausgestellt.",
+    "otherTempers": "Andere Zustände auf Anfrage",
+    "meltingNote": "Der Schmelzbereich ist das typische Solidus-Liquidus-Intervall der Legierung.",
+    "prevImg": "Vorheriges Bild",
+    "nextImg": "Nächstes Bild"
+  },
+  "applications": {
+    "h1": "Aluminiumanwendungen nach Branche",
+    "sub": "Sechs Branchen, die wir beliefern, mit den Legierungen und Zuständen, die dort tatsächlich funktionieren.",
+    "alloysLabel": "Verfügbare Legierungen"
+  },
+  "capabilities": {
+    "h1": "Fertigung und Kapazität",
+    "sub": "Schmelzen, Gießen, Walzen, Strangpressen, Veredeln und Verpacken — 50.000 Tonnen pro Jahr an einem Standort in Luoyang.",
+    "equipTitle": "Anlagen",
+    "equipSub": "Die Linien, die bestimmen, was wir vorrätig halten, walzen und veredeln können.",
+    "processTitle": "Vom Barren zum Container",
+    "processSub": "Sechs kontrollierte Stufen, jede chargenbezogen dokumentiert.",
+    "capacityTitle": "Kapazität auf einen Blick"
+  },
+  "quality": {
+    "h1": "Qualität und Prüfung",
+    "sub": "Chemie, mechanische Eigenschaften, Korrosion und Abmessungen werden im Haus geprüft; eine Drittprüfung ist vor der Verladung möglich.",
+    "testTitle": "Was wir prüfen",
+    "testSub": "Vier Prüfungen bei jeder Charge, dazu anwendungsspezifische Tests auf Wunsch.",
+    "certTitle": "Normen und Zeugnisse",
+    "certSub": "Zeugnisse werden pro Schmelzennummer ausgestellt und mit den Versandpapieren übergeben.",
+    "packTitle": "Verpackung und Verladung",
+    "packSub": "Exportverpackung für Seefracht, vor der Verladung pro Palette fotografiert."
+  },
+  "news": {
+    "h1": "News und technische Hinweise",
+    "sub": "Marktpreise, Einkaufsleitfäden, Normenänderungen und Anwendungshinweise.",
+    "latest": "Neueste",
+    "categories": {
+      "market": "Markt",
+      "guide": "Ratgeber",
+      "standard": "Norm",
+      "industry": "Branche"
+    },
+    "catDesc": {
+      "market": "LME-Entwicklung, Prämien und was das für Ihre Bestellung bedeutet.",
+      "guide": "Wie Sie Legierung, Zustand und Toleranz wählen, ohne zu überbestimmen.",
+      "standard": "Änderungen und Klarstellungen in ASTM-, EN- und GB-Normen.",
+      "industry": "Wo Aluminium in den einzelnen Endmärkten gewinnt und verliert."
+    },
+    "empty": "In dieser Kategorie gibt es noch keine Beiträge.",
+    "rss": "RSS-Feed",
+    "sources": "Datenquellen",
+    "authorRole": "Technischer Vertrieb, Zorlang Aluminum"
+  },
+  "about": {
+    "h1": "Über Zorlang Aluminum",
+    "sub": "Ein Walz- und Strangpresswerk in Luoyang, Henan, das seit 2006 Exporteure, Verarbeiter und OEMs beliefert.",
+    "timelineTitle": "Meilensteine",
+    "capTitle": "Werk auf einen Blick"
+  },
+  "contact": {
+    "h1": "Kontakt",
+    "sub": "Senden Sie Legierung, Zustand, Abmessungen und Menge. Ein Vertriebsingenieur antwortet innerhalb eines Werktags.",
+    "formTitle": "Anfrage senden",
+    "detailsTitle": "Direkter Kontakt",
+    "hours": "Mo–Sa 08:30–18:00 (GMT+8)",
+    "address": "Adresse",
+    "note": "Wir geben Ihre Daten nicht weiter. Technische Fragen beantwortet das Werk, kein Callcenter.",
+    "hoursLabel": "Öffnungszeiten"
+  },
+  "form": {
+    "name": "Name",
+    "company": "Unternehmen",
+    "email": "E-Mail",
+    "alloy": "Legierung",
+    "thickness": "Dicke",
+    "quantity": "Menge",
+    "message": "Spezifikation",
+    "submit": "Anfrage senden",
+    "required": "Pflichtfeld",
+    "success": "Danke — Ihre Anfrage ist zum Senden bereit. Falls sich Ihr E-Mail-Programm nicht geöffnet hat, schreiben Sie uns direkt.",
+    "privacy": "Mit dem Absenden erklären Sie sich mit einer Kontaktaufnahme zu dieser Anfrage einverstanden."
+  },
+  "footer": {
+    "about": "Aluminiumblech, Coil, Folie, Rundstab, Rohr und Profil, gewalzt und exportiert aus Luoyang, Henan, China.",
+    "products": "Produkte",
+    "company": "Unternehmen",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "note": "Die Werte sind typisch; das Werkszeugnis Ihrer Charge ist das maßgebliche Dokument."
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache",
+    "whatsapp": "Kontakt über WhatsApp"
+  },
+  "forms": {
+    "plate": "Aluminiumblech und -platte",
+    "coil": "Aluminiumcoil",
+    "bar": "Aluminiumrundstab",
+    "tube": "Aluminiumrohr",
+    "profile": "Aluminiumprofil",
+    "foil": "Aluminiumfolie"
+  }
+}

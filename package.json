@@ -1,0 +1,24 @@
+{
+  "name": "zorlang-aluminum-ssg",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "verify": "node scripts/verify-dist.mjs",
+    "check": "node build.mjs && node scripts/verify-dist.mjs",
+    "serve": "node build.mjs && python -m http.server 8800 --directory dist"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  },
+  "type": "module"
+}

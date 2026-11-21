@@ -1,0 +1,427 @@
+{
+  "1050": {
+    "name": "Nhôm nguyên chất thương phẩm",
+    "h1": "Nhôm tấm, thanh, ống, cuộn & lá 1050 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 1050 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Nhôm nguyên chất thương phẩm: độ bền kéo 80 MPa ở trạng thái O, cung cấp dạng tấm, thanh, ống, cuộn, lá. Lá nhôm, Thanh dẫn điện. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "1050 là nhôm nguyên chất thương phẩm: tối thiểu 99.5%, không thêm nguyên tố hợp kim và có độ dẫn điện cao nhất trong các mác chúng tôi cán. Đây là mác nên chỉ định khi chi tiết cần độ dẻo, độ dẫn hoặc bề mặt anod hoá sáng thay vì độ bền. Chúng tôi cán từ tấm mỏng 0.3 mm đến tấm dày 120 mm, ở các trạng thái O, H14, H24 và H18, với độ dày và độ phẳng được kiểm tra trực tuyến.",
+    "uses": [
+      "Lá nhôm",
+      "Thanh dẫn điện",
+      "Cánh tản nhiệt",
+      "Biển hiệu và bảng chỉ dẫn",
+      "Lót thiết bị hoá chất"
+    ],
+    "apps": [
+      {
+        "t": "Dẫn điện và dẫn nhiệt",
+        "d": "Thanh dẫn điện, cánh tản nhiệt bộ trao đổi nhiệt và dải máy biến áp, nơi độ dẫn quan trọng hơn độ bền chảy."
+      },
+      {
+        "t": "Biển hiệu và nẹp trang trí anod hoá",
+        "d": "Nhận lớp màng anod sáng và đều — dùng cho phôi biển hiệu, chao phản quang và nẹp trang trí."
+      },
+      {
+        "t": "Chi tiết dập sâu",
+        "d": "Dụng cụ nấu ăn, nắp hộp và vỏ đèn cần độ giãn dài trên 20% ở trạng thái O."
+      }
+    ],
+    "compare": {
+      "1100": "1100 bổ sung một lượng nhỏ đồng để tăng nhẹ độ bền và cải thiện khả năng gia công, đổi lại độ dẫn điện giảm chút ít. Chọn 1100 khi chi tiết vừa tạo hình vừa gia công; giữ 1050 cho các ứng dụng dẫn điện.",
+      "3003": "3003 gần như gấp đôi độ bền chảy của 1050 nhờ mangan mà vẫn hàn sạch. Chuyển sang 3003 ngay khi chi tiết phải chịu tải chứ không chỉ tạo hình."
+    },
+    "qc": "Thành phần được kiểm tra bằng quang phổ phát xạ trên mỗi mẻ nấu. Độ dẫn điện được đo trên dải, độ phẳng được kiểm tra trên bàn đá granite trước khi cắt tấm theo chiều dài. Chứng chỉ thử nghiệm lô, báo cáo kích thước và giám định SGS theo yêu cầu được cấp theo số mẻ nấu."
+  },
+  "1100": {
+    "name": "Nhôm nguyên chất thương phẩm",
+    "h1": "Nhôm tấm, thanh, ống, cuộn & lá 1100 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 1100 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Nhôm nguyên chất thương phẩm: độ bền kéo 90 MPa ở trạng thái O, cung cấp dạng tấm, thanh, ống, cuộn, lá. Biển hiệu và bảng chỉ dẫn, Đồ rỗng dập sâu. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "1100 là nhôm nguyên chất 99.0% có bổ sung đồng được kiểm soát. Lượng nhỏ này nâng độ bền và khả năng gia công lên trên 1050 mà vẫn giữ độ dẫn cao và độ dẻo rất tốt, vì vậy đây là lựa chọn mặc định cho các chi tiết dập xoay, kéo và cán rồi lại được cắt mép hoặc đột lỗ. Cung cấp từ 0.3 mm đến 100 mm, ở các trạng thái O, H14, H24 và H18.",
+    "uses": [
+      "Biển hiệu và bảng chỉ dẫn",
+      "Đồ rỗng dập sâu",
+      "Bộ trao đổi nhiệt",
+      "Hộp đựng bao bì"
+    ],
+    "apps": [
+      {
+        "t": "Dập xoay và kéo",
+        "d": "Dụng cụ nấu ăn, đồ gia dụng rỗng và chao đèn nơi kim loại được dập xoay hoặc kéo tạo hình."
+      },
+      {
+        "t": "Truyền nhiệt",
+        "d": "Cánh tản nhiệt và tấm trong két nước và bộ trao đổi nhiệt, nhờ độ dẫn nhiệt cao."
+      },
+      {
+        "t": "Bao bì và nắp",
+        "d": "Nắp, nút và chi tiết hộp đựng cần bề mặt sạch và độ dày chính xác."
+      }
+    ],
+    "compare": {
+      "1050": "1050 nguyên chất hơn và dẫn điện tốt hơn một chút; 1100 bền hơn và gia công tốt hơn. Nếu chi tiết được đột hoặc tiện sau khi tạo hình, 1100 thường là lựa chọn tốt hơn.",
+      "3003": "3003 là lựa chọn bền hơn, chịu ăn mòn tốt hơn nhưng lớp anod kém sáng. Giữ 1100 khi ngoại quan bề mặt là yếu tố quan trọng."
+    },
+    "qc": "Mỗi mẻ nấu đều được kiểm tra quang phổ và cuộn được xẻ băng đúng chiều rộng đặt hàng tại nhà máy. Bề mặt được kiểm tra dưới ánh sáng xiên để phát hiện vết cán và tạp chất, độ dày được ghi nhận mỗi 20 mét."
+  },
+  "2011": {
+    "name": "Nhôm dễ cắt gọt",
+    "h1": "Nhôm thanh & ống 2011 T3 theo GB/T 6892 / ASTM B221",
+    "metaTitle": "Nhôm thanh 2011 T3 — GB/T 6892 | Zorlang",
+    "metaDesc": "Nhôm dễ cắt gọt: độ bền kéo 380 MPa ở trạng thái T3, cung cấp dạng thanh, ống. Vít và bu lông chính xác, Đầu nối và khớp nối. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "2011 là mác dễ cắt gọt: 5.0–6.0% đồng cùng phụ gia bismuth và chì giúp phoi gãy vụn, nên máy tiện tự động chạy nhanh mà không bị phoi dây rối. Đặc tính điển hình ở trạng thái T3 là độ bền kéo 380 MPa, giới hạn chảy 295 MPa với độ giãn dài 15%, cao gần gấp ba so với 6063, và bề mặt sau gia công sáng bóng. Cung cấp dạng thanh tròn và ống, cắt bằng cưa hoặc cắt theo chiều dài.",
+    "uses": [
+      "Vít và bu lông chính xác",
+      "Đầu nối và khớp nối",
+      "Chi tiết đồng hồ và quang học",
+      "Chi tiết tiện tốc độ cao"
+    ]
+  },
+  "2017": {
+    "name": "Nhôm tán ri-vê (tương đương 2A11)",
+    "h1": "Nhôm tấm, thanh & ống 2017 T4 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm thanh 2017 T4 — GB/T 3880 | Zorlang",
+    "metaDesc": "Nhôm tán ri-vê (tương đương 2A11): độ bền kéo 425 MPa ở trạng thái T4, cung cấp dạng tấm, thanh, ống. Đinh tán hàng không và kết cấu, Bu lông và kẹp. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "2017 là hợp kim đinh tán kinh điển: độ bền kéo 425 MPa ở trạng thái T4 với độ giãn dài 22%, đủ dẻo để tạo đầu đinh tán ở trạng thái nguội và đủ bền để chịu cắt trong kết cấu thân máy bay. Hợp kim này gia công và tạo hình tốt, đồng thời nằm dưới ngưỡng 460 MPa trong danh mục xuất khẩu lưỡng dụng của Trung Quốc, nên nguồn cung thông thường không cần giấy phép 1C202. Tấm, thanh và ống có sẵn trong kho.",
+    "uses": [
+      "Đinh tán hàng không và đinh tán kết cấu",
+      "Bu lông và kẹp",
+      "Kết cấu chịu tải thông dụng",
+      "Vật tư sửa chữa"
+    ]
+  },
+  "3003": {
+    "name": "Hợp kim chống gỉ mangan",
+    "h1": "Nhôm tấm, ống, cuộn, lá & thanh định hình 3003 H14 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 3003 H14 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim chống gỉ mangan: độ bền kéo 150 MPa ở trạng thái H14, cung cấp dạng tấm, ống, cuộn, lá, thanh định hình. Dụng cụ nấu ăn và bộ đồ ăn, Két nước. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "3003 là hợp kim nhôm-mangan chủ lực: bền hơn 1100 khoảng 20%, vẫn rất dễ tạo hình và chống ăn mòn đủ tốt cho mái, container và thiết bị hoá chất. Hợp kim này hàn và hàn vảy tốt, nên thường được chọn khi một cụm kết cấu chế tạo phải vừa nhẹ vừa bền. Chúng tôi cung cấp tấm, cuộn, dải, thanh và ống ở các trạng thái O, H14, H24 và H112.",
+    "uses": [
+      "Dụng cụ nấu ăn và bộ đồ ăn",
+      "Két nước",
+      "Bồn nhiên liệu",
+      "Tấm lợp mái",
+      "Lá điều hoà"
+    ],
+    "apps": [
+      {
+        "t": "Mái và lớp ốp",
+        "d": "Tấm định hình, diềm mái và máng nước chịu thời tiết hàng chục năm mà lớp phủ không hỏng."
+      },
+      {
+        "t": "Giao thông và container",
+        "d": "Thùng xe tải, vỏ bồn và tấm container nơi trọng lượng và khả năng hàn đều quan trọng."
+      },
+      {
+        "t": "HVAC và thiết bị hoá chất",
+        "d": "Ống gió, vỏ bộ trao đổi nhiệt và bồn chứa xử lý môi trường ăn mòn nhẹ."
+      }
+    ],
+    "compare": {
+      "1100": "3003 đắt hơn một chút nhưng bền gấp khoảng hai lần và chống ăn mòn tốt hơn. Hợp kim này thay thế 1100 ở gần như mọi chi tiết kết cấu hoặc ngoài trời.",
+      "5052": "5052 bổ sung magiê để tăng thêm 50% độ bền và hiệu quả tốt hơn trong môi trường biển, nhưng khó tạo hình gấp khúc hơn. Dùng 5052 khi độ bền là ràng buộc, dùng 3003 khi độ dẻo là ràng buộc."
+    },
+    "qc": "Hàm lượng mangan được kiểm tra theo từng mẻ nấu vì đây là yếu tố quyết định độ bền. Thử uốn và thử kéo được thực hiện trên cuộn đầu tiên của mỗi lô, ống được thử dòng xoáy theo yêu cầu."
+  },
+  "3004": {
+    "name": "Hợp kim mái mangan-magiê",
+    "h1": "Nhôm tấm, ống & cuộn 3004 H32 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 3004 H32 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim mái mangan-magiê: độ bền kéo 215 MPa ở trạng thái H32, cung cấp dạng tấm, ống, cuộn. Mái định hình và ốp tường, Tấm vách kính. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "3004 bổ sung khoảng 1% magiê vào nền 3003, nâng độ bền kéo từ 150 lên 215 MPa ở trạng thái H32 mà vẫn giữ nguyên đặc tính chống ăn mòn và khả năng hàn. Sự cân bằng đó là lý do mác này chiếm ưu thế trong mái định hình và ốp tường, và cũng là lý do bồn hoá chất và cột đèn thường được chế tạo từ nó. Cung cấp dạng tấm, cuộn và ống.",
+    "uses": [
+      "Mái định hình và ốp tường",
+      "Tấm vách kính",
+      "Bồn chứa hoá chất",
+      "Cột đèn chiếu sáng"
+    ]
+  },
+  "3104": {
+    "name": "Phôi thân lon",
+    "h1": "Nhôm tấm & cuộn 3104 H19 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 3104 H19 — GB/T 3880 | Zorlang",
+    "metaDesc": "Phôi thân lon: độ bền kéo 285 MPa ở trạng thái H19, cung cấp dạng tấm, cuộn. Thân lon đồ uống (DI), Lon thực phẩm. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "3104 được dập và kéo mỏng thành lon đồ uống hai mảnh: độ bền kéo 285 MPa và giới hạn chảy 260 MPa ở trạng thái H19 cho thành lon đủ bền để chịu được quá trình DI ở độ dày 0.25 mm và mỏng hơn. Sắt và đồng được giữ trong khoảng hẹp để tai lon ngắn và thành lon mỏng đều. Chỉ cung cấp dạng cuộn, 0.2–4.0 mm, xẻ băng theo chiều rộng phôi của bạn.",
+    "uses": [
+      "Thân lon đồ uống (DI)",
+      "Lon thực phẩm",
+      "Nắp chai và nút đậy"
+    ]
+  },
+  "4032": {
+    "name": "Hợp kim piston",
+    "h1": "Nhôm thanh 4032 T6 theo GB/T 6892 / ASTM B221",
+    "metaTitle": "Nhôm thanh 4032 T6 — GB/T 6892 | Zorlang",
+    "metaDesc": "Hợp kim piston: độ bền kéo 380 MPa ở trạng thái T6, cung cấp dạng thanh. Piston rèn, Chi tiết chèn nắp quy-lát. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "4032 chứa 11–13.5% silic, giúp giảm hệ số giãn nở nhiệt xuống khoảng 80% so với 6061 và cho khả năng chịu mài mòn cao khi tiếp xúc với lòng xi-lanh; niken và đồng giữ độ bền ở nhiệt độ làm việc. Trạng thái T6 cho độ bền kéo 380 MPa, giới hạn chảy 315 MPa và khoảng 120 HBW. Cung cấp dạng thanh rèn, cắt theo chiều dài phôi.",
+    "uses": [
+      "Piston rèn",
+      "Chi tiết chèn nắp quy-lát",
+      "Chi tiết chịu mài mòn giãn nở thấp"
+    ]
+  },
+  "4045": {
+    "name": "Hợp kim hàn vảy silic",
+    "h1": "Nhôm thanh & cuộn 4045 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 4045 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim hàn vảy silic: độ bền kéo 120 MPa ở trạng thái O, cung cấp dạng thanh, cuộn. Lớp phủ tấm hàn vảy, Dây hàn nhôm-silic. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "4045 là lớp phủ hàn vảy: 9–11% silic nóng chảy gần 577 °C, thấp hơn khoảng 80 °C so với lõi 3003 mà nó được cán lên, nên chỉ một lần qua lò là liên kết được toàn bộ bộ trao đổi nhiệt. Chúng tôi cung cấp dạng cuộn phủ cho tấm hàn vảy và dạng thanh hoặc phôi dây cho kim loại hàn đắp.",
+    "uses": [
+      "Lớp phủ tấm hàn vảy",
+      "Dây hàn nhôm-silic",
+      "Vòng và phôi hàn vảy"
+    ]
+  },
+  "4343": {
+    "name": "Lớp phủ hàn vảy",
+    "h1": "Nhôm tấm, cuộn & lá 4343 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 4343 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Lớp phủ hàn vảy: độ bền kéo 115 MPa ở trạng thái O, cung cấp dạng tấm, cuộn, lá. Két nước ô tô, Bộ làm mát khí nạp. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "4343 là lớp phủ hàn vảy có hàm lượng silic thấp hơn, 6.8–8.2% Si, dùng khi cần lớp phủ mỏng và dễ kiểm soát hơn so với 4045 — điển hình là két nước ô tô, bộ làm mát khí nạp và dàn bay hơi điều hoà. Lớp này được cán liên kết lên lõi 3003 và hàn vảy trong lò khí quyển có kiểm soát.",
+    "uses": [
+      "Két nước ô tô",
+      "Bộ làm mát khí nạp",
+      "Bộ trao đổi nhiệt điều hoà",
+      "Cụm tấm hàn vảy"
+    ]
+  },
+  "5005": {
+    "name": "Hợp kim trang trí cấp anod hoá",
+    "h1": "Nhôm tấm, ống, cuộn & thanh định hình 5005 H14 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 5005 H14 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim trang trí cấp anod hoá: độ bền kéo 165 MPa ở trạng thái H14, cung cấp dạng tấm, ống, cuộn, thanh định hình. Tấm vách kính anod hoá, Nẹp trang trí và diềm. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5005 có độ bền tương đương 3003, 165 MPa ở trạng thái H14, nhưng anod hoá cho bề mặt sáng và trắng hơn nhờ magiê được cân bằng với hàm lượng sắt và silic thấp. Vì vậy tấm kiến trúc, mặt máy đo và nẹp trang trí thường chỉ định mác này. Cung cấp dạng tấm, cuộn, ống và thanh định hình, anod hoá tại nhà máy.",
+    "uses": [
+      "Tấm vách kính anod hoá",
+      "Nẹp trang trí và diềm",
+      "Mặt máy đo"
+    ]
+  },
+  "5052": {
+    "name": "Nhôm hàng hải đa dụng",
+    "h1": "Nhôm tấm, thanh, ống, cuộn & thanh định hình 5052 H32 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 5052 H32 — GB/T 3880 | Zorlang",
+    "metaDesc": "Nhôm hàng hải đa dụng: độ bền kéo 230 MPa ở trạng thái H32, cung cấp dạng tấm, thanh, ống, cuộn, thanh định hình. Bồn nhiên liệu, Trang bị hàng hải. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5052 là hợp kim không hoá bền được có độ bền cao nhất trong nhóm thông dụng: 2.2–2.8% magiê cho độ bền kéo khoảng 215–275 MPa ở trạng thái H32, với đặc tính mỏi và chống ăn mòn rất tốt trong nước biển. Đây là lựa chọn mặc định cho phụ kiện hàng hải, bồn nhiên liệu, bình chịu áp và tấm vận tải. Chúng tôi cán từ 0.3 mm đến 150 mm và có thể anod hoá hoặc phủ PVC tại nhà máy.",
+    "uses": [
+      "Bồn nhiên liệu",
+      "Trang bị hàng hải",
+      "Bình chịu áp",
+      "Nội thất tàu điện và toa xe"
+    ],
+    "apps": [
+      {
+        "t": "Hàng hải và công trình ngoài khơi",
+        "d": "Vỏ tàu, boong, thượng tầng và phụ kiện thường xuyên chịu phun muối và tải trọng chu kỳ."
+      },
+      {
+        "t": "Bồn nhiên liệu và thuỷ lực",
+        "d": "Bồn của xe tải, xe buýt và máy phát điện, nơi độ toàn vẹn mối hàn và khả năng chống ăn mòn là yếu tố then chốt."
+      },
+      {
+        "t": "Vỏ kim loại tấm",
+        "d": "Tủ điện, vỏ bảo vệ máy và tấm kiến trúc cần độ cứng và bề mặt hoàn thiện."
+      }
+    ],
+    "compare": {
+      "3003": "3003 dễ tạo hình hơn và rẻ hơn; 5052 bền hơn khoảng 50% và tốt hơn nhiều trong nước biển. Việc chuyển mác thường do yêu cầu về độ bền hoặc môi trường biển.",
+      "5083": "5083 nâng hàm lượng magiê lên 4,5% cho kết cấu hàng hải hàn và bình chịu áp. Mác này cần kiểm soát trạng thái H116/H321 và đắt hơn; 5052 đáp ứng hầu hết công việc kim loại tấm."
+    },
+    "qc": "Magiê và crom được kiểm tra theo từng mẻ nấu. Thử kéo và thử uốn được thực hiện trên mọi lô, thử phun muối hoặc ăn mòn liên tinh thể có sẵn cho các đơn hàng hàng hải."
+  },
+  "5083": {
+    "name": "Hợp kim tấm cấp hàng hải",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 5083 H116 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 5083 H116 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim tấm cấp hàng hải: độ bền kéo 305 MPa ở trạng thái H116, cung cấp dạng tấm, thanh, ống, thanh định hình. Vỏ tàu và boong, Bồn LNG và bồn cryogenic. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5083 là hợp kim được chỉ định cho kết cấu hàng hải hàn: 4.0–4.9% magiê cho độ bền kéo 275–350 MPa và khả năng chịu nước biển tốt nhất trong các mác thông dụng. Ở trạng thái H116 hoặc H321, hợp kim này chống ăn mòn liên tinh thể sau khi hàn, nên các đăng kiểm chấp nhận cho vỏ tàu, boong và bồn chứa. Chúng tôi cung cấp tấm từ 3 mm đến 200 mm, có kiểm tra siêu âm theo yêu cầu.",
+    "uses": [
+      "Vỏ tàu và boong",
+      "Bồn LNG và bồn cryogenic",
+      "Thân toa xe đường sắt"
+    ],
+    "apps": [
+      {
+        "t": "Vỏ tàu và boong",
+        "d": "Tàu công vụ, du thuyền, tàu cá và công trình ngoài khơi chế tạo theo quy phạm đăng kiểm."
+      },
+      {
+        "t": "Bình chịu áp và bồn chứa",
+        "d": "Bồn cryogenic và bồn hoá chất nơi độ dai ở nhiệt độ thấp và độ bền mối hàn là yếu tố then chốt."
+      },
+      {
+        "t": "Vận tải hạng nặng",
+        "d": "Thùng xe ben, vỏ xe bồn và chi tiết toa xe cần độ bền cao với trọng lượng nhẹ."
+      }
+    ],
+    "compare": {
+      "5052": "5052 rẻ hơn, dễ tạo hình hơn và đủ dùng cho hầu hết chi tiết kim loại tấm; 5083 là lựa chọn khi kết cấu được hàn và chịu tải, hoặc cần đăng kiểm phê duyệt.",
+      "6061": "6061 hoá bền được và gia công được đến dung sai chặt, nhưng mối hàn yếu hơn và chịu ăn mòn trong nước biển kém hơn. Dùng 6061 cho chi tiết gia công, 5083 cho kết cấu hàng hải hàn."
+    },
+    "qc": "Mỗi tấm được kiểm tra siêu âm để phát hiện khuyết tật bên trong theo yêu cầu, vật liệu H116 được thử ăn mòn liên tinh thể theo ASTM G67. Mẫu thử kéo được lấy vuông góc với chiều cán."
+  },
+  "5182": {
+    "name": "Phôi nắp lon và tai kéo",
+    "h1": "Nhôm tấm & cuộn 5182 H19 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm cuộn 5182 H19 — GB/T 3880 | Zorlang",
+    "metaDesc": "Phôi nắp lon và tai kéo: độ bền kéo 400 MPa ở trạng thái H19, cung cấp dạng tấm, cuộn. Nắp và tai kéo lon đồ uống, Tấm trong ô tô. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5182 là hợp kim làm nắp và tai kéo: 4–5% magiê hoá bền đến H19 cho độ bền kéo 400 MPa và giới hạn chảy 365 MPa, nên nắp dày 0.22 mm vẫn giữ được áp lực của lon nước có ga mà không bị phồng. Mác này còn xuất hiện ở tấm trong ô tô, nơi cần độ dẻo cao đi kèm độ bền lớn.",
+    "uses": [
+      "Nắp và tai kéo lon đồ uống",
+      "Tấm trong ô tô",
+      "Nắp đậy"
+    ]
+  },
+  "5754": {
+    "name": "Tấm thân xe ô tô",
+    "h1": "Nhôm tấm, ống & cuộn 5754 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 5754 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Tấm thân xe ô tô: độ bền kéo 200 MPa ở trạng thái O, cung cấp dạng tấm, ống, cuộn. Tấm trong và khung gầm ô tô, Bồn chứa. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5754 là hợp kim thân xe ô tô: ở trạng thái O, vật liệu giãn dài 26% với độ bền kéo chỉ 200 MPa, nên tấm trong cửa và tấm sàn sâu tạo hình mà không bị nứt, còn H111 giữ vật liệu ổn định trong quá trình lưu kho. Hợp kim này hàn và anod hoá tốt, thường được chọn cho chi tiết khung gầm, bồn chứa và kết cấu hàn chịu muối đường.",
+    "uses": [
+      "Tấm trong và khung gầm ô tô",
+      "Bồn chứa",
+      "Kết cấu hàn",
+      "Tấm vận tải"
+    ]
+  },
+  "6061": {
+    "name": "Hợp kim kết cấu thông dụng",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 6061 T6 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 6061 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim kết cấu thông dụng: độ bền kéo 310 MPa ở trạng thái T6, cung cấp dạng tấm, thanh, ống, thanh định hình. Khuôn và dụng cụ, Khung thiết bị tự động hoá. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "6061 là hợp kim hoá bền được dùng phổ thông: magiê và silic cho độ bền kéo 290–310 MPa ở trạng thái T6, cùng khả năng gia công, hàn và chống ăn mòn tốt. Hợp kim này gia công sạch, nhận anod hoá tốt và có nhiều kích thước hơn bất kỳ mác nào khác, nên là lựa chọn mặc định cho đồ gá, khuôn định vị, chi tiết gia công và khung kết cấu. Cung cấp dạng tấm đến 500 mm, cùng thanh, ống và thanh định hình đùn.",
+    "uses": [
+      "Khuôn và dụng cụ",
+      "Khung thiết bị tự động hoá",
+      "Khung xe đạp",
+      "Chi tiết kết cấu CNC"
+    ],
+    "apps": [
+      {
+        "t": "Chi tiết gia công và đồ gá",
+        "d": "Tấm đồ gá, khuôn, đế robot và chi tiết CNC nơi độ ổn định kích thước là yếu tố then chốt."
+      },
+      {
+        "t": "Khung kết cấu",
+        "d": "Khung máy, cổng trục, kết cấu rơ-moóc và sàn thao tác được bắt bu lông hoặc hàn từ tấm và thanh định hình."
+      },
+      {
+        "t": "Phụ kiện giao thông và hàng hải",
+        "d": "Chi tiết xe tải, phụ kiện hàng hải và khớp nối chịu áp ở trạng thái T6/T651."
+      }
+    ],
+    "compare": {
+      "6063": "6063 đùn được thành thanh định hình phức tạp với bề mặt anod đẹp hơn nhưng yếu hơn 30–40%. Dùng 6063 cho thanh kiến trúc, dùng 6061 khi chi tiết được gia công hoặc chịu tải.",
+      "7075": "7075 bền gần gấp đôi nhưng không hàn được và chịu ăn mòn kém hơn nhiều. Chỉ chỉ định 7075 cho chi tiết gia công cấp hàng không khi độ bền là yếu tố giới hạn."
+    },
+    "qc": "Quá trình hoá dung dịch và hoá già được ghi nhận theo từng mẻ lò, độ cứng được kiểm tra trên mọi lô và thử kéo theo từng lô hàng. Có kiểm tra siêu âm cho tấm dày và chứng nhận AMS 4027."
+  },
+  "6063": {
+    "name": "Hợp kim đùn kiến trúc",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 6063 T5 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm thanh định hình 6063 T5 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim đùn kiến trúc: độ bền kéo 175 MPa ở trạng thái T5, cung cấp dạng tấm, thanh, ống, thanh định hình. Thanh định hình cửa sổ và vách kính, Tay vịn và lan can. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "6063 là hợp kim chuyên dùng cho đùn: độ bền thấp hơn 6061 nhưng bề mặt sau anod hoá đẹp hơn nhiều, vì vậy hệ thống cửa sổ, vách kính, tản nhiệt và vỏ bảo vệ máy đều làm từ mác này. Chúng tôi đùn từ 0.3 kg/m đến 30 kg/m, giữ dung sai theo EN 755-9 và hoàn thiện tại nhà máy bằng anod hoá hoặc sơn tĩnh điện.",
+    "uses": [
+      "Thanh định hình cửa sổ và vách kính",
+      "Tay vịn và lan can",
+      "Tản nhiệt",
+      "Thanh định hình trang trí"
+    ],
+    "apps": [
+      {
+        "t": "Hệ thống kiến trúc",
+        "d": "Thanh định hình cửa đi, cửa sổ, thanh đứng vách kính và thanh ốp, anod hoá hoặc phủ."
+      },
+      {
+        "t": "Tản nhiệt và điện tử",
+        "d": "Thanh định hình có cánh tản nhiệt cho đèn LED, inverter và bộ nguồn."
+      },
+      {
+        "t": "Vỏ bảo vệ và khung máy",
+        "d": "Thanh định hình rãnh T, vỏ bảo vệ và khung băng tải lắp từ thanh tồn kho."
+      }
+    ],
+    "compare": {
+      "6061": "6061 bền hơn 30–40% và gia công tốt hơn, nhưng chỉ đùn được hình dạng đơn giản hơn và anod không đều bằng. Với chi tiết gia công chịu tải, chọn 6061; với thanh định hình nhìn thấy được, chọn 6063.",
+      "6005A": "6005A bền hơn 6063 một chút và phổ biến trong vách kính châu Âu. Khi EN 755-2 yêu cầu 6005A, chúng tôi có thể báo giá; 6063 vẫn là phương án nhanh hơn và rẻ hơn cho các thanh tiêu chuẩn."
+    },
+    "qc": "Kích thước thanh định hình được kiểm tra theo bản vẽ trước khi hoàn thiện, độ dày màng anod được đo trên từng giá. Độ bám dính lớp phủ được thử bằng va đập và uốn, màu sắc được đo so với mẫu đã duyệt."
+  },
+  "6082": {
+    "name": "Hợp kim đùn độ bền cao",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 6082 T6 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 6082 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim đùn độ bền cao: độ bền kéo 310 MPa ở trạng thái T6, cung cấp dạng tấm, thanh, ống, thanh định hình. Cầu và dầm kết cấu, Chi tiết kết cấu ô tô. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "6082 là mác mạnh nhất trong nhóm hợp kim đùn 6xxx tiêu chuẩn: độ bền kéo 310 MPa và giới hạn chảy 260 MPa ở trạng thái T6, cao hơn 6061 khoảng 10%, với mangan kiểm soát cấu trúc hạt trong quá trình đùn. Hợp kim này gia công sạch và nhận được mối hàn kết cấu, nên dầm cầu, chi tiết kết cấu ô tô và chốt cầu rèn đều được chế tạo từ nó. Cung cấp dạng tấm, thanh, ống và thanh định hình.",
+    "uses": [
+      "Cầu và dầm kết cấu",
+      "Chi tiết kết cấu ô tô",
+      "Chốt cầu và chi tiết rèn"
+    ]
+  },
+  "6101": {
+    "name": "Hợp kim dẫn điện",
+    "h1": "Nhôm ống & thanh định hình 6101 T6 theo GB/T 6892 / ASTM B221",
+    "metaTitle": "Nhôm thanh định hình 6101 T6 — GB/T 6892 | Zorlang",
+    "metaDesc": "Hợp kim dẫn điện: độ bền kéo 200 MPa ở trạng thái T6, cung cấp dạng ống, thanh định hình. Máng thanh dẫn điện, Thanh dẫn tủ điện. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "6101 cân bằng giữa độ dẫn và độ bền: khoảng 55% IACS với độ bền kéo 200 MPa ở trạng thái T6, nên một thanh dẫn mang được dòng điện của tiết diện đồng gấp đôi mà chỉ nặng bằng một phần ba. Đây là mác tiêu chuẩn cho máng thanh dẫn, thanh dẫn tủ điện và dây dẫn sạc xe điện. Cung cấp dạng ống và thanh định hình đùn, đã cắt và khoan theo chiều dài.",
+    "uses": [
+      "Máng thanh dẫn điện",
+      "Thanh dẫn tủ điện",
+      "Dây dẫn sạc xe điện",
+      "Đầu nối trạm biến áp"
+    ]
+  },
+  "7005": {
+    "name": "Hợp kim khung xe đạp",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 7005 T6 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 7005 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim khung xe đạp: độ bền kéo 350 MPa ở trạng thái T6, cung cấp dạng tấm, thanh, ống, thanh định hình. Khung xe đạp, Vợt và gậy trượt tuyết. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "7005 là mác 7xxx hàn được: kẽm và magiê cho độ bền kéo 350 MPa và giới hạn chảy 290 MPa ở trạng thái T6, cao hơn 6061 khoảng 13%, trong khi zirconi giữ cho vùng ảnh hưởng nhiệt không bị mềm. Hợp kim này hoá già tự nhiên trở lại độ bền đầy đủ sau khi hàn, vì vậy đây là lựa chọn mặc định cho bộ khung xe đạp.",
+    "uses": [
+      "Khung xe đạp",
+      "Vợt và gậy trượt tuyết",
+      "Chi tiết chịu tải hàn"
+    ]
+  },
+  "8011": {
+    "name": "Hợp kim lá nắp và dược phẩm",
+    "h1": "Nhôm tấm, cuộn & lá 8011 H18 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm lá 8011 H18 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim lá nắp và dược phẩm: độ bền kéo 150 MPa ở trạng thái H18, cung cấp dạng tấm, cuộn, lá. Nắp chai và nút đậy, Lá vỉ dược phẩm. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "8011 là lá bao bì: silic và sắt khoảng 0.5–1.0% cho lá H18 độ bền kéo 150 MPa cùng độ cứng mà nắp chai cần để ép chặt và giữ kín, và hàm lượng kim loại nặng thấp mà lá vỉ dược phẩm yêu cầu. Cán từ 0.006–0.20 mm, sáng hoặc có dầu bôi trơn.",
+    "uses": [
+      "Nắp chai và nút đậy",
+      "Lá vỉ dược phẩm",
+      "Gioăng làm kín",
+      "Bao bì ghép lớp"
+    ]
+  },
+  "5A06": {
+    "name": "Hợp kim chống ăn mòn magiê cao",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 5A06 O theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm tấm 5A06 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim chống ăn mòn magiê cao: độ bền kéo 320 MPa ở trạng thái O, cung cấp dạng tấm, thanh, ống, thanh định hình. Thượng tầng tàu, Kết cấu chịu áp hàn. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "5A06 là mác magiê cao của Trung Quốc: 5.8–6.8% Mg cho độ bền kéo 320 MPa và giới hạn chảy 160 MPa ở trạng thái ủ, hàm lượng magiê cao nhất chúng tôi cán và khả năng chịu nước biển tốt nhất trong họ 5xxx. Mác này được hàn thành thượng tầng tàu, vỏ chịu áp và thân toa xe đường sắt.",
+    "uses": [
+      "Thượng tầng tàu",
+      "Kết cấu chịu áp hàn",
+      "Thân toa xe đường sắt",
+      "Boong tàu"
+    ]
+  },
+  "6005A": {
+    "name": "Hợp kim đùn toa xe đường sắt",
+    "h1": "Nhôm tấm, thanh, ống & thanh định hình 6005A T6 theo GB/T 3880 / ASTM B209",
+    "metaTitle": "Nhôm thanh định hình 6005A T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Hợp kim đùn toa xe đường sắt: độ bền kéo 290 MPa ở trạng thái T6, cung cấp dạng tấm, thanh, ống, thanh định hình. Thanh định hình thân xe cao tốc và tàu điện ngầm, Dầm gầm và dầm sàn. Có chứng chỉ thử nghiệm lô và giám định SGS.",
+    "intro": "6005A là hợp kim làm thanh định hình toa xe: độ bền kéo 290 MPa và giới hạn chảy 240 MPa ở trạng thái T6, với mangan và crom giữ độ bền xuyên suốt vùng hàn để thân xe hàn khuấy ma sát vẫn giữ được đặc tính tiết diện. Thanh được đùn theo bản vẽ của bạn đến tiết diện 400 mm, anod hoá hoặc sơn.",
+    "uses": [
+      "Thanh định hình thân xe cao tốc và tàu điện ngầm",
+      "Dầm gầm và dầm sàn",
+      "Khung mô-đun"
+    ]
+  }
+}

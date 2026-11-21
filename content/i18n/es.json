@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "title": "Zorlang Aluminum",
+    "desc": "Aluminio en placa, bobina, papel de aluminio, barra, tubo y perfil para exportación."
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "applications": "Aplicaciones",
+    "capabilities": "Capacidades",
+    "quality": "Calidad",
+    "news": "Noticias",
+    "about": "Empresa",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "quote": "Solicitar precio",
+    "viewAlloys": "Ver aleaciones",
+    "viewAll": "Ver todo",
+    "readMore": "Leer más",
+    "downloadPdf": "Descargar ficha técnica (PDF)",
+    "whatsapp": "WhatsApp",
+    "email": "Correo",
+    "call": "Llamar",
+    "send": "Enviar consulta",
+    "backToNews": "Todas las noticias"
+  },
+  "common": {
+    "alloy": "Aleación",
+    "temper": "Temple",
+    "standard": "Norma",
+    "thickness": "Espesor",
+    "width": "Ancho",
+    "length": "Longitud",
+    "surface": "Superficie",
+    "density": "Densidad",
+    "melting": "Intervalo de fusión",
+    "element": "Elemento",
+    "composition": "Composición (% en peso)",
+    "property": "Propiedad",
+    "value": "Valor",
+    "minRead": "min de lectura",
+    "published": "Publicado",
+    "updated": "Actualizado",
+    "author": "Autor",
+    "sources": "Fuentes",
+    "related": "Relacionado",
+    "category": "Categoría",
+    "allCategories": "Todas las categorías",
+    "specs": "Especificaciones",
+    "inquiry": "Consulta",
+    "formNote": "Respondemos en un día laborable con precio, plazo de entrega y certificado de colada.",
+    "breadcrumb": "Ruta de navegación",
+    "series": "Serie"
+  },
+  "home": {
+    "eyebrow": "Directo de laminadora · Exportación desde 2006",
+    "h1": "Aluminio en placa, bobina, papel de aluminio, barra, tubo y perfil — directo de fábrica",
+    "sub": "Veintitrés aleaciones, seis formas de producto, certificados de colada e inspección de terceros en cada envío. Exportamos a más de 40 países desde Luoyang, Henan.",
+    "ctaSecondary": "Ver aleaciones",
+    "trust": [
+      "Sistema de calidad ISO 9001",
+      "Conforme a EN / ASTM",
+      "Inspección SGS y BV",
+      "Capacidad anual de 50.000 t"
+    ],
+    "formsTitle": "Seis formas de producto",
+    "formsSub": "Cada forma se mantiene en stock en las aleaciones más solicitadas, con corte, corte longitudinal y anodizado en nuestras instalaciones.",
+    "alloysTitle": "Aleaciones en producción",
+    "alloysSub": "Una página por aleación: composición química completa, propiedades mecánicas, tolerancias y las formas en que la laminamos o extruimos.",
+    "appsTitle": "Dónde va el metal",
+    "appsSub": "Seis sectores, cada uno con su propia lógica de aleación y temple.",
+    "capTitle": "Una capacidad con la que puede planificar",
+    "capSub": "Fusión, laminación, extrusión, anodizado y embalaje bajo un mismo techo: los plazos no dependen de terceros.",
+    "newsTitle": "Notas de mercado y guías técnicas",
+    "newsSub": "Precios, normas y notas de aplicación, escritos por quienes laminan el metal.",
+    "ctaTitle": "Envíe la especificación y reciba un precio en 24 horas",
+    "ctaSub": "Indíquenos aleación, temple, medida y cantidad. Un ingeniero comercial le responde con precio, plazo de entrega y el certificado de colada del lote.",
+    "metaTitle": "Placa, bobina, papel de aluminio, barra, tubo y perfil — de fábrica | Zorlang",
+    "statCapacity": "50.000 t",
+    "statsLabels": [
+      "capacidad anual",
+      "aleaciones",
+      "formas de producto",
+      "países de exportación"
+    ],
+    "bullets": [
+      "Certificado de colada por hornada e informe dimensional a petición.",
+      "Inspección SGS o BV antes de la carga.",
+      "Corte a medida, corte longitudinal, aserrado y anodizado propios.",
+      "Embalaje de exportación fotografiado por palé."
+    ]
+  },
+  "products": {
+    "h1": "Productos de aluminio por forma y aleación",
+    "sub": "Seis formas, 23 aleaciones. Cada ficha incluye composición, propiedades mecánicas, tolerancias y hoja técnica descargable.",
+    "tableTitle": "Resumen de aleaciones",
+    "tableSub": "Valores típicos. Confirme el temple y la tolerancia exactos de su pedido en la página de la aleación.",
+    "formLabel": "Formas disponibles",
+    "sizesLabel": "Medidas habituales",
+    "viewAlloy": "Página de la aleación"
+  },
+  "alloyPage": {
+    "specTitle": "Especificaciones",
+    "specSub": "Valores según certificado de colada; tolerancias conforme a la norma indicada en esta página salvo acuerdo distinto.",
+    "chemTitle": "Composición química",
+    "chemSub": "Límites típicos según ASTM / EN para las aleaciones que laminamos y extruimos.",
+    "mechTitle": "Propiedades mecánicas",
+    "mechSub": "Valores típicos a temperatura ambiente para el temple indicado.",
+    "appsTitle": "Dónde se utiliza",
+    "compareTitle": "Cómo se compara",
+    "compareSub": "Las dos aleaciones que los compradores suelen comparar con esta.",
+    "processTitle": "Proceso y control de calidad",
+    "packingTitle": "Embalaje",
+    "certTitle": "Certificación e informes",
+    "certBody": "Certificado de colada por cada colada, informe de inspección dimensional e inspección de terceros SGS o BV a petición. Los certificados viajan con los documentos de embarque.",
+    "inquiryTitle": "Solicite precio para esta aleación",
+    "inquirySub": "La aleación y el espesor vienen rellenados desde esta página; cámbielos si necesita otra cosa.",
+    "relatedTitle": "Todas las aleaciones",
+    "downloadNote": "PDF de 1 página, generado a partir de los datos de esta página.",
+    "usesTitle": "Aplicaciones principales",
+    "usesSub": "Usos habituales en producción en serie, según nuestra ficha de aleación.",
+    "appImgCaption": "Imagen de aplicación",
+    "compareHead": [
+      "Propiedad",
+      "Esta aleación",
+      "Alternativa"
+    ],
+    "qcGeneric": "Las propiedades típicas se verifican colada por colada: composición por espectrometría en cada fusión, tracción y límite elástico en cada colada, dureza y control dimensional antes del embalaje. El certificado de material, el informe dimensional y la inspección de terceros (SGS o BV) se emiten contra el número de colada.",
+    "otherTempers": "Otras temples a petición",
+    "meltingNote": "El intervalo de fusión es el rango típico sólidus–liquidus de la aleación.",
+    "prevImg": "Imagen anterior",
+    "nextImg": "Imagen siguiente"
+  },
+  "applications": {
+    "h1": "Aplicaciones del aluminio por sector",
+    "sub": "Seis sectores a los que suministramos, con las aleaciones y temples que realmente funcionan en cada uno.",
+    "alloysLabel": "Aleaciones disponibles"
+  },
+  "capabilities": {
+    "h1": "Capacidades",
+    "sub": "Fusión, colada, laminación, extrusión, acabado y embalaje: 50.000 toneladas al año desde una única planta en Luoyang.",
+    "equipTitle": "Equipamiento",
+    "equipSub": "Las líneas que determinan qué podemos mantener en stock, laminar y acabar.",
+    "processTitle": "Del lingote al contenedor",
+    "processSub": "Seis etapas controladas, cada una registrada por lote.",
+    "capacityTitle": "Capacidad de un vistazo"
+  },
+  "quality": {
+    "h1": "Calidad y ensayos",
+    "sub": "Comprobamos en nuestras instalaciones la composición química, las propiedades mecánicas, la corrosión y las dimensiones; la inspección de terceros está disponible antes de la carga.",
+    "testTitle": "Qué ensayamos",
+    "testSub": "Cuatro controles en cada lote, más ensayos específicos de aplicación a petición.",
+    "certTitle": "Normas y certificados",
+    "certSub": "Los certificados se emiten por número de colada y viajan con los documentos de embarque.",
+    "packTitle": "Embalaje y carga",
+    "packSub": "Embalaje de exportación diseñado para transporte marítimo, fotografiado palé a palé antes de la carga."
+  },
+  "news": {
+    "h1": "Noticias y notas técnicas",
+    "sub": "Precios de mercado, guías de compra, novedades normativas y notas de aplicación.",
+    "latest": "Últimas",
+    "categories": {
+      "market": "Mercado",
+      "guide": "Guía",
+      "standard": "Norma",
+      "industry": "Sector"
+    },
+    "catDesc": {
+      "market": "Movimiento del LME, primas y qué significan para su pedido.",
+      "guide": "Cómo elegir aleación, temple y tolerancia sin sobrespecificar.",
+      "standard": "Cambios y aclaraciones en las normas ASTM, EN y GB.",
+      "industry": "Dónde gana y dónde pierde el aluminio en cada mercado final."
+    },
+    "empty": "Todavía no hay artículos en esta categoría.",
+    "rss": "Canal RSS",
+    "sources": "Fuentes de datos",
+    "authorRole": "Ventas técnicas, Zorlang Aluminum"
+  },
+  "about": {
+    "h1": "Sobre Zorlang Aluminum",
+    "sub": "Una laminadora y extrusora en Luoyang, Henan, que suministra a exportadores, transformadores y fabricantes OEM desde 2006.",
+    "timelineTitle": "Hitos",
+    "capTitle": "La planta de un vistazo"
+  },
+  "contact": {
+    "h1": "Contacto",
+    "sub": "Envíe aleación, temple, dimensiones y cantidad. Un ingeniero comercial responde en un día laborable.",
+    "formTitle": "Enviar una consulta",
+    "detailsTitle": "Contacto directo",
+    "hours": "Lun–Sáb 08:30–18:00 (GMT+8)",
+    "address": "Dirección",
+    "note": "No compartimos sus datos. Las consultas técnicas las responde la fábrica, no un centro de llamadas.",
+    "hoursLabel": "Horario"
+  },
+  "form": {
+    "name": "Nombre",
+    "company": "Empresa",
+    "email": "Correo electrónico",
+    "alloy": "Aleación",
+    "thickness": "Espesor",
+    "quantity": "Cantidad",
+    "message": "Especificación",
+    "submit": "Enviar consulta",
+    "required": "Obligatorio",
+    "success": "Gracias: su consulta está lista para enviarse. Si su cliente de correo no se abrió, escríbanos directamente.",
+    "privacy": "Al enviar, acepta que le contactemos en relación con esta consulta."
+  },
+  "footer": {
+    "about": "Aluminio en placa, bobina, papel de aluminio, barra, tubo y perfil, laminado y exportado desde Luoyang, Henan, China.",
+    "products": "Productos",
+    "company": "Empresa",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "note": "Los valores son típicos; el certificado de colada de su lote es el documento vinculante."
+  },
+  "a11y": {
+    "skip": "Saltar al contenido",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "language": "Idioma",
+    "whatsapp": "Contáctenos por WhatsApp"
+  },
+  "forms": {
+    "plate": "Chapa y plancha de aluminio",
+    "coil": "Bobina de aluminio",
+    "bar": "Barra y redondo de aluminio",
+    "tube": "Tubo de aluminio",
+    "profile": "Perfil de aluminio",
+    "foil": "Papel de aluminio"
+  }
+}

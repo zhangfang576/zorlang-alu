@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "title": "Zorlang Aluminum",
+    "desc": "Aluminium plate, coil, foil, bar, tube and extrusion for export."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "applications": "Applications",
+    "capabilities": "Capabilities",
+    "quality": "Quality",
+    "news": "News",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "quote": "Request a quote",
+    "viewAlloys": "View alloys",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "downloadPdf": "Download spec sheet (PDF)",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "call": "Call",
+    "send": "Send inquiry",
+    "backToNews": "All news"
+  },
+  "common": {
+    "alloy": "Alloy",
+    "temper": "Temper",
+    "standard": "Standard",
+    "thickness": "Thickness",
+    "width": "Width",
+    "length": "Length",
+    "surface": "Surface",
+    "density": "Density",
+    "melting": "Melting range",
+    "element": "Element",
+    "composition": "Composition (wt %)",
+    "property": "Property",
+    "value": "Value",
+    "minRead": "min read",
+    "published": "Published",
+    "updated": "Updated",
+    "author": "Author",
+    "sources": "Sources",
+    "related": "Related",
+    "category": "Category",
+    "allCategories": "All categories",
+    "specs": "Specifications",
+    "inquiry": "Inquiry",
+    "formNote": "We reply within one working day with price, lead time and mill certificate.",
+    "breadcrumb": "Breadcrumb",
+    "series": "Series"
+  },
+  "home": {
+    "eyebrow": "Mill direct · Export since 2006",
+    "h1": "Aluminium plate, coil, foil, bar, tube and profile — direct from the mill",
+    "sub": "Twenty-three alloys, six product forms, mill test certificates and third-party inspection on every shipment. Shipped to 40+ countries from Luoyang, Henan.",
+    "ctaSecondary": "Browse alloys",
+    "trust": [
+      "ISO 9001 quality system",
+      "EN / ASTM compliant",
+      "SGS & BV inspection",
+      "50,000 t annual capacity"
+    ],
+    "formsTitle": "Six product forms",
+    "formsSub": "Each form is stocked in the alloys buyers ask for most, with cutting, slitting and anodising in-house.",
+    "alloysTitle": "Alloys in production",
+    "alloysSub": "One page per alloy: full chemistry, mechanical properties, tolerances and the forms we roll or extrude it in.",
+    "appsTitle": "Where the metal goes",
+    "appsSub": "Six industries, each with its own grade and temper logic.",
+    "capTitle": "Capacity you can plan around",
+    "capSub": "Melting, rolling, extrusion, anodising and packing under one roof — so lead times do not depend on a third party.",
+    "newsTitle": "Market notes and technical guides",
+    "newsSub": "Prices, standards and application notes, written by the people who roll the metal.",
+    "ctaTitle": "Send the specification, get a price in 24 hours",
+    "ctaSub": "Tell us alloy, temper, size and quantity. A sales engineer replies with price, lead time and the mill certificate for the batch.",
+    "metaTitle": "Aluminium Plate, Coil, Foil, Bar, Tube & Profile — Mill Direct | Zorlang",
+    "statCapacity": "50,000 t",
+    "statsLabels": [
+      "annual capacity",
+      "alloys",
+      "product forms",
+      "export countries"
+    ],
+    "bullets": [
+      "Mill test certificate per heat, dimensional report on request.",
+      "SGS or BV inspection before loading.",
+      "Cut-to-length, slitting, sawing and anodising in-house.",
+      "Export packing photographed per pallet."
+    ]
+  },
+  "products": {
+    "h1": "Aluminium products by form and alloy",
+    "sub": "Six product forms, 23 alloys. Every alloy page carries chemistry, mechanical properties, tolerances and a downloadable spec sheet.",
+    "tableTitle": "Alloy overview",
+    "tableSub": "Typical values. Confirm the exact temper and tolerance for your order on the alloy page.",
+    "formLabel": "Available forms",
+    "sizesLabel": "Typical sizes",
+    "viewAlloy": "Alloy page"
+  },
+  "alloyPage": {
+    "specTitle": "Specifications",
+    "specSub": "Values per mill test certificate; tolerances to the standard named on this page unless agreed otherwise.",
+    "chemTitle": "Chemical composition",
+    "chemSub": "Typical limits to ASTM / EN for the alloys we roll and extrude.",
+    "mechTitle": "Mechanical properties",
+    "mechSub": "Typical values at room temperature for the temper shown.",
+    "appsTitle": "Where it is used",
+    "compareTitle": "How it compares",
+    "compareSub": "The two alloys buyers most often shortlist against this one.",
+    "processTitle": "Process and quality control",
+    "packingTitle": "Packing",
+    "certTitle": "Certification and reports",
+    "certBody": "Mill test certificate per heat, dimensional inspection report, and SGS or BV third-party inspection on request. Certificates travel with the shipping documents.",
+    "inquiryTitle": "Request a quote for this alloy",
+    "inquirySub": "Alloy and thickness are pre-filled from this page — change them if you need something else.",
+    "relatedTitle": "All grades",
+    "downloadNote": "PDF, 1 page, generated from the data on this page.",
+    "usesTitle": "Main applications",
+    "usesSub": "Where this grade is used in series production, as listed in our alloy data sheet.",
+    "appImgCaption": "Application reference",
+    "compareHead": [
+      "Property",
+      "This alloy",
+      "Alternative"
+    ],
+    "qcGeneric": "Typical properties are verified heat by heat: spectrometric composition on every melt, tensile and yield on every cast, hardness and dimensional checks before packing. A mill test certificate, dimensional report and third-party inspection (SGS or BV) are issued against the heat number.",
+    "otherTempers": "Other tempers on request",
+    "meltingNote": "Melting range is the typical solidus–liquidus interval for the grade.",
+    "prevImg": "Previous image",
+    "nextImg": "Next image"
+  },
+  "applications": {
+    "h1": "Aluminium applications by industry",
+    "sub": "Six industries we supply, with the alloys and tempers that actually work in each.",
+    "alloysLabel": "Available grades"
+  },
+  "capabilities": {
+    "h1": "Capabilities",
+    "sub": "Melting, casting, rolling, extrusion, finishing and packing — 50,000 tonnes a year from one site in Luoyang.",
+    "equipTitle": "Equipment",
+    "equipSub": "The lines that decide what we can hold, roll and finish.",
+    "processTitle": "From ingot to container",
+    "processSub": "Six controlled stages, each recorded against the batch.",
+    "capacityTitle": "Capacity at a glance"
+  },
+  "quality": {
+    "h1": "Quality and testing",
+    "sub": "Chemistry, mechanical properties, corrosion and dimensions are checked in-house; third-party inspection is available before loading.",
+    "testTitle": "What we test",
+    "testSub": "Four checks on every batch, plus application-specific tests on request.",
+    "certTitle": "Standards and certificates",
+    "certSub": "Certificates are issued per heat number and travel with the shipping documents.",
+    "packTitle": "Packing and loading",
+    "packSub": "Export packing built for sea freight, photographed per pallet before loading."
+  },
+  "news": {
+    "h1": "News and technical notes",
+    "sub": "Market prices, buying guides, standard updates and application notes.",
+    "latest": "Latest",
+    "categories": {
+      "market": "Market",
+      "guide": "Guide",
+      "standard": "Standard",
+      "industry": "Industry"
+    },
+    "catDesc": {
+      "market": "LME movement, premiums and what it means for your purchase order.",
+      "guide": "How to choose alloy, temper and tolerance without over-specifying.",
+      "standard": "Changes and clarifications in ASTM, EN and GB standards.",
+      "industry": "Where aluminium is winning and losing in each end market."
+    },
+    "empty": "No articles in this category yet.",
+    "rss": "RSS feed",
+    "sources": "Data sources",
+    "authorRole": "Technical sales, Zorlang Aluminum",
+    "pagination": "News pagination",
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "pageLabel": "Page {n}",
+    "pageInfo": "Page {current} of {total} · {count} articles in total"
+  },
+  "about": {
+    "h1": "About Zorlang Aluminum",
+    "sub": "A rolling and extrusion mill in Luoyang, Henan, supplying exporters, fabricators and OEMs since 2006.",
+    "timelineTitle": "Milestones",
+    "capTitle": "Plant at a glance"
+  },
+  "contact": {
+    "h1": "Contact",
+    "sub": "Send alloy, temper, dimensions and quantity. A sales engineer replies within one working day.",
+    "formTitle": "Send an inquiry",
+    "detailsTitle": "Direct contact",
+    "hours": "Mon–Sat 08:30–18:00 (GMT+8)",
+    "address": "Address",
+    "note": "We do not share your details. Technical questions are answered by the mill, not a call centre.",
+    "hoursLabel": "Hours"
+  },
+  "form": {
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "alloy": "Alloy",
+    "thickness": "Thickness",
+    "quantity": "Quantity",
+    "message": "Specification",
+    "submit": "Send inquiry",
+    "required": "Required",
+    "success": "Thanks — your inquiry is ready to send. If your mail client did not open, email us directly.",
+    "privacy": "By sending you agree to be contacted about this inquiry."
+  },
+  "footer": {
+    "about": "Aluminium plate, coil, foil, bar, tube and extrusion, rolled and exported from Luoyang, Henan, China.",
+    "products": "Products",
+    "company": "Company",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "note": "Values are typical; the mill test certificate for your batch is the governing document."
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "whatsapp": "Contact us on WhatsApp"
+  },
+  "forms": {
+    "plate": "Aluminium plate & sheet",
+    "coil": "Aluminium coil",
+    "bar": "Aluminium bar & rod",
+    "tube": "Aluminium tube & pipe",
+    "profile": "Aluminium profile",
+    "foil": "Aluminium foil"
+  }
+}

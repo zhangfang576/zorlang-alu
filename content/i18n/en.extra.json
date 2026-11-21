@@ -1,0 +1,254 @@
+{
+  "industries": [
+    {
+      "id": "construction",
+      "img": "app-01-construction.jpg",
+      "t": "Construction and facade",
+      "d": "Curtain wall, window systems, roofing and cladding. 6063 for anodised profiles, 3003 and 5005 for sheet that faces weather, 6082 where the connection carries load.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "5005",
+        "6063",
+        "6082"
+      ]
+    },
+    {
+      "id": "transport",
+      "img": "app-02-automotive.jpg",
+      "t": "Transport and automotive",
+      "d": "Truck bodies, trailer panels, fuel tanks and EV battery housings. 5052 for formed panels and tanks, 6061 for machined structural parts, 5083 for heavy welded bodies.",
+      "alloys": [
+        "2017",
+        "3003",
+        "4032",
+        "4343",
+        "5052",
+        "5083",
+        "5182",
+        "5754",
+        "5A06",
+        "6005A",
+        "6061",
+        "6082",
+        "7005"
+      ]
+    },
+    {
+      "id": "marine",
+      "img": "app-04-marine.jpg",
+      "t": "Marine and offshore",
+      "d": "Hulls, decks, superstructures and fittings. 5083 in H116 or H321 for welded structure, 5052 for sheet-metal parts and interiors.",
+      "alloys": [
+        "5052",
+        "5083",
+        "5A06"
+      ]
+    },
+    {
+      "id": "energy",
+      "img": "app-05-energy.jpg",
+      "t": "New energy and electrical",
+      "d": "Solar mounting, battery foil, busbar and heat sinks. 1050 for conductivity, 3003 for mounting rails, 6063 for extruded frames and heat sinks.",
+      "alloys": [
+        "1050",
+        "3003",
+        "5083",
+        "6063",
+        "6101"
+      ]
+    },
+    {
+      "id": "packaging",
+      "img": "app-06-packaging.jpg",
+      "t": "Packaging and food contact",
+      "d": "Foil containers, closures, lids and aseptic packaging. 1100 and 1050 in O temper, food-grade surface, tight gauge control.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3104",
+        "5182",
+        "8011"
+      ]
+    },
+    {
+      "id": "industrial",
+      "img": "app-08-industrial.jpg",
+      "t": "Industrial equipment and electronics",
+      "d": "Machine frames, guarding, conveyor structures and heat sinks. 6063 for T-slot and finned extrusion, 6061 for machined plates, 1050 for shielding.",
+      "alloys": [
+        "1050",
+        "1100",
+        "2011",
+        "3003",
+        "4045",
+        "4343",
+        "5052",
+        "5754",
+        "6061",
+        "6063",
+        "6082",
+        "6101"
+      ]
+    }
+  ],
+  "equipment": [
+    [
+      "Melting and casting",
+      "2 lines, 12 t furnaces, DC casting",
+      "2"
+    ],
+    [
+      "Hot rolling",
+      "1,450 mm reversing mill",
+      "1"
+    ],
+    [
+      "Cold rolling",
+      "1,650 mm 4-high, 0.2–6 mm",
+      "2"
+    ],
+    [
+      "Extrusion presses",
+      "600–3,600 t",
+      "6"
+    ],
+    [
+      "Anodising",
+      "10–25 µm, 6 m tanks",
+      "2"
+    ],
+    [
+      "Cut-to-length and slitting",
+      "0.2–6 mm, 100–2,650 mm",
+      "3"
+    ]
+  ],
+  "processSteps": [
+    [
+      "Melting and casting",
+      "Spectro-checked chemistry, in-line degassing and grain refinement before the ingot is cast."
+    ],
+    [
+      "Hot and cold rolling",
+      "Breakdown on the reversing mill, then cold rolling with thickness and flatness monitored on-line."
+    ],
+    [
+      "Heat treatment",
+      "Annealing, solution treatment and ageing logged by furnace load and batch."
+    ],
+    [
+      "Cutting and slitting",
+      "Cut-to-length, slitting and sawing to drawing, with first-piece dimensional approval."
+    ],
+    [
+      "Inspection",
+      "Dimension, surface, mechanical properties and chemistry checked against the mill certificate."
+    ],
+    [
+      "Packing",
+      "Moisture barrier, corner protection and steel banding, photographed per pallet."
+    ]
+  ],
+  "tests": [
+    [
+      "Composition",
+      "Optical emission spectrometry on every heat, reported to 0.01%."
+    ],
+    [
+      "Mechanical properties",
+      "Tensile, yield and elongation to ASTM E8 / EN ISO 6892."
+    ],
+    [
+      "Corrosion",
+      "Salt spray and intergranular corrosion testing for marine and coated grades."
+    ],
+    [
+      "Dimensions",
+      "Thickness, width, flatness and squareness measured to the ordered tolerance."
+    ]
+  ],
+  "standardsRows": [
+    [
+      "ISO 9001",
+      "Quality management system",
+      "Company-wide"
+    ],
+    [
+      "ASTM B209",
+      "Plate, sheet and coil",
+      "Per batch"
+    ],
+    [
+      "ASTM B221 / B210",
+      "Extruded bar and tube",
+      "Per batch"
+    ],
+    [
+      "EN 485 / EN 755",
+      "Plate, strip and extrusion",
+      "Per batch"
+    ],
+    [
+      "SGS / BV",
+      "Third-party inspection",
+      "On request"
+    ]
+  ],
+  "timeline": [
+    [
+      "2006",
+      "Founded as a casting and rolling workshop in Luoyang."
+    ],
+    [
+      "2012",
+      "First cold rolling line commissioned; export starts to Southeast Asia."
+    ],
+    [
+      "2018",
+      "Extrusion and anodising added; exports reach 30 countries."
+    ],
+    [
+      "2022",
+      "Second cold mill and automated packing line."
+    ],
+    [
+      "2025",
+      "Capacity reaches 50,000 t per year across rolling and extrusion."
+    ]
+  ],
+  "plantTable": [
+    [
+      "Site",
+      "Luoyang, Henan, China"
+    ],
+    [
+      "Site area",
+      "38,000 m²"
+    ],
+    [
+      "Annual capacity",
+      "50,000 t"
+    ],
+    [
+      "Staff",
+      "210"
+    ],
+    [
+      "Main lines",
+      "Rolling, extrusion, anodising, packing"
+    ],
+    [
+      "Export markets",
+      "Europe, Middle East, Southeast Asia, Americas"
+    ]
+  ],
+  "packingSteps": [
+    "Moisture-barrier film and VCI paper on all sheet and coil.",
+    "Corner boards and edge rings on every pallet and coil.",
+    "Steel strapping at fixed intervals, sealed and tension-checked.",
+    "Pallet photographed and the image filed against the packing list."
+  ]
+}

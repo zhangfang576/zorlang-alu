@@ -1,0 +1,427 @@
+{
+  "1050": {
+    "name": "Aluminium de pureté commerciale",
+    "h1": "Tôle, barre, tube, bobine et feuille en aluminium 1050 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 1050 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Aluminium de pureté commerciale : 80 MPa de résistance à la traction en O, livré en tôle, barre, tube, bobine et feuille. Feuille, barres omnibus conductrices. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 1050 est de l'aluminium de pureté commerciale : 99.5% minimum, aucun élément d'alliage, et la conductivité la plus élevée de toutes les nuances que nous laminons. C'est la nuance à prescrire lorsque le travail exige de la formabilité, de la conductivité ou une finition anodisée brillante plutôt que de la résistance. Nous la laminons de la tôle de 0.3 mm à la plaque de 120 mm, en O, H14, H24 et H18, avec contrôle en ligne de l'épaisseur et de la planéité.",
+    "uses": [
+      "Feuille",
+      "Barres omnibus conductrices",
+      "Ailettes de dissipateur thermique",
+      "Plaques signalétiques et enseignes",
+      "Revêtements d'équipements chimiques"
+    ],
+    "apps": [
+      {
+        "t": "Conducteurs électriques et thermiques",
+        "d": "Barres omnibus, ailettes d'échangeurs et feuillards pour transformateurs, où la conductivité compte plus que la limite d'élasticité."
+      },
+      {
+        "t": "Signalétique et profilés anodisés",
+        "d": "Reçoit un film anodique brillant et uniforme — utilisé pour les ébauches de panneaux, les réflecteurs et les profilés décoratifs."
+      },
+      {
+        "t": "Pièces embouties profondément",
+        "d": "Articles culinaires, bouchons et carters de luminaires nécessitant un allongement supérieur à 20 % en état O."
+      }
+    ],
+    "compare": {
+      "1100": "Le 1100 ajoute une petite addition de cuivre pour une résistance légèrement supérieure et une meilleure usinabilité, au prix d'un peu de conductivité. Choisissez le 1100 quand la pièce est formée puis usinée ; restez sur le 1050 pour les conducteurs.",
+      "3003": "Le 3003 double environ la limite d'élasticité du 1050 grâce au manganèse et se soude toujours proprement. Passez au 3003 dès que la pièce doit reprendre des charges, et pas seulement prendre une forme."
+    },
+    "qc": "La composition est vérifiée par spectrométrie d'émission optique sur chaque coulée. La conductivité est mesurée sur feuillard et la planéité est contrôlée sur marbre avant la découpe à longueur de la tôle. Certificat de coulée, rapport dimensionnel et, sur demande, inspection SGS sont établis par numéro de coulée."
+  },
+  "1100": {
+    "name": "Aluminium de pureté commerciale",
+    "h1": "Tôle, barre, tube, bobine et feuille en aluminium 1100 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 1100 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Aluminium de pureté commerciale : 90 MPa de résistance à la traction en O, livré en tôle, barre, tube, bobine et feuille. Plaques signalétiques et enseignes, articles creux emboutis. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 1100 est de l'aluminium pur à 99.0% avec une addition de cuivre contrôlée. Cette faible addition porte la résistance et l'usinabilité au-dessus du 1050 tout en maintenant une conductivité élevée et une excellente formabilité, ce qui en fait la solution par défaut pour les pièces repoussées, embouties et laminées qui sont ensuite découpées ou poinçonnées. Livré de 0.3 mm à 100 mm, en O, H14, H24 et H18.",
+    "uses": [
+      "Plaques signalétiques et enseignes",
+      "Articles creux emboutis",
+      "Échangeurs de chaleur",
+      "Contenants d'emballage"
+    ],
+    "apps": [
+      {
+        "t": "Repoussage et étirage",
+        "d": "Articles culinaires, pièces creuses et réflecteurs de luminaires dont le métal est repoussé ou étiré à la forme."
+      },
+      {
+        "t": "Transfert thermique",
+        "d": "Ailettes et plaques de radiateurs et d'échangeurs, grâce à une conductivité thermique élevée."
+      },
+      {
+        "t": "Emballage et bouchage",
+        "d": "Capsules, bouchons et composants de contenants nécessitant une surface propre et une épaisseur régulière."
+      }
+    ],
+    "compare": {
+      "1050": "Le 1050 est plus pur et légèrement plus conducteur ; le 1100 est plus résistant et s'usine mieux. Si la pièce est poinçonnée ou tournée après formage, le 1100 l'emporte généralement.",
+      "3003": "Le 3003 est l'option plus résistante et plus résistante à la corrosion, mais il s'anodise moins brillamment. Gardez le 1100 là où l'aspect de surface compte."
+    },
+    "qc": "Chaque coulée est contrôlée au spectromètre et la bobine est refendue à la largeur commandée en interne. La surface est inspectée sous lumière rasante pour détecter les marques de cylindre et les inclusions, et l'épaisseur est enregistrée tous les 20 mètres."
+  },
+  "2011": {
+    "name": "Aluminium de décolletage",
+    "h1": "Barre et tube en aluminium 2011 T3 — GB/T 6892 · ASTM B221",
+    "metaTitle": "Barre en aluminium 2011 T3 — GB/T 6892 | Zorlang",
+    "metaDesc": "Aluminium de décolletage : 380 MPa de résistance à la traction en T3, livré en barre et tube. Vis de précision et fixations, connecteurs et raccords. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 2011 est la nuance de décolletage de référence : 5.0–6.0 % de cuivre avec des additions de bismuth et de plomb qui fragmentent le copeau, de sorte que les tours automatiques tournent vite sans copeaux enchevêtrés. Les caractéristiques typiques en T3 sont 380 MPa de résistance à la traction et 295 MPa de limite d'élasticité pour 15 % d'allongement, soit environ trois fois la résistance du 6063, et les faces usinées ressortent brillantes. Livré en barre ronde et en tube, tronçonné à la scie ou coupé à longueur.",
+    "uses": [
+      "Vis de précision et fixations",
+      "Connecteurs et raccords",
+      "Composants horlogers et optiques",
+      "Pièces tournées à grande vitesse"
+    ]
+  },
+  "2017": {
+    "name": "Aluminium à rivets (équivalent 2A11)",
+    "h1": "Tôle, barre et tube en aluminium 2017 T4 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Barre en aluminium 2017 T4 — GB/T 3880 | Zorlang",
+    "metaDesc": "Aluminium à rivets (équivalent 2A11) : 425 MPa de résistance à la traction en T4, livré en tôle, barre et tube. Rivets aéronautiques et de structure, boulons et colliers. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 2017 est l'alliage à rivets classique : 425 MPa de résistance à la traction en T4 avec 22 % d'allongement, une ductilité suffisante pour former une tête de rivet à froid et une résistance suffisante pour reprendre le cisaillement dans les structures de cellule. Il s'usine et se forme bien, et il reste sous le seuil de 460 MPa de la liste chinoise d'exportation à double usage, si bien que l'approvisionnement normal ne demande aucune licence 1C202. Tôle, barre et tube en stock.",
+    "uses": [
+      "Rivets aéronautiques et de structure",
+      "Boulons et colliers",
+      "Structures porteuses générales",
+      "Stock de réparation"
+    ]
+  },
+  "3003": {
+    "name": "Alliage antirouille au manganèse",
+    "h1": "Tôle, tube, bobine, feuille et profilé en aluminium 3003 H14 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 3003 H14 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage antirouille au manganèse : 150 MPa de résistance à la traction en H14, livré en tôle, tube, bobine, feuille et profilé. Ustensiles de cuisine et arts de la table, radiateurs. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 3003 est l'alliage aluminium-manganèse de base : environ 20% plus résistant que le 1100, toujours très formable et suffisamment résistant à la corrosion pour la toiture, les conteneurs et les équipements chimiques. Il se soude et se brase bien, ce qui en fait le choix habituel lorsqu'un ensemble fabriqué doit être à la fois léger et durable. Nous fournissons tôle, bobine, feuillard, barre et tube en O, H14, H24 et H112.",
+    "uses": [
+      "Ustensiles de cuisine et arts de la table",
+      "Radiateurs",
+      "Réservoirs de carburant",
+      "Tôle de toiture",
+      "Feuille pour climatisation"
+    ],
+    "apps": [
+      {
+        "t": "Toiture et bardage",
+        "d": "Tôles profilées, bandeaux et gouttières exposés aux intempéries pendant des décennies sans défaillance du revêtement."
+      },
+      {
+        "t": "Transport et conteneurs",
+        "d": "Caisses de camions, enveloppes de citernes et panneaux de conteneurs où le poids et la soudabilité comptent tous deux."
+      },
+      {
+        "t": "CVC et équipements chimiques",
+        "d": "Gaines, enveloppes d'échangeurs et réservoirs de stockage véhiculant des fluides légèrement corrosifs."
+      }
+    ],
+    "compare": {
+      "1100": "Le 3003 coûte un peu plus cher et est environ deux fois plus résistant, avec une meilleure résistance à la corrosion. Il remplace le 1100 dans presque toutes les pièces structurelles ou extérieures.",
+      "5052": "Le 5052 ajoute du magnésium pour 50 % de résistance supplémentaire et de meilleures performances marines, mais il se forme plus difficilement. Utilisez le 5052 quand la résistance est la contrainte, le 3003 quand c'est la formabilité."
+    },
+    "qc": "La teneur en manganèse est contrôlée par coulée car elle détermine la résistance. Des essais de pliage et de traction sont réalisés sur la première bobine de chaque lot, et les tubes sont contrôlés par courants de Foucault sur demande."
+  },
+  "3004": {
+    "name": "Alliage manganèse-magnésium pour toiture",
+    "h1": "Tôle, tube et bobine en aluminium 3004 H32 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 3004 H32 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage manganèse-magnésium pour toiture : 215 MPa de résistance à la traction en H32, livré en tôle, tube et bobine. Toitures et bardages profilés, panneaux de mur-rideau. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 3004 ajoute environ 1 % de magnésium à la base du 3003, ce qui porte la résistance à la traction de 150 à 215 MPa en H32 tout en conservant le même comportement à la corrosion et la même soudabilité. Cet équilibre explique pourquoi il domine les toitures et bardages profilés, et pourquoi les cuves chimiques et les mâts d'éclairage sont souvent construits dans cette nuance. Livré en tôle, bobine et tube.",
+    "uses": [
+      "Toitures et bardages profilés",
+      "Panneaux de mur-rideau",
+      "Cuves de stockage chimique",
+      "Mâts d'éclairage"
+    ]
+  },
+  "3104": {
+    "name": "Tôle pour corps de canettes",
+    "h1": "Tôle et bobine en aluminium 3104 H19 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 3104 H19 — GB/T 3880 | Zorlang",
+    "metaDesc": "Tôle pour corps de canettes : 285 MPa de résistance à la traction en H19, livré en tôle et bobine. Corps de canettes de boisson (DI), boîtes de conserve. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 3104 est embouti et étiré pour former les canettes de boisson en deux pièces : 285 MPa de résistance à la traction et 260 MPa de limite d'élasticité en H19 donnent à la paroi la résistance nécessaire pour supporter le procédé DI à 0.25 mm et moins. Le fer et le cuivre sont maintenus dans des plages étroites afin que les oreilles restent courtes et que la paroi s'amincisse régulièrement. Uniquement en bobine, de 0.2 à 4.0 mm, refendue à la largeur de vos flans.",
+    "uses": [
+      "Corps de canettes de boisson (DI)",
+      "Boîtes de conserve",
+      "Bouchons et opercules"
+    ]
+  },
+  "4032": {
+    "name": "Alliage pour pistons",
+    "h1": "Barre en aluminium 4032 T6 — GB/T 6892 · ASTM B221",
+    "metaTitle": "Barre en aluminium 4032 T6 — GB/T 6892 | Zorlang",
+    "metaDesc": "Alliage pour pistons : 380 MPa de résistance à la traction en T6, livré en barre. Pistons forgés, inserts de culasse. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 4032 contient 11–13.5 % de silicium, ce qui ramène la dilatation thermique à environ 80 % de celle du 6061 et procure une forte résistance à l'usure face à un alésage de cylindre ; le nickel et le cuivre maintiennent la résistance à température de service. L'état T6 donne 380 MPa de résistance à la traction, 315 MPa de limite d'élasticité et environ 120 HBW. Livré en barre de forge, coupée à la longueur de billette.",
+    "uses": [
+      "Pistons forgés",
+      "Inserts de culasse",
+      "Pièces d'usure à faible dilatation"
+    ]
+  },
+  "4045": {
+    "name": "Alliage de brasage au silicium",
+    "h1": "Barre et bobine en aluminium 4045 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 4045 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage de brasage au silicium : 120 MPa de résistance à la traction en O, livré en barre et bobine. Placage de tôle de brasage, fil d'apport aluminium-silicium. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 4045 est le placage de brasage : 9–11 % de silicium fondent près de 577 °C, soit environ 80 °C en dessous de l'âme 3003 sur laquelle il est laminé, si bien qu'un seul passage au four assure la liaison de tout un échangeur. Nous le fournissons en bobine plaquée pour tôle de brasage et en barre ou fil pour métal d'apport.",
+    "uses": [
+      "Placage de tôle de brasage",
+      "Fil d'apport aluminium-silicium",
+      "Bagues et préformes de brasage"
+    ]
+  },
+  "4343": {
+    "name": "Couche de placage pour brasage",
+    "h1": "Tôle, bobine et feuille en aluminium 4343 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 4343 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Couche de placage pour brasage : 115 MPa de résistance à la traction en O, livré en tôle, bobine et feuille. Radiateurs automobiles, refroidisseurs d'air de suralimentation. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 4343 est le placage de brasage à plus faible teneur en silicium, 6.8–8.2 % Si, employé lorsqu'on veut une couche de placage plus fine et plus facile à maîtriser que celle du 4045 : typiquement les radiateurs automobiles, les refroidisseurs d'air de suralimentation et les évaporateurs de climatisation. Il est plaqué par laminage sur une âme 3003 et brasé sous atmosphère contrôlée.",
+    "uses": [
+      "Radiateurs automobiles",
+      "Refroidisseurs d'air de suralimentation",
+      "Échangeurs de climatisation",
+      "Ensembles de plaques brasées"
+    ]
+  },
+  "5005": {
+    "name": "Alliage décoratif pour anodisation",
+    "h1": "Tôle, tube, bobine et profilé en aluminium 5005 H14 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 5005 H14 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage décoratif pour anodisation : 165 MPa de résistance à la traction en H14, livré en tôle, tube, bobine et profilé. Panneaux de mur-rideau anodisés, profilés et bandeaux décoratifs. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5005 égale le 3003 en résistance, 165 MPa en H14, mais s'anodise avec une finition plus brillante et plus blanche, car le magnésium y est équilibré par de faibles teneurs en fer et en silicium. C'est pourquoi les panneaux architecturaux, les façades d'instruments et les profilés décoratifs le prescrivent. Tôle, bobine, tube et profilé, anodisés en interne.",
+    "uses": [
+      "Panneaux de mur-rideau anodisés",
+      "Profilés et bandeaux décoratifs",
+      "Façades d'instruments"
+    ]
+  },
+  "5052": {
+    "name": "Aluminium marine d'usage général",
+    "h1": "Tôle, barre, tube, bobine et profilé en aluminium 5052 H32 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 5052 H32 — GB/T 3880 | Zorlang",
+    "metaDesc": "Aluminium marine d'usage général : 230 MPa de résistance à la traction en H32, livré en tôle, barre, tube, bobine et profilé. Réservoirs de carburant, accastillage marin. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5052 est l'alliage non trempant le plus résistant couramment disponible : 2.2–2.8% de magnésium donnent environ 215–275 MPa de résistance à la traction en H32, avec un excellent comportement en fatigue et face à la corrosion dans l'eau de mer. C'est la solution par défaut pour l'accastillage marin, les réservoirs de carburant, les appareils à pression et les panneaux de transport. Nous le laminons de 0.3 mm à 150 mm et pouvons l'anodiser ou le revêtir de PVC en interne.",
+    "uses": [
+      "Réservoirs de carburant",
+      "Accastillage marin",
+      "Appareils à pression",
+      "Intérieurs de métro et de voitures"
+    ],
+    "apps": [
+      {
+        "t": "Marine et offshore",
+        "d": "Coques, ponts, superstructures et accastillage soumis au brouillard salin et aux charges cycliques."
+      },
+      {
+        "t": "Réservoirs de carburant et hydrauliques",
+        "d": "Réservoirs de camions, d'autobus et de groupes électrogènes, où l'intégrité des soudures et la résistance à la corrosion sont critiques."
+      },
+      {
+        "t": "Enveloppes de tôlerie",
+        "d": "Armoires électriques, protecteurs de machines et panneaux architecturaux nécessitant rigidité et finition soignée."
+      }
+    ],
+    "compare": {
+      "3003": "Le 3003 est plus formable et moins cher ; le 5052 est environ 50 % plus résistant et bien meilleur en eau de mer. Le changement est généralement dicté par la résistance ou par l'exposition marine.",
+      "5083": "Le 5083 porte la teneur en magnésium à 4,5 % pour les structures marines soudées et les appareils à pression. Il exige un contrôle de l'état H116/H321 et coûte plus cher ; le 5052 couvre la plupart des travaux de tôlerie."
+    },
+    "qc": "Le magnésium et le chrome sont vérifiés par coulée. Des essais de traction et de pliage sont réalisés sur chaque lot, et des essais de brouillard salin ou de corrosion intergranulaire sont disponibles pour les commandes marines."
+  },
+  "5083": {
+    "name": "Alliage qualité marine pour tôles",
+    "h1": "Tôle, barre, tube et profilé en aluminium 5083 H116 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 5083 H116 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage qualité marine pour tôles : 305 MPa de résistance à la traction en H116, livré en tôle, barre, tube et profilé. Coques et ponts, réservoirs GNL et cryogéniques. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5083 est l'alliage prescrit pour les structures marines soudées : 4.0–4.9% de magnésium donnent 275–350 MPa de résistance à la traction et la meilleure résistance à l'eau de mer de toutes les nuances courantes. Aux états H116 ou H321, il résiste à l'attaque intergranulaire après soudage, ce qui explique que les sociétés de classification l'acceptent pour les coques, les ponts et les réservoirs. Nous fournissons des tôles de 3 mm à 200 mm avec contrôle par ultrasons sur demande.",
+    "uses": [
+      "Coques et ponts",
+      "Réservoirs GNL et cryogéniques",
+      "Caisses de matériel ferroviaire"
+    ],
+    "apps": [
+      {
+        "t": "Coques et ponts",
+        "d": "Bateaux de travail, yachts, navires de pêche et structures offshore construits selon les règles de classification."
+      },
+      {
+        "t": "Appareils à pression et réservoirs",
+        "d": "Réservoirs cryogéniques et chimiques où la ténacité à basse température et la résistance des soudures sont déterminantes."
+      },
+      {
+        "t": "Transport lourd",
+        "d": "Bennes basculantes, enveloppes de citernes et composants ferroviaires nécessitant de la résistance avec un faible poids."
+      }
+    ],
+    "compare": {
+      "5052": "Le 5052 est moins cher, plus facile à former et suffisant pour la plupart des pièces de tôlerie ; le 5083 s'impose dès que la structure est soudée et chargée, ou homologuée.",
+      "6061": "Le 6061 est trempant et usinable à tolérances serrées, mais plus faible dans les joints soudés et moins résistant à la corrosion en eau de mer. Utilisez le 6061 pour les pièces usinées, le 5083 pour les structures marines soudées."
+    },
+    "qc": "Chaque tôle est contrôlée par ultrasons pour les défauts internes sur demande, et le matériau H116 est testé selon ASTM G67 pour la corrosion intergranulaire. Les essais de traction sont prélevés perpendiculairement au sens de laminage."
+  },
+  "5182": {
+    "name": "Tôle pour couvercles et languettes de canettes",
+    "h1": "Tôle et bobine en aluminium 5182 H19 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Bobine en aluminium 5182 H19 — GB/T 3880 | Zorlang",
+    "metaDesc": "Tôle pour couvercles et languettes de canettes : 400 MPa de résistance à la traction en H19, livré en tôle et bobine. Couvercles et languettes de canettes de boisson, panneaux intérieurs automobiles. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5182 est l'alliage des couvercles et des languettes : 4–5 % de magnésium écrouis en H19 donnent 400 MPa de résistance à la traction et 365 MPa de limite d'élasticité, si bien qu'un couvercle de 0.22 mm tient la pression d'une canette gazeuse sans se déformer. On le retrouve aussi en panneau intérieur automobile, là où une grande formabilité est recherchée à résistance élevée.",
+    "uses": [
+      "Couvercles et languettes de canettes de boisson",
+      "Panneaux intérieurs automobiles",
+      "Opercules"
+    ]
+  },
+  "5754": {
+    "name": "Tôle de carrosserie automobile",
+    "h1": "Tôle, tube et bobine en aluminium 5754 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 5754 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Tôle de carrosserie automobile : 200 MPa de résistance à la traction en O, livré en tôle, tube et bobine. Panneaux intérieurs et châssis automobiles, réservoirs de stockage. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5754 est l'alliage de carrosserie automobile : en O, il s'allonge de 26 % pour seulement 200 MPa de résistance à la traction, si bien que les panneaux intérieurs de portes et les planchers profonds se forment sans déchirer, et l'état H111 le stabilise au stockage. Il se soude et s'anodise bien et constitue le choix habituel pour les pièces de châssis, les réservoirs et les structures soudées exposées au sel de voirie.",
+    "uses": [
+      "Panneaux intérieurs et châssis automobiles",
+      "Réservoirs de stockage",
+      "Structures soudées",
+      "Tôle de transport"
+    ]
+  },
+  "6061": {
+    "name": "Alliage structural d'usage général",
+    "h1": "Tôle, barre, tube et profilé en aluminium 6061 T6 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 6061 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage structural d'usage général : 310 MPa de résistance à la traction en T6, livré en tôle, barre, tube et profilé. Moules et outillage, châssis d'équipements d'automatisation. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 6061 est l'alliage trempant d'usage général : le magnésium et le silicium donnent 290–310 MPa de résistance à la traction en T6, avec une bonne usinabilité, une bonne soudabilité et une bonne résistance à la corrosion. Il s'usine proprement, prend bien l'anodisation et est disponible dans plus de dimensions que toute autre nuance, ce qui en fait la solution par défaut pour les montages, les outillages, les pièces usinées et les châssis structurels. Livré en tôle jusqu'à 500 mm, ainsi qu'en barre, tube et profilé filé.",
+    "uses": [
+      "Moules et outillage",
+      "Châssis d'équipements d'automatisation",
+      "Cadres de bicyclettes",
+      "Pièces structurelles usinées CNC"
+    ],
+    "apps": [
+      {
+        "t": "Pièces usinées et montages",
+        "d": "Plateaux de montage, moules, embases de robots et pièces CNC où la stabilité dimensionnelle est essentielle."
+      },
+      {
+        "t": "Châssis structurels",
+        "d": "Bâtis de machines, portiques, structures de remorques et plateformes boulonnés ou soudés à partir de tôle et de profilés."
+      },
+      {
+        "t": "Raccords de transport et marins",
+        "d": "Composants de camions, accastillage marin et raccords pour service sous pression en T6/T651."
+      }
+    ],
+    "compare": {
+      "6063": "Le 6063 se file en profilés complexes avec une meilleure finition anodisée, mais il est 30 à 40 % plus faible. Utilisez le 6063 pour les profilés architecturaux, le 6061 là où la pièce est usinée ou chargée.",
+      "7075": "Le 7075 est presque deux fois plus résistant, mais il n'est pas soudable et bien moins résistant à la corrosion. Ne prescrivez le 7075 que pour les pièces usinées de qualité aéronautique où la résistance est le facteur limitant."
+    },
+    "qc": "La mise en solution et le revenu sont enregistrés par charge de four, avec contrôle de dureté sur chaque lot et essais de traction par lot. Le contrôle par ultrasons des tôles épaisses et la certification AMS 4027 sont disponibles."
+  },
+  "6063": {
+    "name": "Alliage de filage architectural",
+    "h1": "Tôle, barre, tube et profilé en aluminium 6063 T5 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Profilé en aluminium 6063 T5 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage de filage architectural : 175 MPa de résistance à la traction en T5, livré en tôle, barre, tube et profilé. Profilés de fenêtres et de murs-rideaux, mains courantes et garde-corps. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 6063 est l'alliage de filage par excellence : moins résistant que le 6061 mais avec une bien meilleure finition de surface après anodisation, ce qui explique que les systèmes de fenêtres, les murs-rideaux, les dissipateurs thermiques et les protecteurs de machines en soient tous faits. Nous filons de 0.3 kg/m à 30 kg/m, tenons la tolérance selon EN 755-9 et finissons en interne par anodisation ou thermolaquage.",
+    "uses": [
+      "Profilés de fenêtres et de murs-rideaux",
+      "Mains courantes et garde-corps",
+      "Dissipateurs thermiques",
+      "Profilés décoratifs"
+    ],
+    "apps": [
+      {
+        "t": "Systèmes architecturaux",
+        "d": "Profilés de fenêtres et de portes, montants de murs-rideaux et profilés de bardage, anodisés ou thermolaqués."
+      },
+      {
+        "t": "Dissipateurs thermiques et électronique",
+        "d": "Profilés à ailettes pour luminaires LED, onduleurs et alimentations."
+      },
+      {
+        "t": "Protections et bâtis de machines",
+        "d": "Profilés à rainure en T, carters et bâtis de convoyeurs assemblés à partir de profilés standard."
+      }
+    ],
+    "compare": {
+      "6061": "Le 6061 est 30 à 40 % plus résistant et s'usine mieux, mais il se file en formes plus simples et s'anodise moins uniformément. Pour une pièce usinée chargée, choisissez le 6061 ; pour un profilé visible, le 6063.",
+      "6005A": "Le 6005A est un peu plus résistant que le 6063 et courant dans les murs-rideaux européens. Là où EN 755-2 exige du 6005A, nous pouvons le proposer ; le 6063 reste la voie plus rapide et moins chère pour les profilés standard."
+    },
+    "qc": "Les dimensions des profilés sont contrôlées par rapport au plan avant finition, et l'épaisseur du film anodique est mesurée sur chaque montage. L'adhérence du revêtement est testée par impact et par pliage, la couleur étant mesurée par rapport à l'échantillon approuvé."
+  },
+  "6082": {
+    "name": "Alliage de filage à haute résistance",
+    "h1": "Tôle, barre, tube et profilé en aluminium 6082 T6 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 6082 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage de filage à haute résistance : 310 MPa de résistance à la traction en T6, livré en tôle, barre, tube et profilé. Ponts et poutres de structure, pièces structurelles automobiles. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 6082 est le plus résistant des alliages de filage 6xxx standard : 310 MPa de résistance à la traction et 260 MPa de limite d'élasticité en T6, soit environ 10 % de plus que le 6061, le manganèse contrôlant la structure de grain pendant le filage. Il s'usine proprement et accepte les soudures structurales, si bien que les poutres de pont, les pièces structurelles automobiles et les rotules forgées en sont faites. Tôle, barre, tube et profilé.",
+    "uses": [
+      "Ponts et poutres de structure",
+      "Pièces structurelles automobiles",
+      "Rotules et pièces forgées"
+    ]
+  },
+  "6101": {
+    "name": "Alliage pour conducteurs électriques",
+    "h1": "Tube et profilé en aluminium 6101 T6 — GB/T 6892 · ASTM B221",
+    "metaTitle": "Profilé en aluminium 6101 T6 — GB/T 6892 | Zorlang",
+    "metaDesc": "Alliage pour conducteurs électriques : 200 MPa de résistance à la traction en T6, livré en tube et profilé. Canalisations de barres omnibus, barres omnibus d'appareillage. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 6101 équilibre conductivité et résistance : environ 55 % IACS avec 200 MPa de résistance à la traction en T6, si bien qu'une barre omnibus transporte le courant d'une section de cuivre deux fois plus grande pour un tiers du poids. C'est la référence pour les canalisations de barres omnibus, les barres d'appareillage et les conducteurs de recharge de véhicules électriques. Tube et profilé filés, coupés et percés à longueur.",
+    "uses": [
+      "Canalisations de barres omnibus",
+      "Barres omnibus d'appareillage",
+      "Conducteurs de recharge de véhicules électriques",
+      "Raccords de poste"
+    ]
+  },
+  "7005": {
+    "name": "Alliage pour cadres de bicyclettes",
+    "h1": "Tôle, barre, tube et profilé en aluminium 7005 T6 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 7005 T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage pour cadres de bicyclettes : 350 MPa de résistance à la traction en T6, livré en tôle, barre, tube et profilé. Cadres de bicyclettes, raquettes et bâtons de ski. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 7005 est le 7xxx soudable : le zinc et le magnésium donnent 350 MPa de résistance à la traction et 290 MPa de limite d'élasticité en T6, soit environ 13 % de plus que le 6061, tandis que le zirconium empêche la zone affectée thermiquement de s'adoucir. Il revient par vieillissement naturel vers sa pleine résistance après soudage, ce qui en fait la référence pour les cadres de bicyclettes.",
+    "uses": [
+      "Cadres de bicyclettes",
+      "Raquettes et bâtons de ski",
+      "Pièces porteuses soudées"
+    ]
+  },
+  "8011": {
+    "name": "Alliage de feuille pour bouchage et pharmacie",
+    "h1": "Tôle, bobine et feuille en aluminium 8011 H18 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Feuille en aluminium 8011 H18 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage de feuille pour bouchage et pharmacie : 150 MPa de résistance à la traction en H18, livré en tôle, bobine et feuille. Bouchons et opercules, feuille blister pharmaceutique. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 8011 est la feuille d'emballage : environ 0.5–1.0 % de silicium et de fer donnent à la feuille H18 150 MPa de résistance à la traction avec la rigidité dont un bouchon a besoin pour se sertir et tenir, ainsi que la faible teneur en métaux lourds qu'exige la feuille blister pharmaceutique. Laminée de 0.006 à 0.20 mm, brillante ou lubrifiée.",
+    "uses": [
+      "Bouchons et opercules",
+      "Feuille blister pharmaceutique",
+      "Joints d'étanchéité",
+      "Emballages complexes"
+    ]
+  },
+  "5A06": {
+    "name": "Alliage à haute teneur en magnésium résistant à la corrosion",
+    "h1": "Tôle, barre, tube et profilé en aluminium 5A06 O — GB/T 3880 · ASTM B209",
+    "metaTitle": "Tôle en aluminium 5A06 O — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage à haute teneur en magnésium résistant à la corrosion : 320 MPa de résistance à la traction en O, livré en tôle, barre, tube et profilé. Superstructures de navires, structures sous pression soudées. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 5A06 est la nuance chinoise à haute teneur en magnésium : 5.8–6.8 % de Mg donnent 320 MPa de résistance à la traction et 160 MPa de limite d'élasticité à l'état recuit, soit la plus forte teneur en magnésium que nous laminons et la meilleure résistance à l'eau de mer de la famille 5xxx. Il est soudé dans les superstructures de navires, les coques résistant à la pression et les caisses de matériel ferroviaire.",
+    "uses": [
+      "Superstructures de navires",
+      "Structures sous pression soudées",
+      "Caisses de matériel ferroviaire",
+      "Platelage marin"
+    ]
+  },
+  "6005A": {
+    "name": "Alliage de filage pour matériel ferroviaire",
+    "h1": "Tôle, barre, tube et profilé en aluminium 6005A T6 — GB/T 3880 · ASTM B209",
+    "metaTitle": "Profilé en aluminium 6005A T6 — GB/T 3880 | Zorlang",
+    "metaDesc": "Alliage de filage pour matériel ferroviaire : 290 MPa de résistance à la traction en T6, livré en tôle, barre, tube et profilé. Profilés de caisses pour rames à grande vitesse et métro, poutres de châssis et de plancher. Certificat de coulée et inspection SGS disponibles.",
+    "intro": "Le 6005A est l'alliage des profilés ferroviaires : 290 MPa de résistance à la traction et 240 MPa de limite d'élasticité en T6, le manganèse et le chrome maintenant la résistance dans la zone soudée afin qu'une caisse soudée par friction-malaxage conserve ses caractéristiques de section. Filé selon votre plan jusqu'à une section de 400 mm, anodisé ou peint.",
+    "uses": [
+      "Profilés de caisses pour grande vitesse et métro",
+      "Poutres de châssis et de plancher",
+      "Cadres modulaires"
+    ]
+  }
+}

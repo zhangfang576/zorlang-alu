@@ -1,0 +1,69 @@
+{
+  "brand": "ZORLANG",
+  "brandSuffix": "ALUMINUM",
+  "legalName": "Zorlang Aluminum Co., Ltd.",
+  "siteUrl": "https://www.zorlang.com",
+  "email": "sales@zorlang-aluminum.com",
+  "phone": "+86 158 3886 3793",
+  "phoneDigits": "+8615838863793",
+  "whatsapp": "8615838863793",
+  "addressLine": "Yuetang Industrial Zone, Yanshi District, Luoyang, Henan, China",
+  "founded": "2006",
+  "defaultLocale": "en",
+  "locales": [
+    {
+      "code": "en",
+      "name": "English",
+      "dir": "ltr",
+      "path": "/"
+    },
+    {
+      "code": "zh-CN",
+      "name": "简体中文",
+      "dir": "ltr",
+      "path": "/zh-CN/"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "dir": "ltr",
+      "path": "/es/"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "dir": "ltr",
+      "path": "/fr/"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "dir": "ltr",
+      "path": "/de/"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "dir": "rtl",
+      "path": "/ar/"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "dir": "ltr",
+      "path": "/vi/"
+    }
+  ],
+  "tracking": {
+    "ga4": "G-XXXXXXXXXX",
+    "ads": "AW-XXXXXXXXXX",
+    "adsFormLabel": "REPLACE_FORM_LABEL",
+    "adsWhatsappLabel": "REPLACE_WHATSAPP_LABEL",
+    "adsEmailLabel": "REPLACE_EMAIL_LABEL",
+    "adsPhoneLabel": "REPLACE_PHONE_LABEL"
+  },
+  "form": {
+    "endpoint": "mailto:"
+  },
+  "newsPerPage": 10
+}

@@ -1,0 +1,254 @@
+{
+  "industries": [
+    {
+      "id": "construction",
+      "img": "app-01-construction.jpg",
+      "t": "Xây dựng và vách dựng",
+      "d": "Vách kính, hệ thống cửa sổ, mái và lớp ốp. 6063 cho thanh định hình anod hoá, 3003 và 5005 cho tấm tiếp xúc thời tiết, 6082 cho vị trí liên kết chịu tải.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "5005",
+        "6063",
+        "6082"
+      ]
+    },
+    {
+      "id": "transport",
+      "img": "app-02-automotive.jpg",
+      "t": "Giao thông và ô tô",
+      "d": "Thùng xe tải, tấm sàn rơ-moóc, bồn nhiên liệu và vỏ pin xe điện. 5052 cho tấm dập tạo hình và bồn chứa, 6061 cho chi tiết kết cấu gia công, 5083 cho thùng hàn hạng nặng.",
+      "alloys": [
+        "2017",
+        "3003",
+        "4032",
+        "4343",
+        "5052",
+        "5083",
+        "5182",
+        "5754",
+        "5A06",
+        "6005A",
+        "6061",
+        "6082",
+        "7005"
+      ]
+    },
+    {
+      "id": "marine",
+      "img": "app-04-marine.jpg",
+      "t": "Hàng hải và công trình ngoài khơi",
+      "d": "Vỏ tàu, boong, thượng tầng và phụ kiện. 5083 ở trạng thái H116 hoặc H321 cho kết cấu hàn, 5052 cho chi tiết kim loại tấm và nội thất.",
+      "alloys": [
+        "5052",
+        "5083",
+        "5A06"
+      ]
+    },
+    {
+      "id": "energy",
+      "img": "app-05-energy.jpg",
+      "t": "Năng lượng mới và điện",
+      "d": "Giá đỡ pin mặt trời, lá pin, thanh dẫn điện và tản nhiệt. 1050 cho độ dẫn điện, 3003 cho ray giá đỡ, 6063 cho khung đùn và tản nhiệt.",
+      "alloys": [
+        "1050",
+        "3003",
+        "5083",
+        "6063",
+        "6101"
+      ]
+    },
+    {
+      "id": "packaging",
+      "img": "app-06-packaging.jpg",
+      "t": "Bao bì và tiếp xúc thực phẩm",
+      "d": "Khay lá nhôm, nắp chai, nắp hộp và bao bì vô trùng. 1100 và 1050 ở trạng thái O, bề mặt cấp thực phẩm, kiểm soát độ dày chặt chẽ.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3104",
+        "5182",
+        "8011"
+      ]
+    },
+    {
+      "id": "industrial",
+      "img": "app-08-industrial.jpg",
+      "t": "Thiết bị công nghiệp và điện tử",
+      "d": "Khung máy, vỏ bảo vệ, kết cấu băng tải và tản nhiệt. 6063 cho thanh định hình rãnh T và có cánh tản nhiệt, 6061 cho tấm gia công, 1050 cho tấm che chắn.",
+      "alloys": [
+        "1050",
+        "1100",
+        "2011",
+        "3003",
+        "4045",
+        "4343",
+        "5052",
+        "5754",
+        "6061",
+        "6063",
+        "6082",
+        "6101"
+      ]
+    }
+  ],
+  "equipment": [
+    [
+      "Nấu chảy và đúc",
+      "2 dây chuyền, lò 12 t, đúc DC",
+      "2"
+    ],
+    [
+      "Cán nóng",
+      "Máy cán đảo chiều 1.450 mm",
+      "1"
+    ],
+    [
+      "Cán nguội",
+      "Máy cán 4 trục 1.650 mm, 0,2–6 mm",
+      "2"
+    ],
+    [
+      "Máy đùn",
+      "600–3.600 t",
+      "6"
+    ],
+    [
+      "Anod hoá",
+      "10–25 µm, bể 6 m",
+      "2"
+    ],
+    [
+      "Cắt theo chiều dài và xẻ băng",
+      "0,2–6 mm, 100–2.650 mm",
+      "3"
+    ]
+  ],
+  "processSteps": [
+    [
+      "Nấu chảy và đúc",
+      "Thành phần hoá học được kiểm tra bằng quang phổ, khử khí trong dòng và biến tính hạt trước khi đúc thỏi."
+    ],
+    [
+      "Cán nóng và cán nguội",
+      "Cán phá trên máy cán đảo chiều, sau đó cán nguội với độ dày và độ phẳng được giám sát trực tuyến."
+    ],
+    [
+      "Xử lý nhiệt",
+      "Uỷ, hoá dung dịch và hoá già được ghi nhận theo mẻ lò và theo lô."
+    ],
+    [
+      "Cắt và xẻ băng",
+      "Cắt theo chiều dài, xẻ băng và cưa theo bản vẽ, có phê duyệt kích thước chi tiết đầu tiên."
+    ],
+    [
+      "Kiểm tra",
+      "Kích thước, bề mặt, tính chất cơ học và thành phần hoá học được đối chiếu với chứng chỉ thử nghiệm lô."
+    ],
+    [
+      "Đóng gói",
+      "Màng chắn ẩm, bảo vệ góc và đai thép, chụp ảnh từng pallet."
+    ]
+  ],
+  "tests": [
+    [
+      "Thành phần",
+      "Quang phổ phát xạ trên mỗi mẻ nấu, báo cáo đến 0,01%."
+    ],
+    [
+      "Tính chất cơ học",
+      "Độ bền kéo, độ bền chảy và độ giãn dài theo ASTM E8 / EN ISO 6892."
+    ],
+    [
+      "Ăn mòn",
+      "Thử nghiệm phun muối và ăn mòn liên tinh thể cho các mác dùng trong môi trường biển và mác có phủ."
+    ],
+    [
+      "Kích thước",
+      "Độ dày, chiều rộng, độ phẳng và độ vuông góc được đo theo dung sai đặt hàng."
+    ]
+  ],
+  "standardsRows": [
+    [
+      "ISO 9001",
+      "Hệ thống quản lý chất lượng",
+      "Toàn công ty"
+    ],
+    [
+      "ASTM B209",
+      "Nhôm tấm, lá và cuộn",
+      "Theo từng lô"
+    ],
+    [
+      "ASTM B221 / B210",
+      "Thanh và ống đùn",
+      "Theo từng lô"
+    ],
+    [
+      "EN 485 / EN 755",
+      "Nhôm tấm, dải và thanh định hình",
+      "Theo từng lô"
+    ],
+    [
+      "SGS / BV",
+      "Giám định bên thứ ba",
+      "Theo yêu cầu"
+    ]
+  ],
+  "timeline": [
+    [
+      "2006",
+      "Thành lập với vai trò xưởng đúc và cán tại Lạc Dương."
+    ],
+    [
+      "2012",
+      "Đưa dây chuyền cán nguội đầu tiên vào vận hành; bắt đầu xuất khẩu sang Đông Nam Á."
+    ],
+    [
+      "2018",
+      "Bổ sung đùn và anod hoá; xuất khẩu đến 30 quốc gia."
+    ],
+    [
+      "2022",
+      "Máy cán nguội thứ hai và dây chuyền đóng gói tự động."
+    ],
+    [
+      "2025",
+      "Công suất đạt 50.000 t mỗi năm cho cả cán và đùn."
+    ]
+  ],
+  "plantTable": [
+    [
+      "Địa điểm",
+      "Lạc Dương, Hà Nam, Trung Quốc"
+    ],
+    [
+      "Diện tích nhà máy",
+      "38.000 m²"
+    ],
+    [
+      "Công suất năm",
+      "50.000 t"
+    ],
+    [
+      "Nhân sự",
+      "210"
+    ],
+    [
+      "Dây chuyền chính",
+      "Cán, đùn, anod hoá, đóng gói"
+    ],
+    [
+      "Thị trường xuất khẩu",
+      "Châu Âu, Trung Đông, Đông Nam Á, Châu Mỹ"
+    ]
+  ],
+  "packingSteps": [
+    "Màng chắn ẩm và giấy VCI cho toàn bộ nhôm tấm và nhôm cuộn.",
+    "Tấm bảo vệ góc và đai vòng cho mọi pallet và cuộn.",
+    "Đai thép ở các khoảng cách cố định, được niêm phong và kiểm tra lực căng.",
+    "Mỗi pallet được chụp ảnh và lưu hình ảnh kèm phiếu đóng gói."
+  ]
+}

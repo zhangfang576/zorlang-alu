@@ -1,0 +1,254 @@
+{
+  "industries": [
+    {
+      "id": "construction",
+      "img": "app-01-construction.jpg",
+      "t": "Construcción y fachada",
+      "d": "Muro cortina, sistemas de ventana, cubiertas y revestimientos. 6063 para perfiles anodizados, 3003 y 5005 para chapa expuesta a la intemperie, 6082 donde la unión soporta carga.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "5005",
+        "6063",
+        "6082"
+      ]
+    },
+    {
+      "id": "transport",
+      "img": "app-02-automotive.jpg",
+      "t": "Transporte y automoción",
+      "d": "Carrocerías de camión, paneles de remolque, depósitos de combustible y carcasas de batería para vehículos eléctricos. 5052 para paneles conformados y depósitos, 6061 para piezas estructurales mecanizadas, 5083 para carrocerías soldadas pesadas.",
+      "alloys": [
+        "2017",
+        "3003",
+        "4032",
+        "4343",
+        "5052",
+        "5083",
+        "5182",
+        "5754",
+        "5A06",
+        "6005A",
+        "6061",
+        "6082",
+        "7005"
+      ]
+    },
+    {
+      "id": "marine",
+      "img": "app-04-marine.jpg",
+      "t": "Marino y offshore",
+      "d": "Cascos, cubiertas, superestructuras y accesorios. 5083 en H116 o H321 para estructura soldada, 5052 para piezas de chapa e interiores.",
+      "alloys": [
+        "5052",
+        "5083",
+        "5A06"
+      ]
+    },
+    {
+      "id": "energy",
+      "img": "app-05-energy.jpg",
+      "t": "Nueva energía y eléctrico",
+      "d": "Estructuras de montaje solar, lámina para baterías, barras colectoras y disipadores. 1050 por conductividad, 3003 para raíles de montaje, 6063 para marcos extruidos y disipadores.",
+      "alloys": [
+        "1050",
+        "3003",
+        "5083",
+        "6063",
+        "6101"
+      ]
+    },
+    {
+      "id": "packaging",
+      "img": "app-06-packaging.jpg",
+      "t": "Envase y contacto alimentario",
+      "d": "Bandejas de lámina, cápsulas, tapas y envase aséptico. 1100 y 1050 en temple O, superficie apta para uso alimentario y un control de espesor muy ajustado.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3104",
+        "5182",
+        "8011"
+      ]
+    },
+    {
+      "id": "industrial",
+      "img": "app-08-industrial.jpg",
+      "t": "Equipos industriales y electrónica",
+      "d": "Bancadas de máquina, protecciones, estructuras de transportador y disipadores. 6063 para perfil ranurado en T y con aletas, 6061 para chapas mecanizadas, 1050 para apantallamiento.",
+      "alloys": [
+        "1050",
+        "1100",
+        "2011",
+        "3003",
+        "4045",
+        "4343",
+        "5052",
+        "5754",
+        "6061",
+        "6063",
+        "6082",
+        "6101"
+      ]
+    }
+  ],
+  "equipment": [
+    [
+      "Fusión y colada",
+      "2 líneas, hornos de 12 t, colada semicontinua",
+      "2"
+    ],
+    [
+      "Laminación en caliente",
+      "Laminador reversible de 1.450 mm",
+      "1"
+    ],
+    [
+      "Laminación en frío",
+      "1.650 mm, 4 cilindros, 0,2–6 mm",
+      "2"
+    ],
+    [
+      "Prensas de extrusión",
+      "600–3.600 t",
+      "6"
+    ],
+    [
+      "Anodizado",
+      "10–25 µm, cubas de 6 m",
+      "2"
+    ],
+    [
+      "Corte a medida y longitudinal",
+      "0,2–6 mm, 100–2.650 mm",
+      "3"
+    ]
+  ],
+  "processSteps": [
+    [
+      "Fusión y colada",
+      "Composición verificada por espectrometría, desgasificación en línea y afinado de grano antes de colar el lingote."
+    ],
+    [
+      "Laminación en caliente y en frío",
+      "Desbaste en el laminador reversible y después laminación en frío con control de espesor y planitud en línea."
+    ],
+    [
+      "Tratamiento térmico",
+      "Recocido, solubilización y envejecimiento registrados por carga de horno y lote."
+    ],
+    [
+      "Corte y corte longitudinal",
+      "Corte a medida, corte longitudinal y aserrado según plano, con aprobación dimensional de la primera pieza."
+    ],
+    [
+      "Inspección",
+      "Dimensiones, superficie, propiedades mecánicas y composición comprobadas contra el certificado de colada."
+    ],
+    [
+      "Embalaje",
+      "Barrera antihumedad, protección de esquinas y flejes de acero, fotografiado palé a palé."
+    ]
+  ],
+  "tests": [
+    [
+      "Composición",
+      "Espectrometría de emisión óptica en cada colada, con resultados a 0,01 %."
+    ],
+    [
+      "Propiedades mecánicas",
+      "Tracción, límite elástico y alargamiento según ASTM E8 / EN ISO 6892."
+    ],
+    [
+      "Corrosión",
+      "Niebla salina y corrosión intergranular en grados marinos y con recubrimiento."
+    ],
+    [
+      "Dimensiones",
+      "Espesor, ancho, planitud y escuadra medidos según la tolerancia de pedido."
+    ]
+  ],
+  "standardsRows": [
+    [
+      "ISO 9001",
+      "Sistema de gestión de la calidad",
+      "Toda la empresa"
+    ],
+    [
+      "ASTM B209",
+      "Chapa, hoja y bobina",
+      "Por lote"
+    ],
+    [
+      "ASTM B221 / B210",
+      "Barra y tubo extruidos",
+      "Por lote"
+    ],
+    [
+      "EN 485 / EN 755",
+      "Chapa, banda y perfil",
+      "Por lote"
+    ],
+    [
+      "SGS / BV",
+      "Inspección de terceros",
+      "A petición"
+    ]
+  ],
+  "timeline": [
+    [
+      "2006",
+      "Fundación como taller de colada y laminación en Luoyang."
+    ],
+    [
+      "2012",
+      "Entra en servicio la primera línea de laminación en frío; comienzan las exportaciones al sudeste asiático."
+    ],
+    [
+      "2018",
+      "Se añaden extrusión y anodizado; las exportaciones alcanzan 30 países."
+    ],
+    [
+      "2022",
+      "Segundo laminador en frío y línea de embalaje automatizada."
+    ],
+    [
+      "2025",
+      "La capacidad alcanza las 50.000 t anuales entre laminación y extrusión."
+    ]
+  ],
+  "plantTable": [
+    [
+      "Planta",
+      "Luoyang, Henan, China"
+    ],
+    [
+      "Superficie",
+      "38.000 m²"
+    ],
+    [
+      "Capacidad anual",
+      "50.000 t"
+    ],
+    [
+      "Plantilla",
+      "210"
+    ],
+    [
+      "Líneas principales",
+      "Laminación, extrusión, anodizado, embalaje"
+    ],
+    [
+      "Mercados de exportación",
+      "Europa, Oriente Medio, Sudeste Asiático, América"
+    ]
+  ],
+  "packingSteps": [
+    "Film de barrera antihumedad y papel VCI en toda la chapa y la bobina.",
+    "Cartones de esquina y anillos de borde en cada palé y cada bobina.",
+    "Flejes de acero a intervalos fijos, precintados y con tensión verificada.",
+    "Cada palé se fotografía y la imagen se archiva junto a la lista de embalaje."
+  ]
+}

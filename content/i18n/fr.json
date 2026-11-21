@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "title": "Zorlang Aluminum",
+    "desc": "Aluminium en plaque, bobine, feuille, barre, tube et profilé pour l'export."
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "applications": "Applications",
+    "capabilities": "Capacités",
+    "quality": "Qualité",
+    "news": "Actualités",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "cta": {
+    "quote": "Demander un devis",
+    "viewAlloys": "Voir les alliages",
+    "viewAll": "Voir tout",
+    "readMore": "En savoir plus",
+    "downloadPdf": "Télécharger la fiche technique (PDF)",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "call": "Appeler",
+    "send": "Envoyer la demande",
+    "backToNews": "Toutes les actualités"
+  },
+  "common": {
+    "alloy": "Alliage",
+    "temper": "État métallurgique",
+    "standard": "Norme",
+    "thickness": "Épaisseur",
+    "width": "Largeur",
+    "length": "Longueur",
+    "surface": "Surface",
+    "density": "Masse volumique",
+    "melting": "Plage de fusion",
+    "element": "Élément",
+    "composition": "Composition (% en masse)",
+    "property": "Propriété",
+    "value": "Valeur",
+    "minRead": "min de lecture",
+    "published": "Publié",
+    "updated": "Mis à jour",
+    "author": "Auteur",
+    "sources": "Sources",
+    "related": "Associés",
+    "category": "Catégorie",
+    "allCategories": "Toutes les catégories",
+    "specs": "Spécifications",
+    "inquiry": "Demande",
+    "formNote": "Nous répondons sous un jour ouvré avec le prix, le délai de livraison et le certificat de coulée.",
+    "breadcrumb": "Fil d'Ariane",
+    "series": "Série"
+  },
+  "home": {
+    "eyebrow": "Direct usine · Export depuis 2006",
+    "h1": "Aluminium en plaque, bobine, feuille, barre, tube et profilé — directement de l'usine",
+    "sub": "Vingt-trois alliages, six formes de produits, certificats de coulée et inspection par tierce partie sur chaque expédition. Expéditions vers plus de 40 pays depuis Luoyang, Henan.",
+    "ctaSecondary": "Parcourir les alliages",
+    "trust": [
+      "Système qualité ISO 9001",
+      "Conforme EN / ASTM",
+      "Inspection SGS et BV",
+      "Capacité annuelle de 50 000 t"
+    ],
+    "formsTitle": "Six formes de produits",
+    "formsSub": "Chaque forme est stockée dans les alliages les plus demandés par les acheteurs, avec découpe, refendage et anodisation en interne.",
+    "alloysTitle": "Alliages en production",
+    "alloysSub": "Une page par alliage : chimie complète, propriétés mécaniques, tolérances et formes dans lesquelles nous le laminons ou le filons.",
+    "appsTitle": "Où va le métal",
+    "appsSub": "Six industries, chacune avec sa propre logique de nuance et d'état métallurgique.",
+    "capTitle": "Une capacité sur laquelle planifier",
+    "capSub": "Fusion, laminage, filage, anodisation et emballage sous un même toit — les délais ne dépendent donc d'aucun tiers.",
+    "newsTitle": "Notes de marché et guides techniques",
+    "newsSub": "Prix, normes et notes d'application, rédigés par ceux qui laminent le métal.",
+    "ctaTitle": "Envoyez le cahier des charges, recevez un prix en 24 heures",
+    "ctaSub": "Indiquez l'alliage, l'état métallurgique, les dimensions et la quantité. Un ingénieur commercial vous répond avec le prix, le délai de livraison et le certificat de coulée du lot.",
+    "metaTitle": "Plaque, bobine, feuille, barre, tube et profilé aluminium — usine | Zorlang",
+    "statCapacity": "50 000 t",
+    "statsLabels": [
+      "capacité annuelle",
+      "alliages",
+      "formes de produit",
+      "pays d’exportation"
+    ],
+    "bullets": [
+      "Certificat de coulée par coulée et rapport dimensionnel sur demande.",
+      "Inspection SGS ou BV avant chargement.",
+      "Coupe à longueur, refendage, sciage et anodisation en interne.",
+      "Emballage export photographié par palette."
+    ]
+  },
+  "products": {
+    "h1": "Produits aluminium par forme et par alliage",
+    "sub": "Six formes, 23 alliages. Chaque fiche contient composition, caractéristiques mécaniques, tolérances et fiche technique à télécharger.",
+    "tableTitle": "Vue d'ensemble des alliages",
+    "tableSub": "Valeurs typiques. Confirmez l'état métallurgique et la tolérance exacts de votre commande sur la page de l'alliage.",
+    "formLabel": "Formes disponibles",
+    "sizesLabel": "Dimensions courantes",
+    "viewAlloy": "Page de l'alliage"
+  },
+  "alloyPage": {
+    "specTitle": "Spécifications",
+    "specSub": "Valeurs selon le certificat de coulée ; tolérances conformes à la norme indiquée sur cette page, sauf accord contraire.",
+    "chemTitle": "Composition chimique",
+    "chemSub": "Limites typiques selon ASTM / EN pour les alliages que nous laminons et filons.",
+    "mechTitle": "Propriétés mécaniques",
+    "mechSub": "Valeurs typiques à température ambiante pour l'état métallurgique indiqué.",
+    "appsTitle": "Domaines d'utilisation",
+    "compareTitle": "Comparaison",
+    "compareSub": "Les deux alliages que les acheteurs comparent le plus souvent à celui-ci.",
+    "processTitle": "Process et contrôle qualité",
+    "packingTitle": "Emballage",
+    "certTitle": "Certification et rapports",
+    "certBody": "Certificat de coulée par coulée, rapport de contrôle dimensionnel et inspection par tierce partie SGS ou BV sur demande. Les certificats accompagnent les documents d'expédition.",
+    "inquiryTitle": "Demander un devis pour cet alliage",
+    "inquirySub": "L'alliage et l'épaisseur sont préremplis depuis cette page — modifiez-les si vous avez besoin d'autre chose.",
+    "relatedTitle": "Tous les alliages",
+    "downloadNote": "PDF, 1 page, généré à partir des données de cette page.",
+    "usesTitle": "Applications principales",
+    "usesSub": "Usages courants en production de série, selon notre fiche d'alliage.",
+    "appImgCaption": "Photo d'application",
+    "compareHead": [
+      "Propriété",
+      "Cet alliage",
+      "Alternative"
+    ],
+    "qcGeneric": "Les caractéristiques typiques sont vérifiées coulée par coulée : composition par spectrométrie à chaque fusion, traction et limite d'élasticité sur chaque coulée, dureté et contrôle dimensionnel avant emballage. Certificat matière, rapport dimensionnel et inspection tierce (SGS ou BV) sont émis sur le numéro de coulée.",
+    "otherTempers": "Autres états sur demande",
+    "meltingNote": "La plage de fusion est l'intervalle typique solidus–liquidus de la nuance.",
+    "prevImg": "Image précédente",
+    "nextImg": "Image suivante"
+  },
+  "applications": {
+    "h1": "Applications de l'aluminium par industrie",
+    "sub": "Six industries que nous approvisionnons, avec les alliages et les états métallurgiques qui fonctionnent réellement dans chacune.",
+    "alloysLabel": "Alliages disponibles"
+  },
+  "capabilities": {
+    "h1": "Capacités",
+    "sub": "Fusion, coulée, laminage, filage, finition et emballage — 50 000 tonnes par an sur un seul site à Luoyang.",
+    "equipTitle": "Équipements",
+    "equipSub": "Les lignes qui déterminent ce que nous pouvons stocker, laminer et finir.",
+    "processTitle": "Du lingot au conteneur",
+    "processSub": "Six étapes contrôlées, chacune enregistrée par lot.",
+    "capacityTitle": "Capacité en bref"
+  },
+  "quality": {
+    "h1": "Qualité et essais",
+    "sub": "Chimie, propriétés mécaniques, corrosion et dimensions sont contrôlées en interne ; une inspection par tierce partie est disponible avant chargement.",
+    "testTitle": "Ce que nous testons",
+    "testSub": "Quatre contrôles sur chaque lot, plus des essais spécifiques à l'application sur demande.",
+    "certTitle": "Normes et certificats",
+    "certSub": "Les certificats sont établis par numéro de coulée et accompagnent les documents d'expédition.",
+    "packTitle": "Emballage et chargement",
+    "packSub": "Emballage export conçu pour le transport maritime, photographié palette par palette avant chargement."
+  },
+  "news": {
+    "h1": "Actualités et notes techniques",
+    "sub": "Prix du marché, guides d'achat, évolutions des normes et notes d'application.",
+    "latest": "Dernières",
+    "categories": {
+      "market": "Marché",
+      "guide": "Guide",
+      "standard": "Norme",
+      "industry": "Industrie"
+    },
+    "catDesc": {
+      "market": "Évolution du LME, primes et ce que cela signifie pour votre bon de commande.",
+      "guide": "Comment choisir alliage, état métallurgique et tolérance sans sur-spécifier.",
+      "standard": "Modifications et clarifications des normes ASTM, EN et GB.",
+      "industry": "Là où l'aluminium gagne et perd du terrain sur chaque marché final."
+    },
+    "empty": "Aucun article dans cette catégorie pour le moment.",
+    "rss": "Flux RSS",
+    "sources": "Sources de données",
+    "authorRole": "Service technico-commercial, Zorlang Aluminum"
+  },
+  "about": {
+    "h1": "À propos de Zorlang Aluminum",
+    "sub": "Une usine de laminage et de filage à Luoyang, Henan, qui approvisionne exportateurs, transformateurs et industriels depuis 2006.",
+    "timelineTitle": "Jalons",
+    "capTitle": "Le site en bref"
+  },
+  "contact": {
+    "h1": "Contact",
+    "sub": "Indiquez l'alliage, l'état métallurgique, les dimensions et la quantité. Un ingénieur commercial répond sous un jour ouvré.",
+    "formTitle": "Envoyer une demande",
+    "detailsTitle": "Contact direct",
+    "hours": "Lun–Sam 08:30–18:00 (GMT+8)",
+    "address": "Adresse",
+    "note": "Nous ne partageons pas vos coordonnées. Les questions techniques sont traitées par l'usine, pas par un centre d'appels.",
+    "hoursLabel": "Horaires"
+  },
+  "form": {
+    "name": "Nom",
+    "company": "Société",
+    "email": "E-mail",
+    "alloy": "Alliage",
+    "thickness": "Épaisseur",
+    "quantity": "Quantité",
+    "message": "Cahier des charges",
+    "submit": "Envoyer la demande",
+    "required": "Obligatoire",
+    "success": "Merci — votre demande est prête à être envoyée. Si votre client de messagerie ne s'est pas ouvert, écrivez-nous directement.",
+    "privacy": "En envoyant, vous acceptez d'être contacté au sujet de cette demande."
+  },
+  "footer": {
+    "about": "Aluminium en plaque, bobine, feuille, barre, tube et profilé, laminé et exporté depuis Luoyang, Henan, Chine.",
+    "products": "Produits",
+    "company": "Société",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "note": "Les valeurs sont typiques ; le certificat de coulée de votre lot fait foi."
+  },
+  "a11y": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue",
+    "whatsapp": "Contactez-nous sur WhatsApp"
+  },
+  "forms": {
+    "plate": "Tôle et plaque aluminium",
+    "coil": "Bobine aluminium",
+    "bar": "Barre aluminium",
+    "tube": "Tube aluminium",
+    "profile": "Profilé aluminium",
+    "foil": "Feuille d'aluminium"
+  }
+}
