@@ -26,13 +26,16 @@ ul,ol{margin:0 0 1em;padding-inline-start:1.2em}
 /* header */
 .hdr{position:sticky;top:0;z-index:50;background:rgba(18,20,23,.97);color:var(--fg);border-bottom:1px solid var(--line)}
 .hdr__bar{display:flex;align-items:center;gap:18px;min-height:64px;max-width:var(--max);margin:0 auto;padding:0 var(--gut)}
-.brand{display:flex;align-items:baseline;gap:8px;text-decoration:none;color:var(--fg);font-weight:800;letter-spacing:.04em}
-.brand b{font-size:1.06rem}
-.brand span{font-size:.72rem;color:var(--brass);letter-spacing:.16em}
-.nav{display:flex;gap:2px;margin-inline-start:auto;flex-wrap:wrap}
-.nav a{color:var(--fg2);text-decoration:none;font-size:.86rem;padding:8px 9px;border-radius:4px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--fg);font-weight:800;letter-spacing:.04em}
+.brand__mark{height:2.7rem;width:auto;flex:none}
+.brand__txt{display:flex;align-items:baseline;gap:8px}
+.brand b{font-size:1.42rem;line-height:1.1}
+.brand__txt span{font-size:.84rem;color:var(--brass);letter-spacing:.16em}
+.nav{display:flex;gap:0;margin-inline-start:auto;flex-wrap:wrap}
+.nav a{color:var(--fg2);text-decoration:none;font-size:1rem;padding:9px 6px;border-radius:4px;white-space:nowrap}
 .nav a:hover,.nav a[aria-current="page"]{color:#fff;background:#22272d}
 .hdr__cta{display:flex;align-items:center;gap:8px}
+.hdr__cta .btn{padding-inline:14px;white-space:nowrap}
 .lang{position:relative}
 .lang summary{list-style:none;cursor:pointer;color:var(--fg2);font-size:.82rem;padding:7px 9px;border:1px solid var(--line);border-radius:4px}
 .lang summary::-webkit-details-marker{display:none}
@@ -188,7 +191,11 @@ textarea{min-height:88px;resize:vertical}
   /* no-JS navigation: links stay visible and wrap instead of hiding behind a burger */
   .hdr__bar{flex-wrap:wrap;padding-block:10px;gap:10px;min-height:0}
   .nav{order:3;width:100%;margin:0;gap:0;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:6px}
-  .nav a{font-size:.82rem;padding:7px 8px}
+  .nav a{font-size:.95rem;padding:7px 8px}
+  .brand{gap:8px}
+  .brand__mark{height:2.05rem}
+  .brand b{font-size:1.2rem}
+  .lang summary{font-size:.78rem;padding:6px 8px}
   .lang{order:2;margin-inline-start:auto}
   .hdr__cta{order:2}
   .hdr__cta .btn{display:none}
