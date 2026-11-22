@@ -76,7 +76,7 @@
     "newsSub": "Prices, standards and application notes, written by the people who roll the metal.",
     "ctaTitle": "Send the specification, get a price in 24 hours",
     "ctaSub": "Tell us alloy, temper, size and quantity. A sales engineer replies with price, lead time and the mill certificate for the batch.",
-    "metaTitle": "Aluminium Plate, Coil, Foil, Bar, Tube & Profile — Mill Direct | Zorlang",
+    "metaTitle": "Aluminium Sheet, Plate, Coil, Foil & Profile Supplier | Zorlang",
     "statCapacity": "50,000 t",
     "statsLabels": [
       "annual capacity",
@@ -89,7 +89,8 @@
       "SGS or BV inspection before loading.",
       "Cut-to-length, slitting, sawing and anodising in-house.",
       "Export packing photographed per pallet."
-    ]
+    ],
+    "metaDesc": "Aluminium (aluminum) sheet, plate, coil, foil, bar, tube and profile from a mill in Luoyang, China. 23 alloys, mill test certificate, cut to size."
   },
   "products": {
     "h1": "Aluminium products by form and alloy",
@@ -98,7 +99,9 @@
     "tableSub": "Typical values. Confirm the exact temper and tolerance for your order on the alloy page.",
     "formLabel": "Available forms",
     "sizesLabel": "Typical sizes",
-    "viewAlloy": "Alloy page"
+    "viewAlloy": "Alloy page",
+    "metaTitle": "Aluminium Products by Form and Alloy — Sheet to Profile | Zorlang",
+    "metaDesc": "Browse 23 aluminium alloys as plate, coil, foil, bar, tube or extrusion profile. Chemistry, mechanical properties, tolerances and spec sheet on every page."
   },
   "alloyPage": {
     "specTitle": "Specifications",
@@ -135,7 +138,9 @@
   "applications": {
     "h1": "Aluminium applications by industry",
     "sub": "Six industries we supply, with the alloys and tempers that actually work in each.",
-    "alloysLabel": "Available grades"
+    "alloysLabel": "Available grades",
+    "metaTitle": "Aluminium Applications — Marine, Transport, Cookware | Zorlang",
+    "metaDesc": "Six industries we supply, with the alloy and temper that actually works in each: marine and shipbuilding, transport, cookware, heat exchange, construction."
   },
   "capabilities": {
     "h1": "Capabilities",
@@ -144,7 +149,9 @@
     "equipSub": "The lines that decide what we can hold, roll and finish.",
     "processTitle": "From ingot to container",
     "processSub": "Six controlled stages, each recorded against the batch.",
-    "capacityTitle": "Capacity at a glance"
+    "capacityTitle": "Capacity at a glance",
+    "metaTitle": "Capabilities — Melting, Rolling and Extrusion Mill | Zorlang",
+    "metaDesc": "Melting, casting, rolling, extrusion, anodising and packing on one site in Luoyang: 50,000 tonnes a year, cut to size, DDP delivery on request."
   },
   "quality": {
     "h1": "Quality and testing",
@@ -154,7 +161,9 @@
     "certTitle": "Standards and certificates",
     "certSub": "Certificates are issued per heat number and travel with the shipping documents.",
     "packTitle": "Packing and loading",
-    "packSub": "Export packing built for sea freight, photographed per pallet before loading."
+    "packSub": "Export packing built for sea freight, photographed per pallet before loading.",
+    "metaTitle": "Quality & Testing — Mill Test Certificate EN 10204 3.1 | Zorlang",
+    "metaDesc": "Chemistry, mechanical properties, corrosion and dimensional checks in-house. EN 10204 3.1 mill test certificate and SGS or BV inspection before loading."
   },
   "news": {
     "h1": "News and technical notes",
@@ -187,7 +196,9 @@
     "h1": "About Zorlang Aluminum",
     "sub": "A rolling and extrusion mill in Luoyang, Henan, supplying exporters, fabricators and OEMs since 2006.",
     "timelineTitle": "Milestones",
-    "capTitle": "Plant at a glance"
+    "capTitle": "Plant at a glance",
+    "metaTitle": "About Zorlang — Aluminium Mill in Luoyang, China",
+    "metaDesc": "A rolling and extrusion mill in Luoyang, Henan, supplying fabricators and OEMs in more than 40 countries since 2006. Mill direct, no trading layer."
   },
   "contact": {
     "h1": "Contact",
@@ -197,7 +208,9 @@
     "hours": "Mon–Sat 08:30–18:00 (GMT+8)",
     "address": "Address",
     "note": "We do not share your details. Technical questions are answered by the mill, not a call centre.",
-    "hoursLabel": "Hours"
+    "hoursLabel": "Hours",
+    "metaTitle": "Contact Zorlang — Aluminium Quote in One Working Day",
+    "metaDesc": "Send alloy, temper, dimensions and quantity for a quote. A sales engineer replies within one working day in English, Spanish or Arabic."
   },
   "form": {
     "name": "Name",
