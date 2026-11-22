@@ -149,6 +149,12 @@ async function buildAssets() {
   fs.copyFileSync(path.join(ROOT, 'assets/css/main.css'), path.join(DIST, 'assets/css/main.css'));
   fs.copyFileSync(path.join(ROOT, 'assets/js/main.js'), path.join(DIST, 'assets/js/main.js'));
 
+  // 站点图标：放在根目录，避免被 /assets/* 的 immutable 缓存锁死
+  for (const f of ['favicon.ico', 'favicon.svg', 'apple-touch-icon.png']) {
+    const src = path.join(ROOT, 'public', f);
+    if (fs.existsSync(src)) fs.copyFileSync(src, path.join(DIST, f));
+  }
+
   const imgDir = path.join(ROOT, 'public/assets/images');
   const files = fs.readdirSync(imgDir).filter((f) => f.endsWith('.jpg'));
   let thumbs = 0;
