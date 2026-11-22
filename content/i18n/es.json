@@ -204,7 +204,9 @@
     "submit": "Enviar consulta",
     "required": "Obligatorio",
     "success": "Gracias: su consulta está lista para enviarse. Si su cliente de correo no se abrió, escríbanos directamente.",
-    "privacy": "Al enviar, acepta que le contactemos en relación con esta consulta."
+    "privacy": "Al enviar, acepta que le contactemos en relación con esta consulta.",
+    "sending": "Enviando…",
+    "error": "Algo falló. Escríbanos por correo:"
   },
   "footer": {
     "about": "Aluminio en placa, bobina, papel de aluminio, barra, tubo y perfil, laminado y exportado desde Luoyang, Henan, China.",

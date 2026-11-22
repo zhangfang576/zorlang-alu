@@ -204,7 +204,9 @@
     "submit": "Gửi yêu cầu",
     "required": "Bắt buộc",
     "success": "Cảm ơn bạn — yêu cầu của bạn đã sẵn sàng để gửi. Nếu ứng dụng email không mở, hãy gửi email trực tiếp cho chúng tôi.",
-    "privacy": "Khi gửi, bạn đồng ý được liên hệ về yêu cầu này."
+    "privacy": "Khi gửi, bạn đồng ý được liên hệ về yêu cầu này.",
+    "sending": "Đang gửi…",
+    "error": "Đã xảy ra lỗi. Vui lòng gửi email cho chúng tôi:"
   },
   "footer": {
     "about": "Nhôm tấm, cuộn, lá, thanh, ống và thanh định hình, cán và xuất khẩu từ Lạc Dương, Hà Nam, Trung Quốc.",

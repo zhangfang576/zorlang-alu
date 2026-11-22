@@ -65,16 +65,53 @@
     var form = e.target.closest('form[data-inquiry]');
     if (!form) return;
     stampForms();
-    track('generate_lead', cfg.labels && cfg.labels.form);
-    // mailto: submission opens the client; success panel is shown for the endpoint case
-    if (form.getAttribute('action').indexOf('mailto:') !== 0) {
-      e.preventDefault();
-      var ok = document.createElement('p');
-      ok.className = 'ok';
-      ok.textContent = cfg.successText || 'Thanks — we will reply within one working day.';
-      form.replaceWith(ok);
-      fetch(form.getAttribute('action'), { method: 'POST', body: new FormData(form), mode: 'no-cors' }).catch(function () {});
+
+    var action = form.getAttribute('action') || '';
+    // mailto: 由邮件客户端接管，这里只记一次点击
+    if (action.indexOf('mailto:') === 0) {
+      track('generate_lead', cfg.labels && cfg.labels.form);
+      return;
     }
+
+    e.preventDefault();
+    var btn = form.querySelector('button[type="submit"]');
+    var btnText = btn ? btn.textContent : '';
+    if (btn) { btn.disabled = true; btn.textContent = cfg.sendingText || 'Sending…'; }
+
+    var payload = {};
+    new FormData(form).forEach(function (v, k) { payload[k] = v; });
+
+    function fail() {
+      if (btn) { btn.disabled = false; btn.textContent = btnText; }
+      var box = form.querySelector('.form__err');
+      if (!box) {
+        box = document.createElement('p');
+        box.className = 'form__err';
+        box.setAttribute('role', 'alert');
+        form.appendChild(box);
+      }
+      box.innerHTML = (cfg.errorText || 'Something went wrong. Please email us instead.') +
+        (cfg.mailto ? ' <a href="mailto:' + cfg.mailto + '">' + cfg.mailto + '</a>' : '');
+    }
+
+    fetch(action, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) { return res.json().catch(function () { return {}; }); })
+      .then(function (data) {
+        if (data && data.success) {
+          track('generate_lead', cfg.labels && cfg.labels.form);
+          var ok = document.createElement('p');
+          ok.className = 'ok';
+          ok.textContent = cfg.successText || 'Thanks — we will reply within one working day.';
+          form.replaceWith(ok);
+        } else {
+          fail();
+        }
+      })
+      .catch(fail);
   }, true);
 
   if (document.readyState !== 'loading') { loadTag(); stampForms(); }

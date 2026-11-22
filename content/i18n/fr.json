@@ -204,7 +204,9 @@
     "submit": "Envoyer la demande",
     "required": "Obligatoire",
     "success": "Merci — votre demande est prête à être envoyée. Si votre client de messagerie ne s'est pas ouvert, écrivez-nous directement.",
-    "privacy": "En envoyant, vous acceptez d'être contacté au sujet de cette demande."
+    "privacy": "En envoyant, vous acceptez d'être contacté au sujet de cette demande.",
+    "sending": "Envoi…",
+    "error": "Une erreur est survenue. Écrivez-nous plutôt :"
   },
   "footer": {
     "about": "Aluminium en plaque, bobine, feuille, barre, tube et profilé, laminé et exporté depuis Luoyang, Henan, Chine.",

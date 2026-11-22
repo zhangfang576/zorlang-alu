@@ -138,6 +138,9 @@ textarea{min-height:88px;resize:vertical}
 .form__row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .form__note{font-size:.8rem;color:var(--muted)}
 .ok{border:1px solid #9dbb9d;background:#f2f8f2;padding:12px;border-radius:4px;font-size:.9rem}
+.form__err{border:1px solid #e0b4b4;background:#fdf2f2;padding:12px;border-radius:4px;font-size:.9rem;color:#8a2b2b;margin-top:10px}
+.form__err a{color:#8a2b2b;text-decoration:underline}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
 
 /* news */
 .post{max-width:74ch}

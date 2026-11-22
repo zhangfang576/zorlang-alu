@@ -3,7 +3,7 @@
   "brandSuffix": "ALUMINUM",
   "legalName": "Zorlang Aluminum Co., Ltd.",
   "siteUrl": "https://www.zorlang.com",
-  "email": "sales@zorlang-aluminum.com",
+  "email": "sales@zorlang.com",
   "phone": "+86 158 3886 3793",
   "phoneDigits": "+8615838863793",
   "whatsapp": "8615838863793",
@@ -63,7 +63,9 @@
     "adsPhoneLabel": "REPLACE_PHONE_LABEL"
   },
   "form": {
-    "endpoint": "mailto:"
+    "provider": "web3forms",
+    "accessKey": "db72446e-a7f5-4631-ac31-4e3ab0a9213d",
+    "endpoint": "https://api.web3forms.com/submit"
   },
   "newsPerPage": 10
 }
