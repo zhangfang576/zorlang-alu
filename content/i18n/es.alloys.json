@@ -4,7 +4,7 @@
     "h1": "Chapa, barra, tubo, bobina y papel de aluminio 1050 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 1050 O — GB/T 3880 | Zorlang",
     "metaDesc": "Aluminio comercialmente puro: 80 MPa de resistencia a la tracción en O, en chapa, barra, tubo, bobina y papel de aluminio. Papel de aluminio, barras colectoras conductoras. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 1050 es aluminio comercialmente puro: un mínimo de 99.5 %, sin adiciones de aleación y la conductividad más alta de todos los grados que laminamos. Es el grado que conviene especificar cuando la pieza necesita conformabilidad, conductividad o un acabado anodizado brillante antes que resistencia. Lo laminamos desde chapa de 0.3 mm hasta chapa gruesa de 120 mm, en O, H14, H24 y H18, con control de espesor y planitud en línea.",
+    "intro": "El 1050 es el grado de conductividad: 99.5 % de aluminio, sin aleantes deliberados y laminado en temple O para que se doble y anodice sin discusión. Barra colectora, aleta de disipador, una placa de identificación que debe seguir brillante después de conformarse: la especificación empieza aquí. Se lamina de 0.2 a 4 mm y se corta longitudinalmente al ancho que necesita su prensa.",
     "uses": [
       "Papel de aluminio",
       "Barras colectoras conductoras",
@@ -37,7 +37,7 @@
     "h1": "Chapa, barra, tubo, bobina y papel de aluminio 1100 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 1100 O — GB/T 3880 | Zorlang",
     "metaDesc": "Aluminio comercialmente puro: 90 MPa de resistencia a la tracción en O, en chapa, barra, tubo, bobina y papel de aluminio. Placas de identificación y rotulación, menaje embutido en profundo. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 1100 es aluminio de pureza 99.0 % con una adición controlada de cobre. Esa pequeña adición eleva la resistencia y el mecanizado por encima del 1050 manteniendo una conductividad alta y una conformabilidad excelente, y por eso es la opción por defecto para piezas repulsadas, estiradas y laminadas que además se recortan o punzonan. Se suministra de 0.3 mm a 100 mm, en O, H14, H24 y H18.",
+    "intro": "A medio camino entre el 1050 y los grados con manganeso, el 1100 cambia algo de conductividad por conformabilidad: 99 % de aluminio con una traza de cobre que evita que el menaje embutido en profundo se rompa en la brida. Placas de identificación, aletas de intercambiador y envases de embalaje se apoyan en ese equilibrio. Temple O, 0.2–4 mm, cortado longitudinalmente y nivelado.",
     "uses": [
       "Placas de identificación y rotulación",
       "Menaje embutido en profundo",
@@ -69,7 +69,7 @@
     "h1": "Barra y tubo de aluminio 2011 T3 según GB/T 6892 · ASTM B221",
     "metaTitle": "Barra de aluminio 2011 T3 — GB/T 6892 | Zorlang",
     "metaDesc": "Aleación de fácil mecanizado: 380 MPa de resistencia a la tracción en T3, en barra y tubo. Tornillería de precisión, conectores y racores. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 2011 es el grado de fácil mecanizado: un 5,0–6,0 % de cobre con adiciones de bismuto y plomo que fragmentan la viruta, de modo que los tornos automáticos trabajan rápido sin virutas enredadas. Las propiedades típicas en T3 son 380 MPa de resistencia a la tracción y 295 MPa de límite elástico con un 15 % de alargamiento, unas tres veces la resistencia del 6063, y las caras mecanizadas salen brillantes. Se suministra en barra redonda y tubo, cortado a sierra o a medida.",
+    "intro": "El 2011 es material de mecanizado libre. Se añaden bismuto y plomo para que la viruta se rompa limpia y la herramienta conserve el filo; por eso los tornillos de precisión, los conectores y las piezas ópticas torneadas se fabrican con él en automáticos de alta velocidad. Se suministra en barra de Ø 6 a 300 mm en T3, cortada al largo que pide su máquina.",
     "uses": [
       "Tornillería y sujetadores de precisión",
       "Conectores y racores",
@@ -82,7 +82,7 @@
     "h1": "Chapa, barra y tubo de aluminio 2017 T4 según GB/T 3880 · ASTM B209",
     "metaTitle": "Barra de aluminio 2017 T4 — GB/T 3880 | Zorlang",
     "metaDesc": "Aluminio para remaches (equivalente a 2A11): 425 MPa de resistencia a la tracción en T4, en chapa, barra y tubo. Remaches aeronáuticos y estructurales, pernos y abrazaderas. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 2017 es la aleación clásica para remaches: 425 MPa de resistencia a la tracción en T4 con un 22 % de alargamiento, ductilidad suficiente para conformar la cabeza del remache en frío y resistencia suficiente para trabajar a cortadura en estructuras de aeronave. Se mecaniza y se conforma bien, y queda por debajo del umbral de 460 MPa del listado chino de exportación de doble uso, por lo que el suministro normal no requiere licencia 1C202. Chapa, barra y tubo de stock.",
+    "intro": "Una de las aleaciones aeronáuticas originales, y sigue cumpliendo donde un remache debe colocarse en frío y aguantar. El cobre y el magnesio aportan la resistencia, el manganeso mantiene el grano uniforme en todo el vástago. Barra en T4, Ø 6–300 mm, para remaches, pernos, abrazaderas y material de reparación estructural.",
     "uses": [
       "Remaches aeronáuticos y estructurales",
       "Pernos y abrazaderas",
@@ -95,7 +95,7 @@
     "h1": "Chapa, tubo, bobina, papel de aluminio y perfil 3003 H14 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 3003 H14 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de manganeso anticorrosiva: 150 MPa de resistencia a la tracción en H14, en chapa, tubo, bobina, papel de aluminio y perfil. Menaje de cocina y de mesa, radiadores. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 3003 es la aleación aluminio-manganeso de uso general: alrededor de un 20 % más resistente que el 1100, todavía muy conformable y con resistencia a la corrosión suficiente para cubiertas, contenedores y equipos químicos. Se suelda y se une por soldadura fuerte sin dificultad, lo que la convierte en la elección habitual cuando un conjunto fabricado debe ser a la vez ligero y duradero. Suministramos chapa, bobina, banda, barra y tubo en O, H14, H24 y H112.",
+    "intro": "El 3003 es la aleación de trabajo polivalente: el manganeso en solución sólida eleva la resistencia muy por encima de los grados 1xxx sin coste en conformabilidad ni en corrosión. Menaje de cocina, radiadores, depósitos de combustible, cubiertas: la variedad de usos dice lo poco problemática que es. Se lamina de 0.2 a 150 mm en H14, así que la misma aleación sirve como chapa y como placa.",
     "uses": [
       "Menaje de cocina y de mesa",
       "Radiadores",
@@ -128,7 +128,7 @@
     "h1": "Chapa, tubo y bobina de aluminio 3004 H32 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 3004 H32 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de manganeso-magnesio para cubiertas: 215 MPa de resistencia a la tracción en H32, en chapa, tubo y bobina. Cubierta perfilada y revestimiento de fachada, paneles de muro cortina. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 3004 añade alrededor de un 1 % de magnesio a la base del 3003, lo que eleva la resistencia a la tracción de 150 a 215 MPa en H32 manteniendo el mismo comportamiento frente a la corrosión y la misma soldabilidad. Ese equilibrio explica su dominio en cubiertas perfiladas y revestimientos de fachada, y que los depósitos químicos y las columnas de alumbrado se construyan a menudo con él. Se suministra en chapa, bobina y tubo.",
+    "intro": "Añada magnesio a la fórmula del 3003 y obtiene el 3004: notablemente más resistente, todavía conformable por rodillos y todavía resistente a la corrosión. Esa combinación hace que la cubierta perfilada, los paneles de muro cortina y los depósitos de productos químicos se construyan con él. El H32 es el temple de suministro habitual. Laminado de 0.2 a 150 mm, con acabado de laminación o recubierto.",
     "uses": [
       "Cubierta perfilada y revestimiento de fachada",
       "Paneles de muro cortina",
@@ -141,7 +141,7 @@
     "h1": "Chapa y bobina de aluminio 3104 H19 según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 3104 H19 — GB/T 3880 | Zorlang",
     "metaDesc": "Banda para cuerpos de lata: 285 MPa de resistencia a la tracción en H19, en chapa y bobina. Cuerpos de lata de bebida (DI), latas de conserva. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 3104 se embute y se estira para formar latas de bebida de dos piezas: 285 MPa de resistencia a la tracción y 260 MPa de límite elástico en H19 dan a la pared resistencia suficiente para soportar el proceso DI con 0,25 mm y menos. El hierro y el cobre se mantienen en rangos estrechos para que las orejetas queden cortas y el cuerpo adelgace de forma uniforme. Solo en bobina, de 0,2 a 4,0 mm, cortada al ancho de su formato.",
+    "intro": "Pensado para el embutido y estirado. El 3104 mantiene el equilibrio de resistencia y ductilidad que permite a un cuerpo de lata adelgazar la pared sin romperse, y aguanta después el curado del barniz. Cuerpos de lata de bebida, latas de conserva, cierres. H19, 0.2–4 mm, con el espesor tan ajustado que sirve para una conformadora de alta velocidad.",
     "uses": [
       "Cuerpos de lata de bebida (DI)",
       "Latas de conserva",
@@ -153,7 +153,7 @@
     "h1": "Barra de aluminio 4032 T6 según GB/T 6892 · ASTM B221",
     "metaTitle": "Barra de aluminio 4032 T6 — GB/T 6892 | Zorlang",
     "metaDesc": "Aleación para pistones: 380 MPa de resistencia a la tracción en T6, en barra. Pistones forjados, insertos de culata. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 4032 contiene un 11–13,5 % de silicio, lo que reduce la dilatación térmica a aproximadamente el 80 % de la del 6061 y le confiere una elevada resistencia al desgaste frente al cilindro; el níquel y el cobre mantienen la resistencia a la temperatura de servicio. El temple T6 aporta 380 MPa de resistencia a la tracción, 315 MPa de límite elástico y unos 120 HBW. Se suministra en barra para forja, cortada a la longitud de palanquilla.",
+    "intro": "La baja dilatación es toda la razón de ser del 4032. Alrededor de un 12 % de silicio evita que un pistón forjado se dilate más que su cilindro al subir de temperatura, y el níquel y el cobre mantienen la resistencia donde la corona se calienta más. Barra en T6, Ø 6–300 mm, para pistones e insertos de culata.",
     "uses": [
       "Pistones forjados",
       "Insertos de culata",
@@ -165,7 +165,7 @@
     "h1": "Barra y bobina de aluminio 4045 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 4045 O — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de soldadura fuerte con silicio: 120 MPa de resistencia a la tracción en O, en barra y bobina. Revestimiento de chapa de soldadura fuerte, hilo de aporte aluminio-silicio. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 4045 es el revestimiento de soldadura fuerte: un 9–11 % de silicio funde cerca de 577 °C, unos 80 °C por debajo del núcleo de 3003 sobre el que se lamina, de modo que un solo paso por horno une un intercambiador de calor completo. Lo suministramos como bobina revestida para chapa de soldadura fuerte y como barra o hilo de aporte.",
+    "intro": "El 4045 es una aleación de soldadura fuerte antes que estructural. Un 10 % de silicio baja su punto de fusión por debajo del núcleo sobre el que se lamina, de modo que en el ciclo de soldadura fuerte el revestimiento funde y el núcleo no. Revestimiento para chapa de soldadura fuerte, hilo de aporte y anillos preformados. Temple O, 0.2–4 mm, como revestimiento o por sí solo.",
     "uses": [
       "Revestimiento de chapa de soldadura fuerte",
       "Hilo de aporte aluminio-silicio",
@@ -177,7 +177,7 @@
     "h1": "Chapa, bobina y papel de aluminio 4343 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 4343 O — GB/T 3880 | Zorlang",
     "metaDesc": "Capa de revestimiento para soldadura fuerte: 115 MPa de resistencia a la tracción en O, en chapa, bobina y papel de aluminio. Radiadores de automoción, enfriadores de aire de sobrealimentación. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 4343 es el revestimiento de soldadura fuerte con menor contenido de silicio, 6,8–8,2 % de Si, y se emplea cuando se desea una capa más fina y más controlable que la que ofrece el 4045, típicamente en radiadores de automoción, enfriadores de aire de sobrealimentación y evaporadores de aire acondicionado. Se lamina conjuntamente sobre un núcleo de 3003 y se suelda fuerte en horno de atmósfera controlada.",
+    "intro": "El grado de soldadura fuerte con menos silicio. El 4343 funde algo más caliente que el 4045 y deja un cordón más estrecho y más controlable: lo que necesitan los radiadores de automoción y los enfriadores de aire de sobrealimentación cuando el conjunto debe mantener presión después del horno. Chapa y bobina en temple O, 0.2–4 mm.",
     "uses": [
       "Radiadores de automoción",
       "Enfriadores de aire de sobrealimentación",
@@ -190,7 +190,7 @@
     "h1": "Chapa, tubo, bobina y perfil de aluminio 5005 H14 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 5005 H14 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación decorativa apta para anodizado: 165 MPa de resistencia a la tracción en H14, en chapa, tubo, bobina y perfil. Paneles de muro cortina anodizados, perfiles y remates decorativos. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5005 iguala al 3003 en resistencia, 165 MPa en H14, pero anodiza con un acabado más brillante y más blanco porque el magnesio está compensado con un bajo contenido de hierro y silicio. Por eso lo especifican los paneles arquitectónicos, los frontales de instrumentación y los perfiles decorativos. Chapa, bobina, tubo y perfil, anodizados en nuestras instalaciones.",
+    "intro": "El 5005 queda entre los grados puros y el 5052: magnesio suficiente para dar resistencia y lo bastante poco para que la capa anodizada salga de color uniforme. Los paneles de muro cortina y los remates decorativos salen de él sin un mosaico a lo largo de la fachada. H14, 0.2–150 mm, con la calidad de acabado controlada en la laminadora y no dejada al anodizador.",
     "uses": [
       "Paneles de muro cortina anodizados",
       "Perfiles y remates decorativos",
@@ -202,7 +202,7 @@
     "h1": "Chapa, barra, tubo, bobina y perfil de aluminio 5052 H32 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 5052 H32 — GB/T 3880 | Zorlang",
     "metaDesc": "Aluminio marino de uso general: 230 MPa de resistencia a la tracción en H32, en chapa, barra, tubo, bobina y perfil. Depósitos de combustible, equipamiento marino. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5052 es la aleación no tratable térmicamente de mayor resistencia dentro del suministro habitual: un 2.2–2.8 % de magnesio aporta unos 215–275 MPa de resistencia a la tracción en H32, con un comportamiento excelente frente a la fatiga y la corrosión en agua salada. Es la opción por defecto para accesorios marinos, depósitos de combustible, recipientes a presión y paneles de transporte. Lo laminamos de 0.3 mm a 150 mm y podemos anodizarlo o recubrirlo con PVC en nuestras instalaciones.",
+    "intro": "La más utilizada de las aleaciones 5xxx para chapa, y con razón: un 2.5 % de magnesio con cromo da resistencia a la corrosión de grado marino, buena vida a la fatiga y ductilidad suficiente para conformar un depósito de combustible o un recipiente a presión sin fisuras en la preparación de soldadura. H32 de serie, O y H34 a petición. 0.2–150 mm.",
     "uses": [
       "Depósitos de combustible",
       "Equipamiento marino",
@@ -234,7 +234,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 5083 H116 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 5083 H116 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de chapa para uso marino: 305 MPa de resistencia a la tracción en H116, en chapa, barra, tubo y perfil. Cascos y cubiertas, depósitos de LNG y criogénicos. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5083 es la aleación que se especifica para estructuras marinas soldadas: un 4.0–4.9 % de magnesio aporta 275–350 MPa de resistencia a la tracción y la mejor resistencia al agua de mar de cualquier grado habitual. En temple H116 o H321 resiste el ataque intergranular después de soldar, y por eso las sociedades de clasificación lo aceptan para cascos, cubiertas y depósitos. Suministramos chapa de 3 mm a 200 mm con inspección por ultrasonidos a petición.",
+    "intro": "El 5083 es el que se especifica cuando la estructura tiene que vivir en agua salada y seguir resistente después de soldar. Un 4.5 % de magnesio, ningún tratamiento térmico que perder y temples H116/H321 que resisten la sensibilización en servicio. Cascos y cubiertas, depósitos criogénicos y de LNG, cajas de ferrocarril. Laminado de 0.2 a 150 mm en la misma línea que la placa más fina.",
     "uses": [
       "Cascos y cubiertas",
       "Depósitos de LNG y criogénicos",
@@ -265,7 +265,7 @@
     "h1": "Chapa y bobina de aluminio 5182 H19 según GB/T 3880 · ASTM B209",
     "metaTitle": "Bobina de aluminio 5182 H19 — GB/T 3880 | Zorlang",
     "metaDesc": "Banda para tapas y lengüetas de lata: 400 MPa de resistencia a la tracción en H19, en chapa y bobina. Tapas y lengüetas de lata de bebida, paneles interiores de automoción. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5182 es la aleación de tapas y lengüetas: un 4–5 % de magnesio endurecido hasta H19 aporta 400 MPa de resistencia a la tracción y 365 MPa de límite elástico, de modo que una tapa de 0,22 mm soporta la presión de una lata carbonatada sin abombarse. También se emplea en paneles interiores de automoción donde se necesita alta conformabilidad con resistencia.",
+    "intro": "Banda para tapas de lata. El 5182 lleva más magnesio que el 3104, lo que compra la resistencia que una tapa necesita con 0.2 mm y la conformabilidad para ranurarla y tirar de la lengüeta sin que se rompa. También se usa en paneles interiores y cierres de automoción. H19, 0.2–4 mm.",
     "uses": [
       "Tapas y lengüetas de lata de bebida",
       "Paneles interiores de automoción",
@@ -277,7 +277,7 @@
     "h1": "Chapa, tubo y bobina de aluminio 5754 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 5754 O — GB/T 3880 | Zorlang",
     "metaDesc": "Chapa de carrocería para automoción: 200 MPa de resistencia a la tracción en O, en chapa, tubo y bobina. Paneles interiores y chasis de automoción, depósitos de almacenamiento. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5754 es la aleación de carrocería para automoción: en O se estira un 26 % con solo 200 MPa de resistencia a la tracción, de modo que los paneles interiores de puerta y de piso se conforman sin grietas, y el temple H111 lo mantiene estable en almacenamiento. Se suelda y anodiza bien y es la elección habitual para piezas de chasis, depósitos y estructuras soldadas expuestas a la sal de carretera.",
+    "intro": "El 5754 es el miembro soldable y conformable de la familia 5xxx: alrededor de un 3 % de magnesio, sin cobre y un temple O o H111 que acepta un plegado sin que el retroceso pelee con la plegadora. Piezas de chasis de automoción, depósitos de almacenamiento, estructuras soldadas. Laminado de 0.2 a 150 mm, chapa y placa de la misma línea.",
     "uses": [
       "Paneles interiores y chasis de automoción",
       "Depósitos de almacenamiento",
@@ -290,7 +290,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 6061 T6 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 6061 T6 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación estructural de uso general: 310 MPa de resistencia a la tracción en T6, en chapa, barra, tubo y perfil. Moldes y utillajes, bastidores de equipos de automatización. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 6061 es la aleación tratable térmicamente de uso general: el magnesio y el silicio aportan 290–310 MPa de resistencia a la tracción en T6, con buen mecanizado, soldabilidad y resistencia a la corrosión. Se mecaniza con limpieza, anodiza bien y está disponible en más medidas que cualquier otro grado, lo que la convierte en la opción por defecto para utillajes, plantillas, piezas mecanizadas y bastidores estructurales. Se suministra en chapa hasta 500 mm, además de barra, tubo y perfil.",
+    "intro": "La aleación a la que recurren casi todos los talleres de mecanizado, y la razón es aburridamente práctica: el magnesio y el silicio dan al 6061-T6 su resistencia, el cromo mantiene la resistencia a la corrosión y se mecaniza, suelda y anodiza sin sorpresas. Moldes y utillaje, bastidores de automatización, cuadros de bicicleta, piezas estructurales de CNC. Placa 0.2–150 mm, barra Ø 6–300 mm.",
     "uses": [
       "Moldes y utillajes",
       "Bastidores de equipos de automatización",
@@ -322,7 +322,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 6063 T5 según GB/T 3880 · ASTM B209",
     "metaTitle": "Perfil de aluminio 6063 T5 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de extrusión arquitectónica: 175 MPa de resistencia a la tracción en T5, en chapa, barra, tubo y perfil. Perfiles de ventana y muro cortina, pasamanos y barandillas. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 6063 es la aleación de extrusión por excelencia: menos resistente que el 6061, pero con un acabado superficial muy superior tras el anodizado, y por eso los sistemas de ventana, el muro cortina, los disipadores y las protecciones de máquina se fabrican con ella. Extruimos desde 0.3 kg/m hasta 30 kg/m, mantenemos la tolerancia según EN 755-9 y acabamos en nuestras instalaciones con anodizado o lacado en polvo.",
+    "intro": "El 6063 es la opción por defecto en arquitectura porque anodiza con una capa uniforme y brillante y se extruye a velocidad en paredes finas y complicadas. Perfil de ventana y muro cortina, pasamanos, barandilla, disipadores de calor. T5 de serie, pared de 0.8–20 mm, sección hasta 400 mm, y anodizamos en nuestras instalaciones, así que el acabado no es problema de un segundo proveedor.",
     "uses": [
       "Perfiles de ventana y muro cortina",
       "Pasamanos y barandillas",
@@ -354,7 +354,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 6082 T6 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 6082 T6 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de extrusión de alta resistencia: 310 MPa de resistencia a la tracción en T6, en chapa, barra, tubo y perfil. Puentes y vigas estructurales, piezas estructurales de automoción. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 6082 es la más resistente de las aleaciones de extrusión estándar de la serie 6xxx: 310 MPa de resistencia a la tracción y 260 MPa de límite elástico en T6, alrededor de un 10 % por encima del 6061, con el manganeso controlando la estructura de grano durante la extrusión. Se mecaniza con limpieza y admite soldadura estructural, por lo que las vigas de puente, las piezas estructurales de automoción y las rótulas forjadas se fabrican con ella. Chapa, barra, tubo y perfil.",
+    "intro": "La más resistente de las aleaciones 6xxx habituales, y mantiene la resistencia a temperatura mejor que el 6061. Puentes y vigas estructurales, piezas estructurales de automoción, rótulas, forjas. T6, 0.2–150 mm, aserrada y mecanizada según plano cuando la pieza tiene que encajar en otra cosa.",
     "uses": [
       "Puentes y vigas estructurales",
       "Piezas estructurales de automoción",
@@ -366,7 +366,7 @@
     "h1": "Tubo y perfil de aluminio 6101 T6 según GB/T 6892 · ASTM B221",
     "metaTitle": "Perfil de aluminio 6101 T6 — GB/T 6892 | Zorlang",
     "metaDesc": "Aleación para conductores eléctricos: 200 MPa de resistencia a la tracción en T6, en tubo y perfil. Canalizaciones de barras colectoras, barras de aparamenta. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 6101 equilibra conductividad y resistencia: alrededor del 55 % IACS con 200 MPa de resistencia a la tracción en T6, de modo que una barra colectora transporta la corriente de una sección de cobre del doble de tamaño con un tercio del peso. Es la referencia para canalizaciones de barras colectoras, barras de aparamenta y conductores de carga de vehículo eléctrico. Tubo y perfil extruidos, cortados y taladrados a medida.",
+    "intro": "Conductividad y resistencia en una sola aleación de extrusión. El 6101 conduce corriente cerca de lo que haría el aluminio puro y aun así admite temple T6; por eso las canalizaciones de barra colectora, los aparellajes de maniobra y los conductores de carga de vehículo eléctrico se hacen con él y no con 6063. Pared de 0.8–20 mm, sección hasta 400 mm, cortado a medida.",
     "uses": [
       "Canalizaciones de barras colectoras",
       "Barras colectoras de aparamenta",
@@ -379,7 +379,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 7005 T6 según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 7005 T6 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación para cuadros de bicicleta: 350 MPa de resistencia a la tracción en T6, en chapa, barra, tubo y perfil. Cuadros de bicicleta, raquetas y bastones de esquí. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 7005 es la aleación soldable de la serie 7xxx: el zinc y el magnesio aportan 350 MPa de resistencia a la tracción y 290 MPa de límite elástico en T6, alrededor de un 13 % por encima del 6061, mientras el circonio impide que la zona afectada por el calor se ablande. Endurece por envejecimiento natural hasta recuperar prácticamente toda su resistencia después de soldar, y por eso es la opción por defecto para cuadros de bicicleta.",
+    "intro": "El 7005 es el 7xxx soldable. El zinc y el magnesio sitúan su resistencia por encima de cualquier grado 6xxx, el circonio impide que la zona soldada se ablande y aun así admite un cuadro de bicicleta o una caña de esquí sin problemas de corrosión bajo tensión en servicio. T6, 0.2–150 mm, placa y sección extruida.",
     "uses": [
       "Cuadros de bicicleta",
       "Raquetas y bastones de esquí",
@@ -391,7 +391,7 @@
     "h1": "Chapa, bobina y papel de aluminio 8011 H18 según GB/T 3880 · ASTM B209",
     "metaTitle": "Papel de aluminio 8011 H18 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de papel de aluminio para cápsulas y uso farmacéutico: 150 MPa de resistencia a la tracción en H18, en chapa, bobina y papel de aluminio. Tapas y cápsulas, lámina blister farmacéutica. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 8011 es el papel de aluminio para envase: un contenido de silicio y hierro en torno al 0,5–1,0 % aporta al papel H18 150 MPa de resistencia a la tracción con la rigidez que una cápsula necesita para engastarse y mantenerse, y el bajo contenido de metales pesados que exige la lámina blister farmacéutica. Se lamina de 0,006 a 0,20 mm, brillante o lubricado.",
+    "intro": "Papel de aluminio, no chapa. El 8011 se lamina hasta 0.006 mm con el control de espesor que exigen el papel para blíster y la banda para cápsulas de botella, y el silicio y el hierro están equilibrados para darle resistencia a ese espesor. Blíster farmacéutico, juntas de sellado, embalaje laminado. 0.006–0.20 mm, diámetro interior de 76 mm o 152 mm, hasta 1,800 mm de ancho.",
     "uses": [
       "Tapas y cápsulas",
       "Lámina blister farmacéutica",
@@ -404,7 +404,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 5A06 O según GB/T 3880 · ASTM B209",
     "metaTitle": "Chapa de aluminio 5A06 O — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de alto magnesio resistente a la corrosión: 320 MPa de resistencia a la tracción en O, en chapa, barra, tubo y perfil. Superestructuras navales, estructuras a presión soldadas. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 5A06 es el grado chino de alto magnesio: un 5,8–6,8 % de Mg aporta 320 MPa de resistencia a la tracción y 160 MPa de límite elástico en estado recocido, el contenido de magnesio más alto que laminamos y la mejor resistencia al agua de mar de la familia 5xxx. Se suelda para formar superestructuras navales, cascos resistentes a presión y cajas de vehículos ferroviarios.",
+    "intro": "Un grado que los astilleros chinos especifican por costumbre, originalmente del sistema ruso. Un 6 % de magnesio, más que el 5083, y se suelda en una superestructura o una estructura a presión manteniendo la resistencia a través de la zona afectada por el calor. Superestructuras de buque, cajas de ferrocarril, cubiertas marinas. Temple O, 0.2–150 mm.",
     "uses": [
       "Superestructuras navales",
       "Estructuras a presión soldadas",
@@ -417,7 +417,7 @@
     "h1": "Chapa, barra, tubo y perfil de aluminio 6005A T6 según GB/T 3880 · ASTM B209",
     "metaTitle": "Perfil de aluminio 6005A T6 — GB/T 3880 | Zorlang",
     "metaDesc": "Aleación de extrusión para material ferroviario: 290 MPa de resistencia a la tracción en T6, en chapa, barra, tubo y perfil. Perfiles de caja de tren de alta velocidad y metro, largueros de bastidor y de piso. Certificado de colada e inspección SGS disponibles.",
-    "intro": "El 6005A es la aleación de perfiles ferroviarios: 290 MPa de resistencia a la tracción y 240 MPa de límite elástico en T6, con manganeso y cromo que mantienen la resistencia en la zona soldada, de modo que una caja soldada por fricción-agitación conserva las propiedades de su sección. Se extruye según plano hasta una sección de 400 mm, anodizado o pintado.",
+    "intro": "El 6005A se concibió para la extrusión. Algo más de silicio y una adición de manganeso le permiten mantener tolerancia a través del temple en prensa, de modo que un perfil largo de carrocería sigue recto después del T6. Cajas de alta velocidad y de metro, vigas de bastidor, estructuras modulares. Pared de 0.8–20 mm, sección hasta 400 mm, corte hasta 12,000 mm.",
     "uses": [
       "Perfiles de caja de tren de alta velocidad y metro",
       "Largueros de bastidor y de piso",

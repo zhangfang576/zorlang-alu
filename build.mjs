@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseFront, renderMarkdown, wordCount } from './lib/md.mjs';
 import { specPdf } from './lib/pdf.mjs';
-import { home, products, alloyPage } from './lib/pages.mjs';
+import { home, products, alloyPage, formPage, FORM_PAGE_IDS } from './lib/pages.mjs';
 import { applications, capabilities, quality, newsIndex, article, about, contact } from './lib/pages2.mjs';
 import { url, abs, setNavOverrides } from './lib/render.mjs';
 
@@ -111,6 +111,7 @@ function buildLocale(l) {
   writePage(l, '', wrap(home));
   writePage(l, 'products/', wrap(products));
   for (const a of alloys.alloys) writePage(l, `products/${a.id}/`, wrap(alloyPage, a));
+  for (const f of FORM_PAGE_IDS) writePage(l, `aluminium-${f}/`, wrap(formPage, f));
   writePage(l, 'applications/', wrap(applications));
   writePage(l, 'capabilities/', wrap(capabilities));
   writePage(l, 'quality/', wrap(quality));
@@ -158,22 +159,45 @@ async function buildAssets() {
   const imgDir = path.join(ROOT, 'public/assets/images');
   const files = fs.readdirSync(imgDir).filter((f) => f.endsWith('.jpg'));
   let thumbs = 0;
+  let beforeBytes = 0;
+  let afterBytes = 0;
   for (const f of files) {
-    fs.copyFileSync(path.join(imgDir, f), path.join(DIST, 'assets/images', f));
+    const src = path.join(imgDir, f);
+    const outJpg = path.join(DIST, 'assets/images', f);
+    beforeBytes += fs.statSync(src).size;
+
+    if (sharp) {
+      // 源图在仓库里保留原样，构建时统一重编码：
+      // mozjpeg + 4:2:0 + progressive，去元数据，体积约降到 40%
+      await sharp(src)
+        .rotate()
+        .jpeg({ quality: 78, mozjpeg: true, chromaSubsampling: '4:2:0', progressive: true })
+        .toFile(outJpg);
+    } else {
+      fs.copyFileSync(src, outJpg);
+    }
+    afterBytes += fs.statSync(outJpg).size;
+
     if (!sharp) continue;
     // 图库缩略图：单独生成 320×213 小图，避免每个缩略图都去下载 1600px 大图
     if (/^(gal|app)-.+\.jpg$/.test(f) && !/-t\.jpg$/.test(f)) {
-      await sharp(path.join(imgDir, f))
+      await sharp(src)
         .resize(320, 213, { fit: 'cover' })
-        .jpeg({ quality: 80, mozjpeg: true })
+        .jpeg({ quality: 78, mozjpeg: true })
         .toFile(path.join(DIST, 'assets/images', f.replace(/\.jpg$/, '-t.jpg')));
       thumbs++;
     }
     if (!/-t\.jpg$/.test(f)) {
-      await sharp(path.join(imgDir, f)).webp({ quality: 78 }).toFile(path.join(DIST, 'assets/images', f.replace(/\.jpg$/, '.webp')));
+      await sharp(src).webp({ quality: 76 }).toFile(path.join(DIST, 'assets/images', f.replace(/\.jpg$/, '.webp')));
     }
   }
-  return { images: files.length, webp: Boolean(sharp), thumbs };
+  return {
+    images: files.length,
+    webp: Boolean(sharp),
+    thumbs,
+    beforeMB: +(beforeBytes / 1048576).toFixed(1),
+    afterMB: +(afterBytes / 1048576).toFixed(1)
+  };
 }
 
 // ---------- pdf ----------
@@ -209,7 +233,7 @@ function buildPdfs() {
 // ---------- sitemaps / rss / robots ----------
 const today = new Date().toISOString().slice(0, 10);
 const SECTIONS = [
-  { id: 'pages', paths: ['', 'products/', 'applications/', 'capabilities/', 'quality/', 'about/', 'contact/'] },
+  { id: 'pages', paths: ['', 'products/', ...FORM_PAGE_IDS.map((f) => `aluminium-${f}/`), 'applications/', 'capabilities/', 'quality/', 'about/', 'contact/'] },
   { id: 'products', paths: alloys.alloys.map((a) => `products/${a.id}/`) },
   { id: 'news', paths: [] }
 ];
@@ -352,6 +376,8 @@ console.log(JSON.stringify({
   perLocale,
   images: assets.images,
   webp: assets.webp,
+  imgBeforeMB: assets.beforeMB,
+  imgAfterMB: assets.afterMB,
   pdfs: alloys.alloys.length,
   sitemaps: sitemapCount,
   rss
