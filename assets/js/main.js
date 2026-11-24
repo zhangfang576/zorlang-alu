@@ -20,17 +20,31 @@
     if (hasAds) window.gtag('config', cfg.ads);
   }
 
+  var ATTR = ['gclid', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+  var ATTR_KEY = 'zl_attr';
+
   function params() {
     var q = new URLSearchParams(window.location.search);
-    var out = {};
-    ['gclid', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'].forEach(function (k) {
-      if (q.get(k)) out[k] = q.get(k);
+    var live = {};
+    ATTR.forEach(function (k) {
+      if (q.get(k)) live[k] = q.get(k);
     });
-    if (!out.gclid) {
+    if (!live.gclid) {
       var c = document.cookie.match(/(?:^|;\s*)_gcl_aw=([^;]+)/);
-      if (c) out.gclid = decodeURIComponent(c[1]).split('.').slice(2).join('.') || '';
+      if (c) live.gclid = decodeURIComponent(c[1]).split('.').slice(2).join('.') || '';
     }
-    return out;
+
+    // 广告参数只出现在落地页 URL 上，站内一跳就丢，客户翻两页再填表就归因不上。
+    // 存进 sessionStorage 兜住整个会话，落地页的新值永远覆盖旧值。
+    var saved = {};
+    try { saved = JSON.parse(window.sessionStorage.getItem(ATTR_KEY) || '{}') || {}; } catch (e) { saved = {}; }
+    var merged = {};
+    ATTR.forEach(function (k) { if (saved[k]) merged[k] = saved[k]; });
+    ATTR.forEach(function (k) { if (live[k]) merged[k] = live[k]; });
+    if (Object.keys(live).length) {
+      try { window.sessionStorage.setItem(ATTR_KEY, JSON.stringify(merged)); } catch (e) { /* 隐私模式忽略 */ }
+    }
+    return merged;
   }
 
   function stampForms() {
@@ -40,6 +54,9 @@
         var field = form.querySelector(k === 'gclid' ? '[data-gclid]' : '[data-utm="' + k + '"]');
         if (field) field.value = p[k];
       });
+      // 记录真实提交页，而不是语种首页：广告优化靠这个分辨哪个落地页出单
+      var page = form.querySelector('[name="page"]');
+      if (page) page.value = window.location.pathname + window.location.search;
     });
   }
 
@@ -61,9 +78,48 @@
     else if (kind === 'phone') track('phone_click', cfg.labels && cfg.labels.phone);
   }, { passive: true });
 
+  // 邮箱两次输入不一致就地拦下：拦在提交前，客户还能改；发出去才发现就打水漂了
+  function emailGuard(form) {
+    var main = form.querySelector('[data-email-main]');
+    var again = form.querySelector('[data-email-confirm]');
+    if (!main || !again) return true;
+    var box = again.parentNode.querySelector('.field__err');
+    if (!box) {
+      box = document.createElement('span');
+      box.className = 'field__err';
+      box.setAttribute('role', 'alert');
+      again.parentNode.appendChild(box);
+    }
+    var same = main.value.trim().toLowerCase() === again.value.trim().toLowerCase();
+    box.textContent = same ? '' : (cfg.emailMismatchText || 'The two email addresses do not match.');
+    if (!same) {
+      again.setAttribute('aria-invalid', 'true');
+      if (!again.value.trim()) box.textContent = cfg.emailMismatchText || 'The two email addresses do not match.';
+      return false;
+    }
+    again.removeAttribute('aria-invalid');
+    return true;
+  }
+
+  document.addEventListener('input', function (e) {
+    var t = e.target;
+    if (!t || !t.closest) return;
+    if (!t.closest('[data-email-main],[data-email-confirm]')) return;
+    var form = t.closest('form[data-inquiry]');
+    if (form) emailGuard(form);
+  }, true);
+
   document.addEventListener('submit', function (e) {
     var form = e.target.closest('form[data-inquiry]');
     if (!form) return;
+
+    if (!emailGuard(form)) {
+      e.preventDefault();
+      var bad = form.querySelector('[data-email-confirm]');
+      if (bad) bad.focus();
+      return;
+    }
+
     stampForms();
 
     var action = form.getAttribute('action') || '';
@@ -175,4 +231,38 @@
     e.preventDefault();
     show(gal, current(gal) + (e.key === 'ArrowRight' ? 1 : -1));
   });
+})();
+
+/* WhatsApp 悬浮按钮避让：一旦压住询价表单（含提交按钮）就淡出，避免挡住字段和误点 */
+(function () {
+  var wa = document.querySelector('.wa');
+  if (!wa) return;
+  var cards = document.querySelectorAll('form[data-inquiry]');
+  if (!cards.length) return;
+
+  function overlap(a, b) {
+    return !(a.right < b.left || a.left > b.right || a.bottom < b.top || a.top > b.bottom);
+  }
+
+  var pending = false;
+  function layout() {
+    pending = false;
+    var r = wa.getBoundingClientRect();
+    var hide = false;
+    for (var i = 0; i < cards.length; i++) {
+      var b = cards[i].getBoundingClientRect();
+      if (b.width && b.height && overlap(r, b)) { hide = true; break; }
+    }
+    wa.classList.toggle('is-away', hide);
+  }
+  function schedule() {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(layout);
+  }
+
+  window.addEventListener('scroll', schedule, { passive: true });
+  window.addEventListener('resize', schedule);
+  window.addEventListener('load', schedule);
+  schedule();
 })();

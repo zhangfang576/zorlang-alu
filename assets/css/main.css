@@ -148,6 +148,10 @@ textarea{min-height:88px;resize:vertical}
 .ok{border:1px solid #9dbb9d;background:#f2f8f2;padding:12px;border-radius:4px;font-size:.9rem;color:var(--text)}
 .form__err{border:1px solid #e0b4b4;background:#fdf2f2;padding:12px;border-radius:4px;font-size:.9rem;color:#8a2b2b;margin-top:10px}
 .form__err a{color:#8a2b2b;text-decoration:underline}
+.field__err{font-size:.8rem;color:var(--red);display:block;margin-top:2px}
+.field__err:empty{display:none}
+.box--dark .field__err,.sec--dark .field__err{color:#ff8f9c}
+input[aria-invalid="true"]{border-color:var(--red);outline:1px solid var(--red);outline-offset:0}
 .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
 
 /* news */
@@ -217,12 +221,13 @@ textarea{min-height:88px;resize:vertical}
 }
 
 /* WhatsApp 悬浮按钮：全站固定右侧、垂直居中 */
-.wa{position:fixed;right:26px;top:50%;bottom:auto;transform:translateY(-50%);z-index:90;
-  width:70px;height:70px;border-radius:50%;
+.wa{position:fixed;right:20px;top:50%;bottom:auto;transform:translateY(-50%);z-index:90;
+  width:62px;height:62px;border-radius:50%;
   background:#25d366;display:flex;align-items:center;justify-content:center;
   box-shadow:0 12px 28px rgba(0,0,0,.3),0 2px 6px rgba(0,0,0,.18);
-  transition:transform .18s ease,box-shadow .18s ease}
-.wa svg{width:40px;height:40px;fill:#fff;display:block}
+      transition:transform .18s ease,box-shadow .18s ease,opacity .18s ease}
+    .wa.is-away{opacity:0;transform:translateY(-50%) scale(.8);pointer-events:none}
+.wa svg{width:36px;height:36px;fill:#fff;display:block}
 .wa:hover{transform:translateY(-50%) scale(1.06);box-shadow:0 16px 34px rgba(0,0,0,.36)}
 .wa:focus-visible{outline:3px solid #fff;outline-offset:3px}
 .ft{padding-bottom:24px}
@@ -239,8 +244,9 @@ textarea{min-height:88px;resize:vertical}
 
 @media(max-width:760px){
   /* 窄屏改为右下角固定，避免垂直居中时压住 hero 正文 */
-  .wa{width:56px;height:56px;right:14px;top:auto;bottom:18px;transform:none}
-  .wa:hover{transform:scale(1.06)}
+  .wa{width:52px;height:52px;right:12px;top:auto;bottom:16px;transform:none}
+    .wa:hover{transform:scale(1.06)}
+    .wa.is-away{transform:scale(.8)}
   .wa svg{width:32px;height:32px}
   .ft{padding-bottom:24px}
   .cmp td,.cmp th{white-space:normal}
