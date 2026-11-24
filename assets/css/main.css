@@ -114,6 +114,10 @@ th[scope=row]{font-weight:600;color:var(--text2);width:38%}
 .box{border:1px solid var(--line2);border-radius:6px;padding:18px;background:#fff}
 .box--dark{background:var(--ink);border-color:var(--line);color:var(--fg)}
 .box--dark h3{color:#fff}
+/* 暗色卡片里的表单：标签与脚注必须换成浅色，否则深灰字压在深底上看不见 */
+.box--dark label,.sec--dark label{color:var(--fg2)}
+.box--dark .form__note,.sec--dark .form__note{color:var(--fg2)}
+.box--dark .req,.sec--dark .req{color:#ff8f9c}
 .note{font-size:.92rem;color:var(--text2)}
 .note--d{color:var(--fg2)}
 .kv{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;font-size:.98rem;margin:0}
@@ -140,7 +144,8 @@ textarea{min-height:88px;resize:vertical}
 .req{color:var(--red)}
 .form__row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .form__note{font-size:.8rem;color:var(--muted)}
-.ok{border:1px solid #9dbb9d;background:#f2f8f2;padding:12px;border-radius:4px;font-size:.9rem}
+/* 成功提示自带浅底，必须显式给深色字，否则继承暗色卡片的浅色字 → 白字白底看不见 */
+.ok{border:1px solid #9dbb9d;background:#f2f8f2;padding:12px;border-radius:4px;font-size:.9rem;color:var(--text)}
 .form__err{border:1px solid #e0b4b4;background:#fdf2f2;padding:12px;border-radius:4px;font-size:.9rem;color:#8a2b2b;margin-top:10px}
 .form__err a{color:#8a2b2b;text-decoration:underline}
 .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
