@@ -89,7 +89,8 @@
       "Inspección SGS o BV antes de la carga.",
       "Corte a medida, corte longitudinal, aserrado y anodizado propios.",
       "Embalaje de exportación fotografiado por palé."
-    ]
+    ],
+    "heroAlt": "Bobinas de aluminio apiladas en el almacén de una planta de laminación"
   },
   "products": {
     "h1": "Productos de aluminio por forma y aleación",
@@ -206,7 +207,8 @@
     "success": "Gracias: su consulta está lista para enviarse. Si su cliente de correo no se abrió, escríbanos directamente.",
     "privacy": "Al enviar, acepta que le contactemos en relación con esta consulta.",
     "sending": "Enviando…",
-    "error": "Algo falló. Escríbanos por correo:"
+    "error": "Algo falló. Escríbanos por correo:",
+    "placeholder": "Temple, ancho, longitud, acabado, puerto de destino"
   },
   "footer": {
     "about": "Aluminio en placa, bobina, papel de aluminio, barra, tubo y perfil, laminado y exportado desde Luoyang, Henan, China.",
@@ -230,5 +232,228 @@
     "tube": "Tubo de aluminio",
     "profile": "Perfil de aluminio",
     "foil": "Papel de aluminio"
+  },
+  "formPage": {
+    "alloysTitle": "Aleaciones que suministramos en esta forma",
+    "alloysSub": "Las medidas indicadas son la capacidad de laminación de cada grado, no una lista de existencias. Todo lo que quede fuera se conversa, no se rechaza.",
+    "faqTitle": "Lo que el comprador pregunta primero",
+    "relatedTitle": "Otras formas de producto",
+    "askTitle": "Envíe su especificación",
+    "askSub": "Con aleación, temple, espesor, ancho y cantidad basta para cotizar. Los planos son bienvenidos.",
+    "appsTitle": "Dónde se utiliza",
+    "lengthCol": "Longitud / embalaje"
+  },
+  "formPages": {
+    "sheet": {
+      "image": "plate",
+      "h1": "Chapa de aluminio: 0.2–6 mm, en bobina o cortada a medida",
+      "metaTitle": "Proveedor de chapa de aluminio — 0.2–6 mm, corte a medida | ZORLANG",
+      "metaDesc": "Chapa de aluminio en 1050, 1100, 3003, 3004, 5052, 5754 y 6061 de una laminadora china. Corte longitudinal al ancho, nivelada y cortada a medida, con certificado de colada en cada paquete.",
+      "lead": "La chapa es la banda de espesor que queda entre el papel de aluminio y la placa. La laminamos en la misma línea de 2,650 mm que la bobina y después la enviamos enrollada o la pasamos por una niveladora y la cortamos a la medida que pida.",
+      "body": [
+        "El temple es donde fallan la mayoría de los pedidos de chapa. H14 y H24 dan conformabilidad con resistencia moderada; H32 y H34 en 5052 aguantan el plegado y el servicio marino; O es para embutición profunda. Describa la operación en lugar del número de temple y le confirmamos el temple que sale intacto del otro lado.",
+        "El espesor se mide en línea, el ancho se corta longitudinalmente a la cifra que indique y cada paquete lleva un certificado de colada con la composición química y las propiedades mecánicas. La inspección de terceros SGS puede añadirse a cualquier envío."
+      ],
+      "note": "El espesor de chapa va de 0.2 a 6 mm. Por encima de eso, la misma aleación se suministra como placa.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "5005",
+        "5052",
+        "5754",
+        "6061",
+        "8011"
+      ],
+      "apps": [
+        "Envases y cierres",
+        "Señalización y placas de identificación",
+        "Paneles de carrocería",
+        "Armarios eléctricos",
+        "Frentes de fachada",
+        "Menaje de cocina y recipientes"
+      ],
+      "faq": [
+        [
+          "¿Cuál es el pedido mínimo?",
+          "Depende de la aleación, el temple y la medida. Envíe la especificación y le respondemos con una cantidad de existencias o con una cantidad de corrida de laminación. No publicamos un pedido mínimo único porque un pedido de 1050-O y uno de 6061-T6 no son el mismo trabajo."
+        ],
+        [
+          "¿Bobina o corte a medida?",
+          "Las dos. La bobina se envía en 2–8 t sobre un diámetro interior de 508 mm; el corte a medida se envía como chapas niveladas de hasta 2,650 mm de ancho, paletizadas para carga en contenedor."
+        ],
+        [
+          "¿Qué norma citará el certificado?",
+          "ASTM B209, EN 485-2 o GB/T 3880. Díganos contra cuál audita su cliente y el certificado de colada lo indicará."
+        ]
+      ],
+      "imageFile": "product-aluminum-sheet.jpg"
+    },
+    "plate": {
+      "image": "plate",
+      "h1": "Placa de aluminio: 6–150 mm, aserrada y mecanizada a medida",
+      "metaTitle": "Proveedor de placa de aluminio — 6–150 mm, 5083 y 6061 | ZORLANG",
+      "metaDesc": "Placa de aluminio de 6 a 150 mm en 5083, 6061-T651, 6082, 5052 y 7005. Aserrada a medida, cantos mecanizados y planitud comprobada antes del embalaje.",
+      "lead": "La placa empieza donde termina la chapa. La aserramos de 6 a 150 mm, en anchos de hasta 2,650 mm y largos de hasta 12,000 mm, y después mecanizamos los cantos o cortamos el contorno según su plano.",
+      "body": [
+        "La 5083 es la aleación de trabajo para servicio marino y criogénico: conserva su resistencia después de soldar y no necesita tratamiento térmico. La 6061-T651 es la que se especifica cuando la pieza se va a mecanizar. Donde la 5083 no aguanta —servicio en caliente, abrasión, más resistencia— la 5A06 y la 7005 cubren el hueco.",
+        "La tolerancia de espesor y la planitud deciden si una placa sirve o no. Medimos ambas antes del embalaje y, cuando un plano queda fuera de lo que una placa laminada puede mantener, lo decimos en lugar de enviar algo que falle en su planta."
+      ],
+      "note": "La placa se suministra de 6 a 150 mm. Por debajo de 6 mm, la misma aleación se suministra como chapa.",
+      "alloys": [
+        "3003",
+        "3004",
+        "5005",
+        "5052",
+        "5083",
+        "5754",
+        "5A06",
+        "6061",
+        "6082",
+        "7005"
+      ],
+      "apps": [
+        "Cascos y cubiertas marinas",
+        "Moldes y placas de utillaje",
+        "Virolas de recipientes a presión",
+        "Carrocerías de camión y remolque",
+        "Cartelas estructurales",
+        "Piezas mecanizadas"
+      ],
+      "faq": [
+        [
+          "¿Pueden suministrar placa con alivio de tensiones?",
+          "Indíquelo en la consulta. El alivio de tensiones y el ensayo por ultrasonidos están disponibles en los espesores mayores; ambos se cotizan por pedido y no se mantienen en existencias."
+        ],
+        [
+          "¿Qué medida pueden mecanizar?",
+          "Los cantos y los contornos se mecanizan según plano hasta 2,650 mm de ancho y 12,000 mm de largo. El taladrado y el escariado se cotizan junto con la placa."
+        ],
+        [
+          "¿Está disponible la 7075?",
+          "No. La 7075 está sujeta a control de exportación en el alcance de nuestros productos, así que no la cotizamos. La 7005 y la 6082 cubren la mayoría de los casos de resistencia por los que se pide la 7075."
+        ]
+      ]
+    },
+    "coil": {
+      "image": "coil",
+      "h1": "Bobina de aluminio: diámetro interior de 508 mm, 2–8 t, corte longitudinal al ancho",
+      "metaTitle": "Proveedor de bobina de aluminio — de 1050 a 8011, corte longitudinal | ZORLANG",
+      "metaDesc": "Bobina de aluminio en 1050, 1100, 3003, 3104, 5052, 5182, 5754 y 8011. Corte longitudinal al ancho, diámetro interior de 508 mm, 2–8 t, acabado de laminación, con recubrimiento o banda para papel de aluminio.",
+      "lead": "La bobina es como sale el aluminio de la laminadora antes de que nadie decida en qué se convierte. La suministramos enrollada sobre un diámetro interior de 508 mm, en 2–8 t, cortada longitudinalmente al ancho que necesita su perfiladora, con el estado del canto y la curvatura controlados en la cortadora longitudinal.",
+      "body": [
+        "Cada proceso posterior exige algo distinto a la bobina. La conformación por rodillos quiere ancho constante y canto sin rebaba. La banda para cuerpos de lata quiere el espesor tan ajustado que la pared se adelgace de forma uniforme. La banda para aletas quiere una superficie sin marcas de cilindro antes de llegar a la prensa de aletas. Díganos cuál de esos procesos tiene y la bobina se corta y se embala en consecuencia.",
+        "La banda de 8011 para papel de aluminio se envía sobre un diámetro interior de 76 mm o 152 mm en los espesores más finos. Las bobinas van de pie, flejadas y estibadas de modo que el diámetro interior siga redondo durante todo el transporte marítimo."
+      ],
+      "note": "La bobina se suministra en espesores de chapa y de placa. El corte a medida se hace en la misma línea.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "4045",
+        "4343",
+        "5005",
+        "5052",
+        "5182",
+        "5754",
+        "8011"
+      ],
+      "apps": [
+        "Conformación por rodillos y revestimiento",
+        "Banda para cuerpos y tapas de lata",
+        "Banda para aletas de climatización",
+        "Envoltura de cables",
+        "Cubiertas y paneles de fachada",
+        "Banda para papel de aluminio"
+      ],
+      "faq": [
+        [
+          "¿Pueden cortar longitudinalmente a mi ancho?",
+          "Sí. El ancho se fija en la cortadora longitudinal hasta 2,650 mm. El ancho mínimo de corte depende del espesor, así que incluya ambos en la consulta."
+        ],
+        [
+          "¿Qué rango de peso tiene la bobina?",
+          "De 2 a 8 t sobre un diámetro interior de 508 mm. Hay bobinas más ligeras para líneas que no admiten una pesada."
+        ],
+        [
+          "¿Suministran bobina con recubrimiento?",
+          "Se cotizan acabado de laminación, con recubrimiento y corte longitudinal al ancho. El color y el brillo del recubrimiento deben especificarse contra una muestra."
+        ]
+      ]
+    },
+    "extrusion": {
+      "image": "profile",
+      "h1": "Extrusión de aluminio: perfil, tubo y barra en 6xxx y 5xxx",
+      "metaTitle": "Proveedor de extrusión de aluminio — perfil, tubo, barra | ZORLANG",
+      "metaDesc": "Extrusiones de aluminio en 6061, 6063, 6005A, 6082 y 6101. Pared de 0.8–20 mm, sección hasta 400 mm, anodizado o acabado de laminación, corte hasta 12,000 mm.",
+      "lead": "La extrusión es la única forma en la que la geometría es suya. Prensamos perfil, tubo y barra en 6xxx y 5xxx, desde una pared de 0.8 mm hasta una sección de 400 mm, y cortamos hasta 12,000 mm.",
+      "body": [
+        "La 6063 es la opción por defecto para perfil arquitectónico: anodiza con limpieza y mantiene tolerancia en paredes finas. La 6061 y la 6082 soportan carga. La 6005A y la 6101 son las que se especifican cuando la sección es estructural y además tiene que conducir o soldar. Las matrices pueden fabricarse según su plano.",
+        "El anodizado, el corte y el taladrado se hacen en nuestras instalaciones, así que un perfil que necesita tres operaciones no viaja entre tres proveedores antes de embarcar."
+      ],
+      "note": "Las secciones extruidas se suministran hasta 12,000 mm. La barra y el tubo se cortan en las mismas prensas.",
+      "alloys": [
+        "3003",
+        "5005",
+        "5052",
+        "5083",
+        "5A06",
+        "6005A",
+        "6061",
+        "6063",
+        "6082",
+        "6101",
+        "7005"
+      ],
+      "apps": [
+        "Perfiles de ventana y fachada",
+        "Secciones para ferrocarril y transporte",
+        "Bastidores de máquina y protecciones",
+        "Disipadores de calor",
+        "Pasamanos y escaleras",
+        "Barra colectora y conductor"
+      ],
+      "faq": [
+        [
+          "¿Pueden prensar una matriz a medida?",
+          "Sí, según su plano. Envíe la sección con el espesor de pared y la aleación; el coste de la matriz y el plazo se cotizan junto con el precio de la extrusión."
+        ],
+        [
+          "¿En qué temple se envían las extrusiones?",
+          "T5 y T6 para 6xxx, O y H para 5xxx. El temple que conviene a la sección se confirma antes de cortar la matriz."
+        ],
+        [
+          "¿El anodizado está incluido?",
+          "El anodizado, el corte y el taladrado son todos propios. El espesor de la capa y el color se acuerdan contra una muestra antes de la corrida."
+        ]
+      ]
+    }
+  },
+  "specMap": {
+    "0.8 – 20 mm wall": "0.8 – 20 mm de pared",
+    "up to 1,800 mm": "hasta 1,800 mm",
+    "up to 2,650 mm": "hasta 2,650 mm",
+    "up to 400 mm section": "hasta 400 mm de sección",
+    "coil ID 508 mm · 2 – 8 t": "diámetro interior 508 mm · 2 – 8 t",
+    "coil ID 76 / 152 mm · up to 5 t": "diámetro interior 76 / 152 mm · hasta 5 t",
+    "up to 12,000 mm": "hasta 12,000 mm",
+    "Mill finish": "acabado de laminación",
+    "Coated": "recubierto",
+    "Slit to width": "corte longitudinal a medida",
+    "Turned": "torneado",
+    "Anodised": "anodizado",
+    "PVC coated": "recubierto de PVC",
+    "Powder coated": "pintura en polvo",
+    "Bright": "brillante",
+    "Lubricated": "lubricado",
+    "Tensile strength Rm": "resistencia a la tracción Rm",
+    "Yield strength Rp0.2": "límite elástico Rp0.2",
+    "Elongation A": "alargamiento A",
+    "Hardness": "dureza",
+    "remainder": "resto"
   }
 }

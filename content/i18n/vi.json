@@ -89,7 +89,8 @@
       "Kiểm định SGS hoặc BV trước khi xếp hàng.",
       "Cắt theo chiều dài, xẻ dải, cưa và anodizing tại nhà máy.",
       "Chụp ảnh đóng gói xuất khẩu theo từng pallet."
-    ]
+    ],
+    "heroAlt": "Các cuộn nhôm xếp chồng trong kho của nhà máy cán"
   },
   "products": {
     "h1": "Sản phẩm nhôm theo dạng và hợp kim",
@@ -206,7 +207,8 @@
     "success": "Cảm ơn bạn — yêu cầu của bạn đã sẵn sàng để gửi. Nếu ứng dụng email không mở, hãy gửi email trực tiếp cho chúng tôi.",
     "privacy": "Khi gửi, bạn đồng ý được liên hệ về yêu cầu này.",
     "sending": "Đang gửi…",
-    "error": "Đã xảy ra lỗi. Vui lòng gửi email cho chúng tôi:"
+    "error": "Đã xảy ra lỗi. Vui lòng gửi email cho chúng tôi:",
+    "placeholder": "Trạng thái, chiều rộng, chiều dài, bề mặt, cảng đến"
   },
   "footer": {
     "about": "Nhôm tấm, cuộn, lá, thanh, ống và thanh định hình, cán và xuất khẩu từ Lạc Dương, Hà Nam, Trung Quốc.",
@@ -230,5 +232,228 @@
     "tube": "Nhôm ống",
     "profile": "Nhôm định hình",
     "foil": "Lá nhôm"
+  },
+  "formPage": {
+    "alloysTitle": "Các mác chúng tôi cung cấp ở dạng này",
+    "alloysSub": "Kích thước dưới đây là khả năng của nhà máy cho từng mác, không phải danh mục tồn kho. Ngoài khoảng đó vẫn là trao đổi, không phải từ chối.",
+    "faqTitle": "Khách mua hỏi đầu tiên",
+    "relatedTitle": "Các dạng sản phẩm khác",
+    "askTitle": "Gửi thông số kỹ thuật",
+    "askSub": "Chỉ cần hợp kim, trạng thái, độ dày, chiều rộng và số lượng là đủ để báo giá. Có bản vẽ càng tốt.",
+    "appsTitle": "Ứng dụng",
+    "lengthCol": "Chiều dài / đóng gói"
+  },
+  "formPages": {
+    "sheet": {
+      "image": "plate",
+      "h1": "Nhôm tấm mỏng: 0.2–6 mm, dạng cuộn hoặc cắt theo chiều dài",
+      "metaTitle": "Nhôm tấm mỏng 0.2–6 mm, cắt theo chiều dài | ZORLANG",
+      "metaDesc": "Nhôm tấm mỏng 1050, 1100, 3003, 3004, 5052, 5754 và 6061 từ nhà máy tại Trung Quốc. Xẻ băng theo chiều rộng, làm phẳng và cắt theo chiều dài, mỗi bó kèm chứng chỉ thử nghiệm lô.",
+      "lead": "Tấm mỏng là dải độ dày nằm giữa lá và tấm dày. Chúng tôi cán trên cùng dây chuyền 2,650 mm với cuộn, sau đó hoặc giao ở dạng cuộn, hoặc cho qua máy làm phẳng và cắt đúng chiều dài bạn cần.",
+      "body": [
+        "Trạng thái là chỗ phần lớn đơn tấm mỏng bị sai. H14 và H24 cho khả năng tạo hình với độ bền vừa phải; H32 và H34 ở 5052 chịu được uốn và môi trường biển; O dùng cho dập sâu. Hãy mô tả công đoạn thay vì chỉ nêu ký hiệu trạng thái, chúng tôi sẽ xác nhận trạng thái nào đi qua công đoạn đó mà vẫn nguyên vẹn.",
+        "Độ dày được đo trực tuyến, chiều rộng được xẻ theo đúng con số của bạn, và mỗi bó hàng đều có chứng chỉ thử nghiệm lô ghi thành phần hoá học và cơ tính. Có thể thêm giám định bên thứ ba SGS cho bất kỳ lô hàng nào."
+      ],
+      "note": "Tấm mỏng có độ dày 0.2–6 mm. Trên mức đó, cùng mác được cung cấp dạng tấm dày.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "5005",
+        "5052",
+        "5754",
+        "6061",
+        "8011"
+      ],
+      "apps": [
+        "Bao bì và nắp đậy",
+        "Biển hiệu và bảng tên",
+        "Tấm thân xe",
+        "Tủ điện",
+        "Diềm kiến trúc",
+        "Dụng cụ nấu ăn và đồ gia dụng"
+      ],
+      "faq": [
+        [
+          "Đơn hàng tối thiểu là bao nhiêu?",
+          "Tuỳ hợp kim, trạng thái và kích thước. Gửi thông số kỹ thuật, chúng tôi sẽ phản hồi bằng số lượng tồn kho hoặc số lượng cho một mẻ cán. Chúng tôi không công bố một mức MOQ chung vì đơn 1050-O và đơn 6061-T6 không phải cùng một việc."
+        ],
+        [
+          "Cuộn hay cắt theo chiều dài?",
+          "Cả hai. Cuộn giao 2–8 t trên lõi 508 mm; hàng cắt theo chiều dài giao dưới dạng tấm đã làm phẳng, rộng tới 2,650 mm, đóng pallet để xếp container."
+        ],
+        [
+          "Chứng chỉ sẽ viện dẫn tiêu chuẩn nào?",
+          "ASTM B209, EN 485-2 hoặc GB/T 3880. Cho chúng tôi biết khách hàng của bạn đánh giá theo tiêu chuẩn nào, chứng chỉ thử nghiệm lô sẽ ghi đúng tiêu chuẩn đó."
+        ]
+      ],
+      "imageFile": "product-aluminum-sheet.jpg"
+    },
+    "plate": {
+      "image": "plate",
+      "h1": "Nhôm tấm dày: 6–150 mm, cưa và gia công theo kích thước",
+      "metaTitle": "Nhôm tấm dày 6–150 mm, 5083 & 6061 | ZORLANG",
+      "metaDesc": "Nhôm tấm dày từ 6 đến 150 mm với 5083, 6061-T651, 6082, 5052 và 7005. Cưa theo kích thước, gia công cạnh, kiểm tra độ phẳng trước khi đóng gói.",
+      "lead": "Tấm dày bắt đầu ở chỗ tấm mỏng kết thúc. Chúng tôi cưa từ 6 mm đến 150 mm, chiều rộng tới 2,650 mm và chiều dài tới 12,000 mm, sau đó gia công cạnh hoặc cắt đường bao theo bản vẽ của bạn.",
+      "body": [
+        "5083 là mác chủ lực cho kết cấu biển và siêu lạnh: giữ độ bền sau khi hàn và không cần nhiệt luyện. 6061-T651 là mác bạn chỉ định khi chi tiết sẽ được gia công cắt gọt. Ở chỗ 5083 không chịu nổi — làm việc ở nhiệt độ cao, mài mòn, cần độ bền cao hơn — 5A06 và 7005 lấp khoảng trống đó.",
+        "Dung sai độ dày và độ phẳng quyết định tấm có dùng được hay không. Chúng tôi đo cả hai trước khi đóng gói, và khi bản vẽ nằm ngoài khả năng của tấm cán, chúng tôi nói rõ thay vì giao món hàng sẽ hỏng tại xưởng của bạn."
+      ],
+      "note": "Tấm dày được cung cấp 6–150 mm. Dưới 6 mm, cùng mác được cung cấp dạng tấm mỏng.",
+      "alloys": [
+        "3003",
+        "3004",
+        "5005",
+        "5052",
+        "5083",
+        "5754",
+        "5A06",
+        "6061",
+        "6082",
+        "7005"
+      ],
+      "apps": [
+        "Vỏ tàu và boong",
+        "Khuôn và tấm làm đồ gá",
+        "Thân bình áp lực",
+        "Thùng xe tải và rơ-moóc",
+        "Gân kết cấu",
+        "Chi tiết gia công"
+      ],
+      "faq": [
+        [
+          "Có cung cấp tấm khử ứng suất không?",
+          "Hãy ghi rõ trong yêu cầu. Khử ứng suất và kiểm tra siêu âm có sẵn cho các tấm dày hơn; cả hai đều báo giá theo từng đơn chứ không giữ sẵn trong kho."
+        ],
+        [
+          "Gia công được kích thước bao nhiêu?",
+          "Cạnh và đường bao được gia công theo bản vẽ tới 2,650 mm chiều rộng và 12,000 mm chiều dài. Khoan và doa lỗ được báo giá cùng tấm."
+        ],
+        [
+          "Có 7075 không?",
+          "Không. 7075 thuộc diện kiểm soát xuất khẩu với phạm vi sản phẩm của chúng tôi nên chúng tôi không báo giá. 7005 và 6082 đáp ứng phần lớn trường hợp cần độ bền mà khách thường tìm 7075."
+        ]
+      ]
+    },
+    "coil": {
+      "image": "coil",
+      "h1": "Nhôm cuộn: lõi 508 mm, 2–8 t, xẻ băng theo chiều rộng",
+      "metaTitle": "Nhôm cuộn 1050 đến 8011, xẻ băng theo chiều rộng | ZORLANG",
+      "metaDesc": "Nhôm cuộn 1050, 1100, 3003, 3104, 5052, 5182, 5754 và 8011. Xẻ băng theo chiều rộng, lõi 508 mm, 2–8 t, bề mặt cán, phủ sơn hoặc phôi lá.",
+      "lead": "Cuộn là dạng nhôm rời khỏi máy cán trước khi ai đó quyết định nó sẽ thành gì. Chúng tôi cung cấp cuộn quấn trên lõi 508 mm, khối lượng 2–8 t, xẻ đúng chiều rộng máy tạo hình con lăn của bạn cần, với tình trạng mép và độ cong được kiểm soát tại máy xẻ băng.",
+      "body": [
+        "Mỗi công đoạn sau cán đặt ra một yêu cầu riêng cho cuộn. Tạo hình con lăn cần chiều rộng ổn định và mép không ba via. Phôi thân lon cần độ dày được giữ đủ chặt để thành lon mỏng đều. Phôi cánh tản nhiệt cần bề mặt không có vết cán trước khi vào máy dập cánh. Cho chúng tôi biết bạn chạy công đoạn nào, cuộn sẽ được xẻ và đóng gói phù hợp.",
+        "Phôi lá 8011 ở các độ dày mỏng hơn được giao trên lõi 76 mm hoặc 152 mm. Cuộn được xếp đứng (eye-to-sky), đai chắc và xếp hàng sao cho lõi vẫn tròn qua cả chu kỳ vận tải đường biển."
+      ],
+      "note": "Cuộn được cung cấp ở dải độ dày của tấm mỏng và tấm dày. Việc cắt theo chiều dài thực hiện trên cùng dây chuyền.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "4045",
+        "4343",
+        "5005",
+        "5052",
+        "5182",
+        "5754",
+        "8011"
+      ],
+      "apps": [
+        "Tạo hình con lăn và ốp bề mặt",
+        "Phôi thân và nắp lon",
+        "Phôi cánh tản nhiệt HVAC",
+        "Bọc cáp",
+        "Mái và tấm vách",
+        "Phôi lá"
+      ],
+      "faq": [
+        [
+          "Có xẻ đúng chiều rộng của tôi không?",
+          "Có. Chiều rộng được đặt tại máy xẻ tới 2,650 mm. Chiều rộng xẻ tối thiểu phụ thuộc độ dày, nên ghi cả hai trong yêu cầu."
+        ],
+        [
+          "Khối lượng cuộn trong khoảng nào?",
+          "2–8 t trên lõi 508 mm. Có cuộn nhẹ hơn cho dây chuyền không nhận được cuộn nặng."
+        ],
+        [
+          "Có cung cấp cuộn phủ sơn không?",
+          "Bề mặt cán, phủ sơn và xẻ theo chiều rộng đều được báo giá. Màu và độ bóng lớp phủ phải chỉ định theo mẫu."
+        ]
+      ]
+    },
+    "extrusion": {
+      "image": "profile",
+      "h1": "Nhôm đùn: thanh định hình, ống và thanh ở hệ 6xxx và 5xxx",
+      "metaTitle": "Nhôm đùn thanh định hình, ống, thanh | ZORLANG",
+      "metaDesc": "Nhôm đùn 6061, 6063, 6005A, 6082 và 6101. Thành 0.8–20 mm, tiết diện tới 400 mm, anod hoá hoặc bề mặt cán, cắt tới 12,000 mm.",
+      "lead": "Đùn là dạng duy nhất mà hình dạng do bạn quyết định. Chúng tôi ép thanh định hình, ống và thanh ở hệ 6xxx và 5xxx, từ thành 0.8 mm đến tiết diện 400 mm, và cắt tới 12,000 mm.",
+      "body": [
+        "6063 là mặc định cho thanh định hình kiến trúc: anod hoá sạch và giữ dung sai trên thành mỏng. 6061 và 6082 chịu tải. 6005A và 6101 là mác bạn chỉ định khi tiết diện vừa mang kết cấu vừa phải dẫn điện hoặc hàn được. Khuôn đùn có thể làm theo bản vẽ của bạn.",
+        "Anod hoá, cắt và khoan đều làm tại nhà máy, nên một thanh định hình cần ba công đoạn không phải đi qua ba nhà cung cấp trước khi xuất hàng."
+      ],
+      "note": "Tiết diện đùn được cung cấp tới 12,000 mm. Thanh và ống được cắt từ cùng các máy ép.",
+      "alloys": [
+        "3003",
+        "5005",
+        "5052",
+        "5083",
+        "5A06",
+        "6005A",
+        "6061",
+        "6063",
+        "6082",
+        "6101",
+        "7005"
+      ],
+      "apps": [
+        "Thanh định hình cửa và mặt dựng",
+        "Tiết diện đường sắt và giao thông",
+        "Khung máy và vỏ bảo vệ",
+        "Tản nhiệt",
+        "Lan can và thang",
+        "Thanh cái và dây dẫn"
+      ],
+      "faq": [
+        [
+          "Có ép khuôn riêng không?",
+          "Có, theo bản vẽ của bạn. Gửi tiết diện kèm độ dày thành và mác; chi phí khuôn và thời gian làm khuôn được báo giá cùng giá đùn."
+        ],
+        [
+          "Thanh đùn giao ở trạng thái nào?",
+          "T5 và T6 cho hệ 6xxx, O và H cho hệ 5xxx. Trạng thái phù hợp với tiết diện được xác nhận trước khi cắt khuôn."
+        ],
+        [
+          "Có bao gồm anod hoá không?",
+          "Anod hoá, cắt và khoan đều làm tại nhà máy. Độ dày và màu lớp phủ được thống nhất theo mẫu trước khi chạy hàng."
+        ]
+      ]
+    }
+  },
+  "specMap": {
+    "0.8 – 20 mm wall": "dày thành 0.8 – 20 mm",
+    "up to 1,800 mm": "tối đa 1,800 mm",
+    "up to 2,650 mm": "tối đa 2,650 mm",
+    "up to 400 mm section": "tối đa 400 mm tiết diện",
+    "coil ID 508 mm · 2 – 8 t": "lõi 508 mm · 2 – 8 t",
+    "coil ID 76 / 152 mm · up to 5 t": "lõi 76 / 152 mm · tối đa 5 t",
+    "up to 12,000 mm": "tối đa 12,000 mm",
+    "Mill finish": "bề mặt cán",
+    "Coated": "phủ lớp",
+    "Slit to width": "xẻ băng theo chiều rộng",
+    "Turned": "tiện",
+    "Anodised": "anod hoá",
+    "PVC coated": "phủ PVC",
+    "Powder coated": "sơn tĩnh điện",
+    "Bright": "sáng bóng",
+    "Lubricated": "bôi trơn",
+    "Tensile strength Rm": "độ bền kéo Rm",
+    "Yield strength Rp0.2": "giới hạn chảy Rp0.2",
+    "Elongation A": "độ giãn dài A",
+    "Hardness": "độ cứng",
+    "remainder": "phần còn lại"
   }
 }

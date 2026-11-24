@@ -89,7 +89,8 @@
       "SGS- oder BV-Prüfung vor der Verladung.",
       "Zuschnitt, Längsteilen, Sägen und Eloxieren im Haus.",
       "Exportverpackung, fotografiert pro Palette."
-    ]
+    ],
+    "heroAlt": "Gestapelte Aluminiumcoils im Lager eines Walzwerks"
   },
   "products": {
     "h1": "Aluminiumprodukte nach Form und Legierung",
@@ -206,7 +207,8 @@
     "success": "Danke — Ihre Anfrage ist zum Senden bereit. Falls sich Ihr E-Mail-Programm nicht geöffnet hat, schreiben Sie uns direkt.",
     "privacy": "Mit dem Absenden erklären Sie sich mit einer Kontaktaufnahme zu dieser Anfrage einverstanden.",
     "sending": "Wird gesendet…",
-    "error": "Etwas ist schiefgelaufen. Schreiben Sie uns bitte:"
+    "error": "Etwas ist schiefgelaufen. Schreiben Sie uns bitte:",
+    "placeholder": "Zustand, Breite, Länge, Oberfläche, Bestimmungshafen"
   },
   "footer": {
     "about": "Aluminiumblech, Coil, Folie, Rundstab, Rohr und Profil, gewalzt und exportiert aus Luoyang, Henan, China.",
@@ -230,5 +232,228 @@
     "tube": "Aluminiumrohr",
     "profile": "Aluminiumprofil",
     "foil": "Aluminiumfolie"
+  },
+  "formPage": {
+    "alloysTitle": "Legierungen in dieser Form",
+    "alloysSub": "Die Abmessungen unten sind die Werksmöglichkeit je Güte, keine Lagerliste. Was darüber hinausgeht, ist ein Gespräch und keine Absage.",
+    "faqTitle": "Was Einkäufer zuerst fragen",
+    "relatedTitle": "Andere Produktformen",
+    "askTitle": "Spezifikation senden",
+    "askSub": "Legierung, Zustand, Dicke, Breite und Menge genügen für ein Angebot. Zeichnungen willkommen.",
+    "appsTitle": "Wohin es geht",
+    "lengthCol": "Länge / Verpackung"
+  },
+  "formPages": {
+    "sheet": {
+      "image": "plate",
+      "h1": "Aluminiumblech: 0.2–6 mm, als Coil oder auf Länge geschnitten",
+      "metaTitle": "Aluminiumblech-Lieferant — 0.2–6 mm, Zuschnitt | ZORLANG",
+      "metaDesc": "Aluminiumblech in 1050, 1100, 3003, 3004, 5052, 5754 und 6061 aus einem chinesischen Werk. Auf Breite längsgeteilt, gerichtet und auf Länge geschnitten, Werkszeugnis mit jedem Bund.",
+      "lead": "Blech ist das Dickenband zwischen Folie und Platte. Wir walzen es auf derselben 2.650-mm-Linie wie Coil und liefern es entweder gewickelt oder richten es und schneiden es auf Ihre Länge.",
+      "body": [
+        "Am Zustand gehen die meisten Blechbestellungen schief. H14 und H24 geben Umformbarkeit bei mittlerer Festigkeit, H32 und H34 in 5052 überstehen Biegen und Marineservice, O ist für das Tiefziehen. Beschreiben Sie den Arbeitsgang statt der Zustandsnummer, und wir bestätigen den Zustand, der ihn unbeschadet übersteht.",
+        "Die Dicke wird online gemessen, die Breite auf Ihr Maß längsgeteilt, und jedes Bund trägt ein Werkszeugnis mit Chemie und mechanischen Kennwerten. Drittprüfung durch SGS ist zu jeder Lieferung möglich."
+      ],
+      "note": "Blech läuft von 0.2–6 mm. Darüber wird dieselbe Legierung als Platte geliefert.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "5005",
+        "5052",
+        "5754",
+        "6061",
+        "8011"
+      ],
+      "apps": [
+        "Verpackung und Verschlüsse",
+        "Beschilderung und Typenschilder",
+        "Karosseriebleche",
+        "Elektrogehäuse",
+        "Architekturfassaden",
+        "Kochgeschirr und Hohlware"
+      ],
+      "faq": [
+        [
+          "Wie hoch ist die Mindestbestellmenge?",
+          "Das hängt von Legierung, Zustand und Abmessung ab. Senden Sie die Spezifikation, und wir antworten mit einer Lager- oder einer Walzmenge. Eine feste Mindestmenge nennen wir nicht, weil ein Auftrag 1050-O und ein Auftrag 6061-T6 nicht dieselbe Arbeit sind."
+        ],
+        [
+          "Coil oder Zuschnitt?",
+          "Beides. Coil geht mit 2–8 t auf 508 mm Innendurchmesser raus, Zuschnitt als gerichtete Bleche bis 2.650 mm Breite, palettiert für die Containerverladung."
+        ],
+        [
+          "Welche Norm nennt das Zeugnis?",
+          "ASTM B209, EN 485-2 oder GB/T 3880. Sagen Sie uns, gegen welche Norm Ihr Kunde auditiert, und das Werkszeugnis nennt sie."
+        ]
+      ],
+      "imageFile": "product-aluminum-sheet.jpg"
+    },
+    "plate": {
+      "image": "plate",
+      "h1": "Aluminiumplatte: 6–150 mm, gesägt und auf Maß bearbeitet",
+      "metaTitle": "Aluminiumplatten-Lieferant — 6–150 mm, 5083 & 6061 | ZORLANG",
+      "metaDesc": "Aluminiumplatte von 6 bis 150 mm in 5083, 6061-T651, 6082, 5052 und 7005. Auf Maß gesägt, Kanten bearbeitet, Planheit vor der Verpackung geprüft.",
+      "lead": "Platte beginnt, wo Blech aufhört. Wir sägen sie von 6 mm bis 150 mm, in Breiten bis 2.650 mm und Längen bis 12.000 mm, und bearbeiten danach die Kanten oder schneiden die Kontur nach Ihrer Zeichnung.",
+      "body": [
+        "5083 ist das Arbeitstier für Marine- und Kryotechnik: Sie behält ihre Festigkeit nach dem Schweißen und braucht keine Wärmebehandlung. 6061-T651 spezifizieren Sie, wenn das Teil spanend bearbeitet wird. Wo 5083 nicht trägt — Heißbetrieb, Abrieb, höhere Festigkeit — decken 5A06 und 7005 die Lücke.",
+        "Dicketoleranz und Planheit entscheiden, ob eine Platte überhaupt brauchbar ist. Wir messen beides vor der Verpackung, und wenn eine Zeichnung außerhalb dessen liegt, was eine gewalzte Platte halten kann, sagen wir es, statt etwas zu liefern, das in Ihrer Fertigung durchfällt."
+      ],
+      "note": "Platte wird von 6–150 mm geliefert. Unter 6 mm kommt dieselbe Legierung als Blech.",
+      "alloys": [
+        "3003",
+        "3004",
+        "5005",
+        "5052",
+        "5083",
+        "5754",
+        "5A06",
+        "6061",
+        "6082",
+        "7005"
+      ],
+      "apps": [
+        "Schiffsrümpfe und Decks",
+        "Formen und Werkzeugplatten",
+        "Druckbehältermäntel",
+        "Lkw- und Anhängeraufbauten",
+        "Strukturknotenbleche",
+        "Spanend bearbeitete Teile"
+      ],
+      "faq": [
+        [
+          "Liefern Sie spannungsarmgeglühte Platte?",
+          "Sagen Sie es in der Anfrage. Spannungsarmglühen und Ultraschallprüfung sind bei den dickeren Querschnitten möglich; beides wird je Auftrag kalkuliert und nicht auf Lager gehalten."
+        ],
+        [
+          "Welche Größe können Sie bearbeiten?",
+          "Kanten und Konturen werden nach Zeichnung bis 2.650 mm Breite und 12.000 mm Länge bearbeitet. Bohren und Aufsenken werden mit der Platte kalkuliert."
+        ],
+        [
+          "Ist 7075 lieferbar?",
+          "Nein. 7075 unterliegt in unserem Produktumfang der Exportkontrolle, deshalb bieten wir es nicht an. 7005 und 6082 decken die meisten Festigkeitsfälle ab, für die Einkäufer 7075 anfragen."
+        ]
+      ]
+    },
+    "coil": {
+      "image": "coil",
+      "h1": "Aluminiumcoil: 508 mm Innendurchmesser, 2–8 t, auf Breite längsgeteilt",
+      "metaTitle": "Aluminiumcoil-Lieferant — 1050 bis 8011, längsgeteilt | ZORLANG",
+      "metaDesc": "Aluminiumcoil in 1050, 1100, 3003, 3104, 5052, 5182, 5754 und 8011. Auf Breite längsgeteilt, 508 mm Innendurchmesser, 2–8 t, walzblank, beschichtet oder als Folienband.",
+      "lead": "Coil ist die Form, in der Aluminium das Werk verlässt, bevor entschieden ist, was daraus wird. Wir liefern es gewickelt auf 508 mm Innendurchmesser mit 2–8 t, längsgeteilt auf die Breite, die Ihr Rollformer braucht, mit Kantenbeschaffenheit und Bandkrümmung an der Längsteilanlage kontrolliert.",
+      "body": [
+        "Jeder nachgelagerte Prozess stellt eigene Anforderungen an das Coil. Rollformen will gleichbleibende Breite und eine gratfreie Kante. Dosenband will eine so eng gehaltene Dicke, dass die Wandung gleichmäßig dünner wird. Lamellenband will eine Oberfläche ohne Walzmarken, bevor es an die Lamellenpresse geht. Sagen Sie uns, was Sie fahren, und das Coil wird passend längsgeteilt und verpackt.",
+        "8011-Folienband geht bei den dünneren Dicken auf 76 mm oder 152 mm Innendurchmesser raus. Coils stehen aufrecht, sind umreift und so verladen, dass der Kern über einen Seefrachtzyklus rund bleibt."
+      ],
+      "note": "Coil wird in Blech- und Plattendicken geliefert. Der Zuschnitt läuft auf derselben Linie.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "4045",
+        "4343",
+        "5005",
+        "5052",
+        "5182",
+        "5754",
+        "8011"
+      ],
+      "apps": [
+        "Rollformen und Kaschieren",
+        "Dosenkörper- und Deckelband",
+        "Lamellenband für HLK",
+        "Kabelbewicklung",
+        "Dach- und Wandpaneele",
+        "Folienband"
+      ],
+      "faq": [
+        [
+          "Können Sie auf meine Breite längsteilen?",
+          "Ja. Die Breite wird an der Längsteilanlage bis 2.650 mm eingestellt. Die minimale Teilbreite hängt von der Dicke ab, nennen Sie beides in der Anfrage."
+        ],
+        [
+          "Welcher Coilgewichtsbereich ist möglich?",
+          "2–8 t auf 508 mm Innendurchmesser. Leichtere Coils sind für Linien möglich, die kein schweres aufnehmen können."
+        ],
+        [
+          "Liefern Sie beschichtetes Coil?",
+          "Walzblank, beschichtet und längsgeteilt wird alles angeboten. Farbe und Glanzgrad der Beschichtung müssen gegen ein Muster festgelegt werden."
+        ]
+      ]
+    },
+    "extrusion": {
+      "image": "profile",
+      "h1": "Aluminiumstrangpressprofil: Profil, Rohr und Stab in 6xxx und 5xxx",
+      "metaTitle": "Strangpress-Lieferant — Profil, Rohr, Stab | ZORLANG",
+      "metaDesc": "Aluminiumstrangpressprofile in 6061, 6063, 6005A, 6082 und 6101. Wand 0.8–20 mm, Querschnitt bis 400 mm, eloxiert oder walzblank, auf 12.000 mm geschnitten.",
+      "lead": "Strangpressen ist die eine Form, in der der Querschnitt von Ihnen kommt. Wir pressen Profil, Rohr und Stab in 6xxx und 5xxx, von 0.8 mm Wand bis 400 mm Querschnitt, und schneiden auf 12.000 mm.",
+      "body": [
+        "6063 ist der Standard für Architekturprofile: Es eloxiert sauber und hält die Toleranz auf dünnen Wänden. 6061 und 6082 tragen Last. 6005A und 6101 spezifizieren Sie, wenn der Querschnitt tragend ist und trotzdem leiten oder schweißen soll. Werkzeuge können nach Ihrer Zeichnung laufen.",
+        "Eloxieren, Sägen und Bohren laufen im Haus, ein Profil mit drei Arbeitsgängen wandert also nicht erst zwischen drei Zulieferern hin und her."
+      ],
+      "note": "Strangpressprofile werden bis 12.000 mm geliefert. Stab und Rohr kommen von denselben Pressen.",
+      "alloys": [
+        "3003",
+        "5005",
+        "5052",
+        "5083",
+        "5A06",
+        "6005A",
+        "6061",
+        "6063",
+        "6082",
+        "6101",
+        "7005"
+      ],
+      "apps": [
+        "Fenster- und Fassadenprofile",
+        "Bahn- und Transportprofile",
+        "Maschinenrahmen und Schutzverkleidungen",
+        "Kühlkörper",
+        "Handläufe und Leitern",
+        "Stromschienen und Leiter"
+      ],
+      "faq": [
+        [
+          "Pressen Sie ein Werkzeug nach Zeichnung?",
+          "Ja, nach Ihrer Zeichnung. Senden Sie den Querschnitt mit Wanddicke und Legierung; Werkzeugkosten und Lieferzeit kommen mit dem Strangpresspreis."
+        ],
+        [
+          "In welchem Zustand kommen die Strangpressprofile?",
+          "T5 und T6 bei 6xxx, O und H bei 5xxx. Der zum Querschnitt passende Zustand wird bestätigt, bevor das Werkzeug geschnitten wird."
+        ],
+        [
+          "Ist Eloxieren inbegriffen?",
+          "Eloxieren, Sägen und Bohren laufen komplett im Haus. Schichtdicke und Farbe werden vor dem Lauf gegen ein Muster abgestimmt."
+        ]
+      ]
+    }
+  },
+  "specMap": {
+    "0.8 – 20 mm wall": "0.8 – 20 mm Wandstärke",
+    "up to 1,800 mm": "bis 1,800 mm",
+    "up to 2,650 mm": "bis 2,650 mm",
+    "up to 400 mm section": "bis 400 mm Querschnitt",
+    "coil ID 508 mm · 2 – 8 t": "Innendurchmesser 508 mm · 2 – 8 t",
+    "coil ID 76 / 152 mm · up to 5 t": "Innendurchmesser 76 / 152 mm · bis 5 t",
+    "up to 12,000 mm": "bis 12,000 mm",
+    "Mill finish": "walzblank",
+    "Coated": "beschichtet",
+    "Slit to width": "längsgeteilt",
+    "Turned": "gedreht",
+    "Anodised": "eloxiert",
+    "PVC coated": "PVC-beschichtet",
+    "Powder coated": "pulverbeschichtet",
+    "Bright": "blank",
+    "Lubricated": "geschmiert",
+    "Tensile strength Rm": "Zugfestigkeit Rm",
+    "Yield strength Rp0.2": "Streckgrenze Rp0.2",
+    "Elongation A": "Bruchdehnung A",
+    "Hardness": "Härte",
+    "remainder": "Rest"
   }
 }

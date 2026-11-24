@@ -233,8 +233,10 @@ textarea{min-height:88px;resize:vertical}
 .cmp td,.cmp th{white-space:nowrap}
 
 @media(max-width:760px){
-  .wa{width:58px;height:58px;right:12px;top:50%;bottom:auto}
-  .wa svg{width:33px;height:33px}
+  /* 窄屏改为右下角固定，避免垂直居中时压住 hero 正文 */
+  .wa{width:56px;height:56px;right:14px;top:auto;bottom:18px;transform:none}
+  .wa:hover{transform:scale(1.06)}
+  .wa svg{width:32px;height:32px}
   .ft{padding-bottom:24px}
   .cmp td,.cmp th{white-space:normal}
 }
@@ -344,4 +346,23 @@ textarea{min-height:88px;resize:vertical}
 @media(max-width:760px){
   .post .tw table{min-width:560px}
   .post .tw td:last-child{min-width:180px}
+}
+
+/* 产品形态页：FAQ 折叠 */
+.faq{margin-top:14px;border-top:1px solid var(--line)}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{cursor:pointer;padding:15px 0;font-weight:700;list-style:none;
+  display:flex;justify-content:space-between;align-items:baseline;gap:18px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";color:var(--brass);font-weight:700;flex:none;font-size:1.1rem}
+.faq details[open] summary::after{content:"\2013"}
+.faq p{margin:0 0 18px;color:var(--text2);max-width:72ch;line-height:1.65}
+
+/* 产品形态页：相关形态链接按钮，字号比通用 pill 大一档 */
+.pill--lg{font-size:.92rem;padding:8px 16px;margin:0 8px 8px 0;line-height:1.5;
+  border:1px solid var(--line2);background:#f1eee9;color:var(--text2);text-decoration:none;
+  transition:background .15s,color .15s,border-color .15s}
+a.pill--lg:hover{background:var(--ink);color:#fff;border-color:var(--ink)}
+@media(max-width:760px){
+  .pill--lg{font-size:.88rem;padding:7px 13px}
 }

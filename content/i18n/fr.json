@@ -89,7 +89,8 @@
       "Inspection SGS ou BV avant chargement.",
       "Coupe à longueur, refendage, sciage et anodisation en interne.",
       "Emballage export photographié par palette."
-    ]
+    ],
+    "heroAlt": "Bobines d'aluminium empilées dans l'entrepôt d'une usine de laminage"
   },
   "products": {
     "h1": "Produits aluminium par forme et par alliage",
@@ -206,7 +207,8 @@
     "success": "Merci — votre demande est prête à être envoyée. Si votre client de messagerie ne s'est pas ouvert, écrivez-nous directement.",
     "privacy": "En envoyant, vous acceptez d'être contacté au sujet de cette demande.",
     "sending": "Envoi…",
-    "error": "Une erreur est survenue. Écrivez-nous plutôt :"
+    "error": "Une erreur est survenue. Écrivez-nous plutôt :",
+    "placeholder": "État, largeur, longueur, finition, port de destination"
   },
   "footer": {
     "about": "Aluminium en plaque, bobine, feuille, barre, tube et profilé, laminé et exporté depuis Luoyang, Henan, Chine.",
@@ -230,5 +232,228 @@
     "tube": "Tube aluminium",
     "profile": "Profilé aluminium",
     "foil": "Feuille d'aluminium"
+  },
+  "formPage": {
+    "alloysTitle": "Alliages fournis sous cette forme",
+    "alloysSub": "Les dimensions ci-dessous correspondent à la capacité du laminoir pour chaque nuance, pas à un état de stock. Ce qui sort de ces plages se discute, ce n'est pas un refus.",
+    "faqTitle": "Les premières questions des acheteurs",
+    "relatedTitle": "Autres formes de produit",
+    "askTitle": "Envoyez votre cahier des charges",
+    "askSub": "Alliage, état métallurgique, épaisseur, largeur et quantité suffisent pour chiffrer. Les plans sont bienvenus.",
+    "appsTitle": "Où va le métal",
+    "lengthCol": "Longueur / conditionnement"
+  },
+  "formPages": {
+    "sheet": {
+      "image": "plate",
+      "h1": "Tôle aluminium : 0.2–6 mm, en bobine ou coupée à longueur",
+      "metaTitle": "Fournisseur de tôle aluminium — 0.2–6 mm, coupe à longueur | ZORLANG",
+      "metaDesc": "Tôle aluminium en 1050, 1100, 3003, 3004, 5052, 5754 et 6061, produite par une usine chinoise. Refendue à largeur, planée et coupée à longueur, certificat de coulée avec chaque fardeau.",
+      "lead": "La tôle couvre la plage d'épaisseur entre la feuille et la plaque. Nous la laminons sur la même ligne de 2,650 mm que la bobine, puis nous l'expédions enroulée ou nous la passons en planeuse pour la couper à votre longueur.",
+      "body": [
+        "C'est sur l'état métallurgique que la plupart des commandes de tôle dérapent. H14 et H24 apportent de la formabilité avec une résistance modérée ; H32 et H34 en 5052 tiennent le pliage et le service marin ; O est destiné à l'emboutissage profond. Décrivez l'opération plutôt que le numéro d'état et nous confirmerons l'état qui en sort intact.",
+        "L'épaisseur est mesurée en ligne, la largeur est refendue à la cote demandée, et chaque fardeau porte un certificat de coulée indiquant la composition chimique et les caractéristiques mécaniques. Une inspection tierce SGS peut être ajoutée à toute expédition."
+      ],
+      "note": "La tôle va de 0.2 à 6 mm. Au-delà, le même alliage est fourni en plaque.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "5005",
+        "5052",
+        "5754",
+        "6061",
+        "8011"
+      ],
+      "apps": [
+        "Emballage et bouchons",
+        "Enseignes et plaques signalétiques",
+        "Panneaux de carrosserie",
+        "Armoires électriques",
+        "Bandeaux de façade",
+        "Articles culinaires et pièces creuses"
+      ],
+      "faq": [
+        [
+          "Quelle est la quantité minimum de commande ?",
+          "Cela dépend de l'alliage, de l'état métallurgique et des dimensions. Envoyez le cahier des charges et nous répondrons soit par une quantité en stock, soit par une quantité de laminage. Nous ne publions pas de MOQ unique, car une commande en 1050-O et une commande en 6061-T6 ne représentent pas le même travail."
+        ],
+        [
+          "En bobine ou coupée à longueur ?",
+          "Les deux. La bobine part en 2–8 t sur un alésage de 508 mm ; la coupe à longueur part en tôles planées jusqu'à 2,650 mm de large, palettisées pour le chargement en conteneur."
+        ],
+        [
+          "Quelle norme le certificat mentionnera-t-il ?",
+          "ASTM B209, EN 485-2 ou GB/T 3880. Indiquez celle sur laquelle votre client audite et le certificat de coulée la nommera."
+        ]
+      ],
+      "imageFile": "product-aluminum-sheet.jpg"
+    },
+    "plate": {
+      "image": "plate",
+      "h1": "Plaque aluminium : 6–150 mm, sciée et usinée à dimensions",
+      "metaTitle": "Fournisseur de plaque aluminium — 6–150 mm, 5083 et 6061 | ZORLANG",
+      "metaDesc": "Plaque aluminium de 6 à 150 mm en 5083, 6061-T651, 6082, 5052 et 7005. Sciée à dimensions, chants usinés, planéité contrôlée avant emballage.",
+      "lead": "La plaque commence là où la tôle s'arrête. Nous la scions de 6 mm à 150 mm, en largeurs jusqu'à 2,650 mm et longueurs jusqu'à 12,000 mm, puis nous usinons les chants ou découpons la forme selon votre plan.",
+      "body": [
+        "Le 5083 est la référence pour le marin et le cryogénique : il conserve sa résistance après soudage et ne demande aucun traitement thermique. Le 6061-T651 est la nuance à prescrire quand la pièce sera usinée. Là où le 5083 ne tient pas — service à chaud, abrasion, résistance plus élevée — le 5A06 et le 7005 comblent l'écart.",
+        "La tolérance d'épaisseur et la planéité décident si une plaque est utilisable ou non. Nous mesurons les deux avant emballage, et lorsqu'un plan sort de ce qu'une plaque laminée peut tenir, nous le disons plutôt que d'expédier une pièce qui échouera dans votre atelier."
+      ],
+      "note": "La plaque est fournie de 6 à 150 mm. En dessous de 6 mm, le même alliage est fourni en tôle.",
+      "alloys": [
+        "3003",
+        "3004",
+        "5005",
+        "5052",
+        "5083",
+        "5754",
+        "5A06",
+        "6061",
+        "6082",
+        "7005"
+      ],
+      "apps": [
+        "Coques et ponts marins",
+        "Moules et plaques d'outillage",
+        "Viroles d'appareils à pression",
+        "Caisses de camions et de remorques",
+        "Goussets structurels",
+        "Pièces usinées"
+      ],
+      "faq": [
+        [
+          "Pouvez-vous fournir de la plaque détensionnée ?",
+          "Précisez-le dans la demande. Le détensionnement et le contrôle par ultrasons sont disponibles sur les fortes épaisseurs ; les deux sont chiffrés par commande et non tenus en stock."
+        ],
+        [
+          "Quelles dimensions pouvez-vous usiner ?",
+          "Les chants et les contours sont usinés selon plan jusqu'à 2,650 mm de large et 12,000 mm de long. Le perçage et l'alésage sont chiffrés avec la plaque."
+        ],
+        [
+          "Le 7075 est-il disponible ?",
+          "Non. Le 7075 relève du contrôle des exportations pour notre gamme, nous ne le chiffrons donc pas. Le 7005 et le 6082 couvrent la plupart des cas de résistance pour lesquels les acheteurs demandent du 7075."
+        ]
+      ]
+    },
+    "coil": {
+      "image": "coil",
+      "h1": "Bobine aluminium : alésage 508 mm, 2–8 t, refendue à largeur",
+      "metaTitle": "Fournisseur de bobine aluminium — 1050 à 8011, refendue à largeur | ZORLANG",
+      "metaDesc": "Bobine aluminium en 1050, 1100, 3003, 3104, 5052, 5182, 5754 et 8011. Refendue à largeur, alésage 508 mm, 2–8 t, brut de laminage, revêtue ou bande pour feuille.",
+      "lead": "La bobine est la forme sous laquelle l'aluminium quitte le laminoir avant que quiconque décide de ce qu'il deviendra. Nous la fournissons enroulée sur un alésage de 508 mm, en 2–8 t, refendue à la largeur dont votre profileuse a besoin, avec l'état des chants et la flèche contrôlés au refendeur.",
+      "body": [
+        "Chaque procédé en aval impose sa propre exigence à la bobine. Le profilage demande une largeur régulière et un chant sans bavure. Le corps de boîte demande une épaisseur tenue assez serrée pour que la paroi s'amincisse régulièrement. La bande pour ailettes demande une surface sans marques de cylindre avant la presse à ailettes. Dites-nous lequel de ces procédés vous faites tourner et la bobine est refendue et emballée en conséquence.",
+        "La bande pour feuille en 8011 part sur un alésage de 76 mm ou 152 mm pour les épaisseurs les plus fines. Les bobines sont posées œil au ciel, cerclées et chargées de façon que l'alésage reste rond pendant un cycle de fret maritime."
+      ],
+      "note": "La bobine est fournie dans les épaisseurs de tôle et de plaque. La coupe à longueur se fait sur la même ligne.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "4045",
+        "4343",
+        "5005",
+        "5052",
+        "5182",
+        "5754",
+        "8011"
+      ],
+      "apps": [
+        "Profilage et bardage",
+        "Corps de boîtes et couvercles",
+        "Bande pour ailettes CVC",
+        "Blindage de câbles",
+        "Toitures et panneaux muraux",
+        "Bande pour feuille"
+      ],
+      "faq": [
+        [
+          "Pouvez-vous refendre à ma largeur ?",
+          "Oui. La largeur se règle au refendeur jusqu'à 2,650 mm. La largeur minimale de refendage dépend de l'épaisseur : indiquez les deux dans la demande."
+        ],
+        [
+          "Quelle est la plage de poids des bobines ?",
+          "2–8 t sur un alésage de 508 mm. Des bobines plus légères sont disponibles pour les lignes qui ne peuvent pas recevoir une bobine lourde."
+        ],
+        [
+          "Fournissez-vous de la bobine revêtue ?",
+          "Brut de laminage, revêtue et refendue à largeur sont tous chiffrés. La couleur et le brillant du revêtement doivent être spécifiés sur échantillon."
+        ]
+      ]
+    },
+    "extrusion": {
+      "image": "profile",
+      "h1": "Filage aluminium : profilé, tube et barre en 6xxx et 5xxx",
+      "metaTitle": "Fournisseur de filage aluminium — profilé, tube et barre | ZORLANG",
+      "metaDesc": "Profilés aluminium extrudés en 6061, 6063, 6005A, 6082 et 6101. Paroi 0.8–20 mm, section jusqu'à 400 mm, anodisés ou bruts de laminage, coupés à 12,000 mm.",
+      "lead": "Le filage est la seule forme où la géométrie est la vôtre. Nous pressons profilé, tube et barre en 6xxx et 5xxx, d'une paroi de 0.8 mm à une section de 400 mm, et nous coupons à 12,000 mm.",
+      "body": [
+        "Le 6063 est la solution par défaut pour le profilé architectural : il s'anodise proprement et tient la tolérance sur les parois minces. Le 6061 et le 6082 reprennent les charges. Le 6005A et le 6101 sont à prescrire quand la section est structurelle et doit encore conduire ou se souder. Les filières peuvent être réalisées selon votre plan.",
+        "L'anodisation, la coupe et le perçage sont réalisés en interne : un profilé qui demande trois opérations ne circule pas entre trois fournisseurs avant d'être expédié."
+      ],
+      "note": "Les sections extrudées sont fournies jusqu'à 12,000 mm. Barres et tubes sont coupés sur les mêmes presses.",
+      "alloys": [
+        "3003",
+        "5005",
+        "5052",
+        "5083",
+        "5A06",
+        "6005A",
+        "6061",
+        "6063",
+        "6082",
+        "6101",
+        "7005"
+      ],
+      "apps": [
+        "Profilés de fenêtres et de façades",
+        "Profilés ferroviaires et de transport",
+        "Bâtis de machines et protecteurs",
+        "Dissipateurs thermiques",
+        "Mains courantes et échelles",
+        "Barres omnibus et conducteurs"
+      ],
+      "faq": [
+        [
+          "Pouvez-vous presser une filière sur mesure ?",
+          "Oui, selon votre plan. Envoyez la section avec l'épaisseur de paroi et l'alliage ; le coût de la filière et le délai sont chiffrés avec le prix du profilé."
+        ],
+        [
+          "Dans quels états les profilés sont-ils expédiés ?",
+          "T5 et T6 pour les 6xxx, O et H pour les 5xxx. L'état adapté à la section est confirmé avant l'usinage de la filière."
+        ],
+        [
+          "L'anodisation est-elle incluse ?",
+          "Anodisation, coupe et perçage sont tous réalisés en interne. L'épaisseur et la couleur du revêtement sont convenues sur échantillon avant la série."
+        ]
+      ]
+    }
+  },
+  "specMap": {
+    "0.8 – 20 mm wall": "0.8 – 20 mm d'épaisseur de paroi",
+    "up to 1,800 mm": "jusqu'à 1,800 mm",
+    "up to 2,650 mm": "jusqu'à 2,650 mm",
+    "up to 400 mm section": "jusqu'à 400 mm de section",
+    "coil ID 508 mm · 2 – 8 t": "alésage 508 mm · 2 – 8 t",
+    "coil ID 76 / 152 mm · up to 5 t": "alésage 76 / 152 mm · jusqu'à 5 t",
+    "up to 12,000 mm": "jusqu'à 12,000 mm",
+    "Mill finish": "brut de laminage",
+    "Coated": "revêtu",
+    "Slit to width": "refendu à largeur",
+    "Turned": "tourné",
+    "Anodised": "anodisé",
+    "PVC coated": "revêtu PVC",
+    "Powder coated": "thermolaqué",
+    "Bright": "brillant",
+    "Lubricated": "lubrifié",
+    "Tensile strength Rm": "résistance à la traction Rm",
+    "Yield strength Rp0.2": "limite d'élasticité Rp0.2",
+    "Elongation A": "allongement A",
+    "Hardness": "dureté",
+    "remainder": "reste"
   }
 }

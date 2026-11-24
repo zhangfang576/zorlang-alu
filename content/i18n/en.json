@@ -90,7 +90,8 @@
       "Cut-to-length, slitting, sawing and anodising in-house.",
       "Export packing photographed per pallet."
     ],
-    "metaDesc": "Aluminium (aluminum) sheet, plate, coil, foil, bar, tube and profile from a mill in Luoyang, China. 23 alloys, mill test certificate, cut to size."
+    "metaDesc": "Aluminium (aluminum) sheet, plate, coil, foil, bar, tube and profile from a mill in Luoyang, China. 23 alloys, mill test certificate, cut to size.",
+    "heroAlt": "Aluminium coils stacked in the warehouse of a rolling mill"
   },
   "products": {
     "h1": "Aluminium products by form and alloy",
@@ -225,7 +226,8 @@
     "success": "Thanks — your inquiry is ready to send. If your mail client did not open, email us directly.",
     "privacy": "By sending you agree to be contacted about this inquiry.",
     "sending": "Sending…",
-    "error": "Something went wrong. Please email us instead:"
+    "error": "Something went wrong. Please email us instead:",
+    "placeholder": "Temper, width, length, surface, destination port"
   },
   "footer": {
     "about": "Aluminium plate, coil, foil, bar, tube and extrusion, rolled and exported from Luoyang, Henan, China.",
@@ -249,5 +251,205 @@
     "tube": "Aluminium tube & pipe",
     "profile": "Aluminium profile",
     "foil": "Aluminium foil"
+  },
+  "formPage": {
+    "alloysTitle": "Alloys we supply in this form",
+    "alloysSub": "Sizes below are the mill capability for each grade, not a stock list. Anything outside them is a conversation, not a rejection.",
+    "faqTitle": "What buyers ask first",
+    "relatedTitle": "Other product forms",
+    "askTitle": "Send your specification",
+    "askSub": "Alloy, temper, thickness, width and quantity is enough to quote from. Drawings welcome.",
+    "appsTitle": "Where it goes",
+    "lengthCol": "Length / packing"
+  },
+  "formPages": {
+    "sheet": {
+      "image": "plate",
+      "h1": "Aluminium sheet: 0.2–6 mm, in coil or cut to length",
+      "metaTitle": "Aluminium Sheet Supplier — 0.2–6 mm, Cut to Length | ZORLANG",
+      "metaDesc": "Aluminium sheet in 1050, 1100, 3003, 3004, 5052, 5754 and 6061 from a Chinese mill. Slit to width, levelled and cut to length, mill test certificate with every bundle.",
+      "lead": "Sheet is the gauge band between foil and plate. We roll it on the same 2,650 mm line as coil, then either ship it wound or run it through a leveller and cut it to your length.",
+      "body": [
+        "Temper is where most sheet orders go wrong. H14 and H24 give formability with moderate strength; H32 and H34 in 5052 survive bending and marine service; O is for deep drawing. Describe the operation rather than the temper number and we will confirm the temper that comes out the other side intact.",
+        "Thickness is gauged on line, width is slit to your figure, and each bundle carries a mill test certificate listing chemistry and mechanicals. SGS third-party inspection can be added to any shipment."
+      ],
+      "note": "Sheet gauge runs 0.2–6 mm. Above that the same alloy is supplied as plate.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "5005",
+        "5052",
+        "5754",
+        "6061",
+        "8011"
+      ],
+      "apps": [
+        "Packaging and closures",
+        "Signage and nameplates",
+        "Vehicle body panels",
+        "Electrical enclosures",
+        "Architectural fascia",
+        "Cookware and holloware"
+      ],
+      "faq": [
+        [
+          "What is the minimum order?",
+          "It depends on alloy, temper and size. Send the specification and we will come back with either a stock quantity or a mill-run quantity. We do not publish one MOQ because a 1050-O order and a 6061-T6 order are not the same job."
+        ],
+        [
+          "Coil or cut-to-length?",
+          "Both. Coil ships 2–8 t on a 508 mm bore; cut-to-length ships as levelled sheets up to 2,650 mm wide, palleted for container loading."
+        ],
+        [
+          "Which standard will the certificate cite?",
+          "ASTM B209, EN 485-2 or GB/T 3880. Tell us which one your customer audits against and the mill test certificate will name it."
+        ]
+      ],
+      "imageFile": "product-aluminum-sheet.jpg"
+    },
+    "plate": {
+      "image": "plate",
+      "h1": "Aluminium plate: 6–150 mm, sawn and machined to size",
+      "metaTitle": "Aluminium Plate Supplier — 6–150 mm, 5083 & 6061 | ZORLANG",
+      "metaDesc": "Aluminium plate from 6 to 150 mm in 5083, 6061-T651, 6082, 5052 and 7005. Sawn to size, edges machined, flatness checked before packing.",
+      "lead": "Plate begins where sheet ends. We saw it from 6 mm through 150 mm, in widths to 2,650 mm and lengths to 12,000 mm, then machine the edges or cut the outline on your drawing.",
+      "body": [
+        "5083 is the workhorse for marine and cryogenic work: it keeps its strength after welding and needs no heat treatment. 6061-T651 is what you specify when the part will be machined. Where 5083 will not hold up — hot service, abrasion, higher strength — 5A06 and 7005 cover the gap.",
+        "Thickness tolerance and flatness decide whether a plate is usable at all. We measure both before packing, and when a drawing sits outside what a rolled plate can hold we say so instead of shipping something that fails on your floor."
+      ],
+      "note": "Plate is supplied 6–150 mm. Below 6 mm the same alloy is supplied as sheet.",
+      "alloys": [
+        "3003",
+        "3004",
+        "5005",
+        "5052",
+        "5083",
+        "5754",
+        "5A06",
+        "6061",
+        "6082",
+        "7005"
+      ],
+      "apps": [
+        "Marine hulls and decking",
+        "Moulds and tooling plates",
+        "Pressure vessel shells",
+        "Truck and trailer bodies",
+        "Structural gussets",
+        "Machined components"
+      ],
+      "faq": [
+        [
+          "Can you supply stress-relieved plate?",
+          "Say so on the enquiry. Stress relief and ultrasonic testing are available on the thicker sections; both are quoted per order rather than held in stock."
+        ],
+        [
+          "What size can you machine?",
+          "Edges and outlines are machined to drawing up to 2,650 mm wide and 12,000 mm long. Drilling and counterboring are quoted with the plate."
+        ],
+        [
+          "Is 7075 available?",
+          "No. 7075 sits under export control for our product scope, so we do not quote it. 7005 and 6082 cover most of the strength cases buyers ask 7075 for."
+        ]
+      ]
+    },
+    "coil": {
+      "image": "coil",
+      "h1": "Aluminium coil: 508 mm bore, 2–8 t, slit to width",
+      "metaTitle": "Aluminium Coil Supplier — 1050 to 8011, Slit to Width | ZORLANG",
+      "metaDesc": "Aluminium coil in 1050, 1100, 3003, 3104, 5052, 5182, 5754 and 8011. Slit to width, 508 mm bore, 2–8 t, mill finish, coated or foil stock.",
+      "lead": "Coil is how aluminium leaves the mill before anyone decides what it becomes. We supply it wound on a 508 mm bore at 2–8 t, slit to the width your roll former needs, with edge condition and camber controlled at the slitter.",
+      "body": [
+        "Every downstream process puts its own demand on the coil. Roll forming wants consistent width and a burr-free edge. Can body stock wants gauge held tight enough that the wall thins evenly. Fin stock wants a surface free of roll marks before it reaches the fin press. Tell us which of those you run and the coil is slit and packed to suit it.",
+        "8011 foil stock ships on a 76 mm or 152 mm bore for the thinner gauges. Coils are eye-to-sky, strapped, and loaded so the bore stays round through a sea freight cycle."
+      ],
+      "note": "Coil is supplied in sheet and plate gauges. Cutting to length is done on the same line.",
+      "alloys": [
+        "1050",
+        "1100",
+        "3003",
+        "3004",
+        "3104",
+        "4045",
+        "4343",
+        "5005",
+        "5052",
+        "5182",
+        "5754",
+        "8011"
+      ],
+      "apps": [
+        "Roll forming and cladding",
+        "Can body and lid stock",
+        "HVAC fin stock",
+        "Cable wrapping",
+        "Roofing and wall panels",
+        "Foil stock"
+      ],
+      "faq": [
+        [
+          "Can you slit to my width?",
+          "Yes. Width is set at the slitter up to 2,650 mm. Minimum slit width depends on gauge, so include both in the enquiry."
+        ],
+        [
+          "What is the coil weight range?",
+          "2–8 t on a 508 mm bore. Lighter coils are available for lines that cannot take a heavy one."
+        ],
+        [
+          "Do you supply coated coil?",
+          "Mill finish, coated and slit-to-width are all quoted. Coating colour and gloss have to be specified against a sample."
+        ]
+      ]
+    },
+    "extrusion": {
+      "image": "profile",
+      "h1": "Aluminium extrusion: profile, tube and bar in 6xxx and 5xxx",
+      "metaTitle": "Aluminium Extrusion Supplier — Profile, Tube, Bar | ZORLANG",
+      "metaDesc": "Aluminium extrusions in 6061, 6063, 6005A, 6082 and 6101. Wall 0.8–20 mm, section up to 400 mm, anodised or mill finish, cut to 12,000 mm.",
+      "lead": "Extrusion is the one form where the shape is yours. We press profile, tube and bar in 6xxx and 5xxx, from a 0.8 mm wall to a 400 mm section, and cut to 12,000 mm.",
+      "body": [
+        "6063 is the default for architectural profile: it anodises cleanly and holds tolerance on thin walls. 6061 and 6082 carry load. 6005A and 6101 are what you specify when the section is structural and still has to conduct or weld. Dies can be run to your drawing.",
+        "Anodising, cutting and drilling are done in house, so a profile that needs three operations does not travel between three suppliers before it ships."
+      ],
+      "note": "Extruded sections are supplied to 12,000 mm. Bar and tube are cut from the same presses.",
+      "alloys": [
+        "3003",
+        "5005",
+        "5052",
+        "5083",
+        "5A06",
+        "6005A",
+        "6061",
+        "6063",
+        "6082",
+        "6101",
+        "7005"
+      ],
+      "apps": [
+        "Window and façade profiles",
+        "Rail and transport sections",
+        "Machine frames and guarding",
+        "Heat sinks",
+        "Handrail and ladder",
+        "Busbar and conductor"
+      ],
+      "faq": [
+        [
+          "Can you press a custom die?",
+          "Yes, to your drawing. Send the section with wall thickness and alloy; die cost and lead time are quoted alongside the extrusion price."
+        ],
+        [
+          "What temper do extrusions ship in?",
+          "T5 and T6 for 6xxx, O and H for 5xxx. The temper that suits the section is confirmed before the die is cut."
+        ],
+        [
+          "Is anodising included?",
+          "Anodising, cutting and drilling are all in house. Coating thickness and colour are agreed against a sample before the run."
+        ]
+      ]
+    }
   }
 }
